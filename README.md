@@ -5,8 +5,13 @@
 
 - 🔭 I’m currently working on Learning Management System (lms)
 - 🌱 I’m currently learning MERN Stack.
-- 👯 I’m looking to collaborate on any Open Source Python and Mern Stack Projects.
-- ⚡ Fun fact: Dark mode isn't a feature; it's a lifestyle 🌑👨‍💻
+- 👯 I’m looking to collaborate on any Open Source Py and MERN Stack Projects.
+
+**⚡ Fun Fact:**  
+
+<img src="https://img.shields.io/badge/Fun%20Fact-Dark%20Mode%20isn't%20a%20feature%3B%20it's%20a%20lifestyle-blue?style=for-the-badge" alt="Fun Fact" width="450"/>
+
+
 <h2>🚀 Languages and Tools</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -36,9 +41,10 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/noa-dave" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/_.noa.dave." style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="undefined@~noah_dave~" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DavisNOAH02&show_icons=true&locale=en" alt="DavisNOAH02" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DavisNOAH02&" alt="DavisNOAH02" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavisNOAH02&show_icons=true&locale=en&layout=compact" alt="DavisNOAH02" /></p>
+
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DavisNOAH02&show_icons=true&locale=en" alt="DavisNOAH02" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DavisNOAH02&" alt="DavisNOAH02" /></p>
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavisNOAH02&show_icons=true&locale=en&layout=compact" alt="DavisNOAH02" /></p>
 
 
 
