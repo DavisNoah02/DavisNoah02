@@ -3,28 +3,20 @@
 
  ``Building the Web 🌐, One Line of Code 💡 at a Time | Crafting Memorable Experiences 🛠️``
 
-
+<img align="right" alt="coding"  src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif " width="270" height= "270" />
 
 - 🔭 I’m currently working on Learning Management System (lms)
 - 🌱 I’m currently learning MERN Stack and LINUX at TryHackMe
 - 👯 I’m looking to collaborate on any Open Source Py and MERN Stack Projects.
-- 💬 Ask me about **REACT, JAVASCRIPT, AND**
+- 💬 Ask me about **REACT, JAVASCRIPT**
 - 📫 How to reach me **m.davenoa@gmail.com**
 
 **⚡ Fun Fact:**  
-
 <img src="https://img.shields.io/badge/Fun%20Fact-Dark%20Mode%20isn't%20a%20feature%3B%20it's%20a%20lifestyle-blue?style=for-the-badge" alt="Fun Fact" width="450"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/noah-munene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/noah-munene" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/noa-dave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noa-dave" height="30" width="40" /></a>
-<a href="https://instagram.com/_.noa.dave." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.noa.dave." height="30" width="40" /></a>
-<a href="https://hashnode.com/@noahdave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@noahdave" height="30" width="40" /></a>
-<a href="https://medium.com/@noahdavemunene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@noahdavemunene" height="30" width="40" /></a>
-</p>
 
-<h2>🚀 TECHSTACK and TOOLS</h2>
+
+<h2>🚀 TechStack and Tools</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -49,7 +41,17 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<hr/>
 
+<h3 align="left">  🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/noah-munene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/noah-munene" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/noa-dave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noa-dave" height="30" width="40" /></a>
+<a href="https://instagram.com/_.noa.dave." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.noa.dave." height="30" width="40" /></a>
+<a href="https://hashnode.com/@noahdave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@noahdave" height="30" width="40" /></a>
+<a href="https://medium.com/@noahdavemunene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@noahdavemunene" height="30" width="40" /></a>
+</p>
+<hr/>
 
 
  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DavisNOAH02&show_icons=true&locale=en" alt="DavisNOAH02" /></p>
