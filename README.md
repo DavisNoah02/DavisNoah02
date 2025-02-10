@@ -3,7 +3,7 @@
 
  ``Building the Web 🌐, One Line of Code 💡 at a Time | Crafting Memorable Experiences 🛠️``
 
-<img align="right" alt="coding"  src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif " width="270" height= "270" />
+<img align="right" alt="coding"  src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif " width="270" height= "250" />
 
 - 🔭 I’m currently working on Learning Management System (lms)
 - 🌱 I’m currently learning MERN Stack and LINUX at TryHackMe
