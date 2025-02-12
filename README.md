@@ -5,10 +5,12 @@
 
 <img align="right" alt="coding"  src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif " width="260" height= "240" />
 
-- 🔭 I’m currently working on Learning Management System (lms)
+<h2>About Me</h2>
+
+- 🔭 I’m currently working on a Learning Management System (LMS)
 - 🌱 I’m currently learning MERN Stack and LINUX at TryHackMe
 - 👯 I’m looking to collaborate on any Open Source Py and MERN Stack Projects.
-- 💬 Ask me about **REACT, JAVASCRIPT**
+- 💬 Ask me about **REACT, JAVASCRIPT, AWS **
 - 📫 How to reach me **m.davenoa@gmail.com**
 
 **⚡ Fun Fact:**  
