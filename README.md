@@ -5,12 +5,12 @@
 
 <img align="right" alt="coding"  src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif " width="260" height= "240" />
 
-<h2>About Me</h2>
+<h3> 🌈 About Me👤 </h3>
 
 - 🔭 I’m currently working on a Learning Management System (LMS)
-- 🌱 I’m currently learning MERN Stack and LINUX at TryHackMe
+- 🌱 I’m currently learning at ALX_KENYA ( Pro-Dev Backend Developer )
 - 👯 I’m looking to collaborate on any Open Source Py and MERN Stack Projects.
-- 💬 Ask me about **REACT, JAVASCRIPT, AWS **
+- 💬 Ask me about REACT, JAVASCRIPT, AWS DEVELOPER TOOLS.
 - 📫 How to reach me **m.davenoa@gmail.com**
 
 **⚡ Fun Fact:**  
@@ -50,7 +50,9 @@
 <a href="https://codepen.io/https://codepen.io/noah-munene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/noah-munene" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/noa-dave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noa-dave" height="30" width="40" /></a>
 <a href="https://instagram.com/_.noa.dave." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.noa.dave." height="30" width="40" /></a>
-<a href="https://hashnode.com/@noahdave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@noahdave" height="30" width="40" /></a>
+<a href="https://hashnode.com/@noahdave" target="blank">
+  <img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="@noahdave" height="30" width="40" />
+</a>
 <a href="https://medium.com/@noahdavemunene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@noahdavemunene" height="30" width="40" /></a>
 </p>
 <hr/>
