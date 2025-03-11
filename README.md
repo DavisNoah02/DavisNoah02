@@ -71,6 +71,6 @@
    
 ## ✨ Random Quote
 
-> "Take away love and our earth is a tomb."
+> "We love the things we love for what they are."
 
-— Robert Browning
+— Robert Frost
