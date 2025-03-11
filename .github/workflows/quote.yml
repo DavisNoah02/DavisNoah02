@@ -2,8 +2,8 @@ name: Update Random Quote in README
 
 on:
   schedule:
-    - cron: '*/40 * * * *'  # Runs every 40 minutes
-  workflow_dispatch:  # Allows manual triggering
+    - cron: '*/30 * * * *'  # Runs every 30 minutes
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   update-readme:
@@ -17,14 +17,25 @@ jobs:
           RESPONSE=$(curl -s "https://zenquotes.io/api/random")
           QUOTE=$(echo $RESPONSE | jq -r '.[0].q')
           AUTHOR=$(echo $RESPONSE | jq -r '.[0].a')
-          ESCAPED_QUOTE=$(echo "$QUOTE" | sed 's/ /+/g' | sed 's/"/%22/g')
-          ESCAPED_AUTHOR=$(echo "$AUTHOR" | sed 's/ /+/g')
+          ESCAPED_QUOTE=$(echo "$QUOTE" | sed 's/"/\\"/g')
+          ESCAPED_AUTHOR=$(echo "$AUTHOR" | sed 's/"/\\"/g')
           echo "QUOTE=$ESCAPED_QUOTE" >> $GITHUB_ENV
           echo "AUTHOR=$ESCAPED_AUTHOR" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          sed -i '/https:\/\/readme-typing-svg.herokuapp.com/c\  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=600&lines=%22'"$QUOTE"' %22+-+'"$AUTHOR"'" alt="Random Quote">' README.md
+          sed -i '/## ✨ Random Quote/,$d' README.md
+          echo '## ✨ Random Quote' >> README.md
+          echo '' >> README.md
+          echo '<div align="center">' >> README.md
+          echo '' >> README.md
+          echo '  <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">' >> README.md
+          echo '    💡 <strong>"'"$QUOTE"'"</strong>' >> README.md
+          echo '    <br>' >> README.md
+          echo '    <sub>— ✍️ <strong>'"$AUTHOR"'</strong></sub>' >> README.md
+          echo '  </blockquote>' >> README.md
+          echo '' >> README.md
+          echo '</div>' >> README.md
 
       - name: Commit and Push Changes
         run: |
