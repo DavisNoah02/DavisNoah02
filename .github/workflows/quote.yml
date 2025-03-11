@@ -1,8 +1,8 @@
 name: Update Random Quote in README
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Runs once a day at midnight UTC
-  workflow_dispatch:  # Allows you to manually trigger updates
+    - cron: '*/30 * * * *'  # Runs every 30 minutes
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   update-readme:
@@ -10,9 +10,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: Fetch Random Quote
+      - name: Fetch Random Quote (Using Zen Quotes API)
         run: |
-          curl -s https://api.quotable.io/random | jq -r '"## ✨ Random Quote\n\n> " + .content + "\n\n— " + .author' > QUOTE.md
+          curl -s https://zenquotes.io/api/random | jq -r '"## ✨ Random Quote\n\n> \"" + .[0].q + "\"\n\n— " + .[0].a' > QUOTE.md
       
       - name: Update README
         run: |
@@ -24,5 +24,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Updated random quote"
+          git commit -m "Updated random quote" || echo "No changes to commit"
           git push
