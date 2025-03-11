@@ -74,9 +74,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"A journey of a thousand miles must begin with a single step."</strong>
+    💡 <strong>"Originality is the fine art of remembering what you hear but forgetting where you heard it. "</strong>
     <br>
-    <sub>— ✍️ <strong>Lao Tzu</strong></sub>
+    <sub>— ✍️ <strong>Laurence J. Peter</strong></sub>
   </blockquote>
 
 </div>
