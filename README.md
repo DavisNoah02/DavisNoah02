@@ -20,9 +20,10 @@
 
 ## 🏆 My Certifications  
 
-| Certification | Badge | Verification |
+| 🌟Certification | 🏅Badge | 🔍Verification |
 |--------------|-------|--------------|
-| **AWS Certified Cloud Practitioner** | <img src="https://github.com/user-attachments/assets/7c9b0e68-4a30-4397-8958-1b76bd4ea046" width="100"> | [✨ **Verify Certificate** ✨](https://www.credly.com/badges/d92bbcc0-9575-47b5-bc25-ccfceb2fc494/linked_in_profile) |
+| **AWS Certified Cloud Practitioner** | <img src="https://github.com/user-attachments/assets/7c9b0e68-4a30-4397-8958-1b76bd4ea046" width="200"> | [![Verify](https://img.shields.io/badge/Verify%20Now-%E2%9C%85-neonblue?style=for-the-badge&logo=blockchaindotcom)](https://www.credly.com/badges/d92bbcc0-9575-47b5-bc25-ccfceb2fc494/linked_in_profile)|
+| **ALX AI Career Essentials** | <img src="https://alx-intranet-active-storage-production.s3.amazonaws.com/e9zs5ju4gwxogoyn6at4n436u6su?response-content-disposition=inline%3B%20filename%3D%2266-alx-aice-ai-career-essentials-certificate-noah-dave-munene.png%22%3B%20filename%2A%3DUTF-8%27%2766-alx-aice-ai-career-essentials-certificate-noah-dave-munene.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250311%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250311T200729Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=4a321ff16e3821b277156345bc44f114795127f8cecf84d20ab4b6057704365d" width="200"> | [![Verify](https://img.shields.io/badge/Verify%20Now-%E2%9C%85-neonblue?style=for-the-badge&logo=blockchaindotcom)](https://www.credly.com/badges/d92bbcc0-9575-47b5-bc25-ccfceb2fc494/linked_in_profile)
 
 <hr/>
 <h2>🚀 TechStack and Tools</h2>
