@@ -72,6 +72,13 @@
    
 ## ✨ Random Quote  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=600&lines=%22Do+what+you+feel+in+your+heart+to+be+right+-+for+you'll+be+criticized+anyway. %22+-+Eleanor+Roosevelt" alt="Random Quote">
-</p>
+<div align="center">
+
+  <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
+    💡 <strong>"Your random quote here..."</strong>
+    <br>
+    <sub>— ✍️ <strong>Author Name</strong></sub>
+  </blockquote>
+
+</div>
+
