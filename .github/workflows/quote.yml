@@ -12,13 +12,15 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Fetch Random Quote
+      - name: Fetch Random Quote from ZenQuotes API
         run: |
-          QUOTE=$(curl -s https://api.quotable.io/random | jq -r '.content')
-          AUTHOR=$(curl -s https://api.quotable.io/random | jq -r '.author')
+          RESPONSE=$(curl -s "https://zenquotes.io/api/random")
+          QUOTE=$(echo $RESPONSE | jq -r '.[0].q')
+          AUTHOR=$(echo $RESPONSE | jq -r '.[0].a')
           ESCAPED_QUOTE=$(echo "$QUOTE" | sed 's/ /+/g' | sed 's/"/%22/g')
+          ESCAPED_AUTHOR=$(echo "$AUTHOR" | sed 's/ /+/g')
           echo "QUOTE=$ESCAPED_QUOTE" >> $GITHUB_ENV
-          echo "AUTHOR=$AUTHOR" >> $GITHUB_ENV
+          echo "AUTHOR=$ESCAPED_AUTHOR" >> $GITHUB_ENV
 
       - name: Update README
         run: |
@@ -30,4 +32,4 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add README.md
           git commit -m "Updated random quote" || echo "No changes to commit"
-          git push
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
