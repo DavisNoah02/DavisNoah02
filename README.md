@@ -69,7 +69,7 @@
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavisNOAH02&show_icons=true&locale=en&layout=compact" alt="DavisNOAH02" /></p>
 
    
-
+## ✨ Random Quote 
 
 
 
