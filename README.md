@@ -70,8 +70,8 @@
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavisNOAH02&show_icons=true&locale=en&layout=compact" alt="DavisNOAH02" /></p>
 
    
-## ✨ Random Quote
+## ✨ Random Quote  
 
-> "We love the things we love for what they are."
-
-— Robert Frost
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=600&lines=%22Your+random+quote+here...%22" alt="Random Quote">
+</p>
