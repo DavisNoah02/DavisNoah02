@@ -73,5 +73,5 @@
 ## ✨ Random Quote  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=600&lines=%22Your+random+quote+here...%22" alt="Random Quote">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=600&lines=%22 %22+-+" alt="Random Quote">
 </p>
