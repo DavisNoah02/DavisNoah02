@@ -69,10 +69,8 @@
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavisNOAH02&show_icons=true&locale=en&layout=compact" alt="DavisNOAH02" /></p>
 
    
-## ✨ Random Quote 
+## ✨ Random Quote
 
+> "If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success."
 
-
-
-
-
+— Mark Manson
