@@ -1,32 +1,33 @@
 name: Update Random Quote in README
+
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Runs every 30 minutes
+    - cron: '*/40 * * * *'  # Runs every 40 minutes
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      
-      - name: Install jq (if missing)
-        run: sudo apt-get install -y jq
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      - name: Fetch Random Quote (Using Zen Quotes API)
+      - name: Fetch Random Quote
         run: |
-          curl -s https://zenquotes.io/api/random | jq -r '"## ✨ Random Quote\n\n> \"" + .[0].q + "\"\n\n— " + .[0].a' > QUOTE.md
-      
+          QUOTE=$(curl -s https://api.quotable.io/random | jq -r '.content')
+          AUTHOR=$(curl -s https://api.quotable.io/random | jq -r '.author')
+          ESCAPED_QUOTE=$(echo "$QUOTE" | sed 's/ /+/g' | sed 's/"/%22/g')
+          echo "QUOTE=$ESCAPED_QUOTE" >> $GITHUB_ENV
+          echo "AUTHOR=$AUTHOR" >> $GITHUB_ENV
+
       - name: Update README
         run: |
-          sed -i '/## ✨ Random Quote/,$d' README.md
-          cat QUOTE.md >> README.md
-      
+          sed -i '/https:\/\/readme-typing-svg.herokuapp.com/c\  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=600&lines=%22'"$QUOTE"' %22+-+'"$AUTHOR"'" alt="Random Quote">' README.md
+
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
           git commit -m "Updated random quote" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-
+          git push
