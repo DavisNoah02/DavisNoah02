@@ -16,8 +16,15 @@
 **⚡ Fun Fact:**  
 <img src="https://img.shields.io/badge/Fun%20Fact-Dark%20Mode%20isn't%20a%20feature%3B%20it's%20a%20lifestyle-blue?style=for-the-badge" alt="Fun Fact" width="450"/>
 
+<hr/>
 
+## 🏆 My Certifications  
 
+| Certification | Badge | Verification |
+|--------------|-------|--------------|
+| **AWS Certified Cloud Practitioner** | <img src="https://github.com/user-attachments/assets/7c9b0e68-4a30-4397-8958-1b76bd4ea046" width="100"> | [✨ **Verify Certificate** ✨](https://www.credly.com/badges/d92bbcc0-9575-47b5-bc25-ccfceb2fc494/linked_in_profile) |
+
+<hr/>
 <h2>🚀 TechStack and Tools</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -60,6 +67,10 @@
  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DavisNOAH02&show_icons=true&locale=en" alt="DavisNOAH02" /></p>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DavisNOAH02&" alt="DavisNOAH02" /></p>
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavisNOAH02&show_icons=true&locale=en&layout=compact" alt="DavisNOAH02" /></p>
+
+   
+
+
 
 
 
