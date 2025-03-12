@@ -74,9 +74,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Make your stand today. On this spot. On this day."</strong>
+    💡 <strong>"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored."</strong>
     <br>
-    <sub>— ✍️ <strong>Ming-Dao Deng</strong></sub>
+    <sub>— ✍️ <strong>Earl Nightingale</strong></sub>
   </blockquote>
 
 </div>
