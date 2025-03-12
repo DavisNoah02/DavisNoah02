@@ -74,9 +74,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."</strong>
+    💡 <strong>"A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view."</strong>
     <br>
-    <sub>— ✍️ <strong>Epictetus</strong></sub>
+    <sub>— ✍️ <strong>Alfred Adler</strong></sub>
   </blockquote>
 
 </div>
