@@ -74,9 +74,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The hardest arithmetic to master is that which enables us to count our blessings."</strong>
+    💡 <strong>"Learn to value yourself, which means: fight for your happiness."</strong>
     <br>
-    <sub>— ✍️ <strong>Eric Hoffer</strong></sub>
+    <sub>— ✍️ <strong>Ayn Rand</strong></sub>
   </blockquote>
 
 </div>
