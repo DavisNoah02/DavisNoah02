@@ -74,9 +74,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It is often safer to be in chains than to be free. "</strong>
+    💡 <strong>"Cherish forever what makes you unique, cuz you're really a yawn if it goes."</strong>
     <br>
-    <sub>— ✍️ <strong>Franz Kafka</strong></sub>
+    <sub>— ✍️ <strong>Bette Midler</strong></sub>
   </blockquote>
 
 </div>
