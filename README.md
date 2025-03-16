@@ -72,9 +72,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking."</strong>
+    💡 <strong>"Just do what must be done. This may not be happiness but it is greatness."</strong>
     <br>
-    <sub>— ✍️ <strong>Nicolas Chamfort</strong></sub>
+    <sub>— ✍️ <strong>George Bernard Shaw</strong></sub>
   </blockquote>
 
 </div>
