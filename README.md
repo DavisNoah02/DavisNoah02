@@ -53,7 +53,7 @@
 
 <h3 align="left">  🌐 Connect with me:</h3>
 <p align="left">
-<a href=" https://codepen.io/Noah-Munene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/noah-munene" height="30" width="40" /></a>
+<a href="https://codepen.io/Noah-Munene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codePen" height="30" width="40" /></a>
 <a href="https://noadave.hashnode.dev/" target="blank">
   <img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="@noahdave" height="30" width="40" />
 </a>
