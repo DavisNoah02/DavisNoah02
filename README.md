@@ -86,14 +86,13 @@
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
    
 ## ✨ Random Quote
+
 <div align="center">
 
-  <blockquote style="background-color:#1e1e1e; color:#ffffff; padding:20px; border-radius:12px; font-size:20px; width:85%; margin:auto; font-weight: bold;">
-    💡 <strong style="font-size:24px;">"Coming together is a beginning, staying together is progress, and working together is success."</strong>
+  <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
+    💡 <strong>"Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now."</strong>
     <br>
-    <sub style="font-size:18px; font-weight: bold;">— ✍️ <strong>Henry Ford</strong></sub>
+    <sub>— ✍️ <strong>Ralph Marston</strong></sub>
   </blockquote>
 
 </div>
-
-
