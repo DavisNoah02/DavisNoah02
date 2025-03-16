@@ -4,7 +4,7 @@
  ``Building the Web 🌐, One Line of Code 💡 at a Time | Crafting Memorable Experiences 🛠️``
 
 <img align="right" alt="coding"  src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif " width="260" height= "240" />
-
+<br>
 <h3> 🌈 About Me👤 </h3>
 
 - 🔭 I’m currently working on a Learning Management System (LMS)
@@ -12,10 +12,10 @@
 - 👯 I’m looking to collaborate on any Open Source Py and MERN Stack Projects.
 - 💬 Ask me about REACT, JAVASCRIPT, AWS DEVELOPER TOOLS.
 - 📫 How to reach me **m.davenoa@gmail.com**
-
-**⚡ Fun Fact:**  
+<br>
+  ⚡ Fun Fact: 
 <img src="https://img.shields.io/badge/Fun%20Fact-Dark%20Mode%20isn't%20a%20feature%3B%20it's%20a%20lifestyle-blue?style=for-the-badge" alt="Fun Fact" width="450"/>
-
+<br>
 <hr/>
 
 ## 🏆 My Certifications  
@@ -25,8 +25,8 @@
 | **AWS Certified Cloud Practitioner** | <img src="https://github.com/user-attachments/assets/7c9b0e68-4a30-4397-8958-1b76bd4ea046" width="180"> | [![Verify](https://img.shields.io/badge/Verify%20Now-%E2%9C%85-neonblue?style=for-the-badge&logo=blockchaindotcom)](https://www.credly.com/badges/d92bbcc0-9575-47b5-bc25-ccfceb2fc494/linked_in_profile)|
 | **ALX AI Career Essentials** | <img src="https://alx-intranet-active-storage-production.s3.amazonaws.com/e9zs5ju4gwxogoyn6at4n436u6su?response-content-disposition=inline%3B%20filename%3D%2266-alx-aice-ai-career-essentials-certificate-noah-dave-munene.png%22%3B%20filename%2A%3DUTF-8%27%2766-alx-aice-ai-career-essentials-certificate-noah-dave-munene.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250311%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250311T200729Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=4a321ff16e3821b277156345bc44f114795127f8cecf84d20ab4b6057704365d" width="200"> | [![Verify](https://img.shields.io/badge/Verify%20Now-%E2%9C%85-neonblue?style=for-the-badge&logo=blockchaindotcom)](https://www.credly.com/badges/d92bbcc0-9575-47b5-bc25-ccfceb2fc494/linked_in_profile)
 
-<hr/>
-<h2>🚀 TechStack and Tools</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> 🚀 TechStack and Tools</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -50,31 +50,50 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <hr/>
+<br>
+<h2>
+  🌐 Connect with Me
+</h2>
 
-<h3 align="left">  🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/Noah-Munene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codePen" height="30" width="40" /></a>
-<a href="https://noadave.hashnode.dev/" target="blank">
-  <img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="@noahdave" height="30" width="40" />
-</a>
-<a href="https://medium.com/@noahdavemunene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@noahdavemunene" height="30" width="40" /></a>
+
+<p align="center">
+  <a href="https://codepen.io/Noah-Munene" title="CodePen">
+    <img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="30"/>
+  </a>
+  <a href="https://noadave.hashnode.dev/" title="Hashnode">
+    <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="30"/>
+  </a>
+  <a href="https://medium.com/@noahdavemunene" title="Medium">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30"/>
+  </a>
+  <a href="https://www.instagram.com/t3ch.savvy/" title="Instagram">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+  </a>
+  <a href="https://www.tiktok.com/@_noa.dave_" title="TikTok">
+    <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/noa-dave-36567b356/" title="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
 </p>
-<hr/>
+<br>
 
-
+# 📊 My Stats:
  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DavisNOAH02&show_icons=true&locale=en" alt="DavisNOAH02" /></p>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DavisNOAH02&" alt="DavisNOAH02" /></p>
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavisNOAH02&show_icons=true&locale=en&layout=compact" alt="DavisNOAH02" /></p>
 
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
    
 ## ✨ Random Quote
-
 <div align="center">
 
-  <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."</strong>
+  <blockquote style="background-color:#1e1e1e; color:#ffffff; padding:20px; border-radius:12px; font-size:20px; width:85%; margin:auto; font-weight: bold;">
+    💡 <strong style="font-size:24px;">"Coming together is a beginning, staying together is progress, and working together is success."</strong>
     <br>
-    <sub>— ✍️ <strong>Ming-Dao Deng</strong></sub>
+    <sub style="font-size:18px; font-weight: bold;">— ✍️ <strong>Henry Ford</strong></sub>
   </blockquote>
 
 </div>
+
+
