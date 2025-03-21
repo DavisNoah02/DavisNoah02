@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The measure of who we are is what we do with what we have."</strong>
+    💡 <strong>"Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with."</strong>
     <br>
-    <sub>— ✍️ <strong>Vince Lombardi</strong></sub>
+    <sub>— ✍️ <strong>Woody Allen</strong></sub>
   </blockquote>
 
 </div>
