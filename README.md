@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It isn't what you do, but how you do it."</strong>
+    💡 <strong>"All men are equal before fish."</strong>
     <br>
-    <sub>— ✍️ <strong>John Wooden</strong></sub>
+    <sub>— ✍️ <strong>Herbert Hoover</strong></sub>
   </blockquote>
 
 </div>
