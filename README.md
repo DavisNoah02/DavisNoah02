@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"When you are totally at peace with yourself, nothing can shake you."</strong>
+    💡 <strong>"The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!"</strong>
     <br>
-    <sub>— ✍️ <strong>Deepam Chaterjee</strong></sub>
+    <sub>— ✍️ <strong>Tony Robbins</strong></sub>
   </blockquote>
 
 </div>
