@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!"</strong>
+    💡 <strong>"A warrior does not give up what he loves, he finds the love in what he does."</strong>
     <br>
-    <sub>— ✍️ <strong>Tony Robbins</strong></sub>
+    <sub>— ✍️ <strong>Dan Millman</strong></sub>
   </blockquote>
 
 </div>
