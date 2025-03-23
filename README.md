@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"A warrior does not give up what he loves, he finds the love in what he does."</strong>
+    💡 <strong>"Go confidently in the direction of your dreams! Live the life you've imagined."</strong>
     <br>
-    <sub>— ✍️ <strong>Dan Millman</strong></sub>
+    <sub>— ✍️ <strong>Henry David Thoreau</strong></sub>
   </blockquote>
 
 </div>
