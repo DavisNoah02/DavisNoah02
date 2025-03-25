@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Lust, anger and greed are the three gates to self-destructive hell."</strong>
+    💡 <strong>"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus."</strong>
     <br>
-    <sub>— ✍️ <strong>Bhagavad Gita</strong></sub>
+    <sub>— ✍️ <strong>Alexander Graham Bell</strong></sub>
   </blockquote>
 
 </div>
