@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Nature is pleased with simplicity. And nature is no dummy."</strong>
+    💡 <strong>"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."</strong>
     <br>
-    <sub>— ✍️ <strong>Isaac Newton</strong></sub>
+    <sub>— ✍️ <strong>Steve Maraboli</strong></sub>
   </blockquote>
 
 </div>
