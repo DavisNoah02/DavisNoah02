@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Force has no place where there is need of skill. "</strong>
+    💡 <strong>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</strong>
     <br>
-    <sub>— ✍️ <strong>Herodotus</strong></sub>
+    <sub>— ✍️ <strong>Stephen King</strong></sub>
   </blockquote>
 
 </div>
