@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding."</strong>
+    💡 <strong>"Strive for excellence, not perfection, because we don't live in a perfect world."</strong>
     <br>
-    <sub>— ✍️ <strong>John D. Rockefeller</strong></sub>
+    <sub>— ✍️ <strong>Joyce Meyer</strong></sub>
   </blockquote>
 
 </div>
