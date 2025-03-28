@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Have the fearless attitude of a hero and the loving heart of a child."</strong>
+    💡 <strong>"The less you talk about your shame, the more of it you have."</strong>
     <br>
-    <sub>— ✍️ <strong>Soyen Shaku</strong></sub>
+    <sub>— ✍️ <strong>Mark Manson</strong></sub>
   </blockquote>
 
 </div>
