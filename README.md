@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"He who is not contented with what he has, would not be contented with what he would like to have."</strong>
+    💡 <strong>"We shape clay into a pot, but it is the emptiness inside that holds whatever we want."</strong>
     <br>
-    <sub>— ✍️ <strong>Socrates</strong></sub>
+    <sub>— ✍️ <strong>Lao Tzu</strong></sub>
   </blockquote>
 
 </div>
