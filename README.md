@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Far and away the best prize that life has to offer is the chance to work hard at work worth doing."</strong>
+    💡 <strong>"Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend."</strong>
     <br>
-    <sub>— ✍️ <strong>Theodore Roosevelt</strong></sub>
+    <sub>— ✍️ <strong>Zen Proverb</strong></sub>
   </blockquote>
 
 </div>
