@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"In order to be irreplaceable one must always be different."</strong>
+    💡 <strong>"Never lose hope. Storms make people stronger and never last forever."</strong>
     <br>
-    <sub>— ✍️ <strong>Coco Chanel</strong></sub>
+    <sub>— ✍️ <strong>Roy T. Bennett</strong></sub>
   </blockquote>
 
 </div>
