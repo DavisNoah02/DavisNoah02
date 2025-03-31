@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided."</strong>
+    💡 <strong>"You know you are on the road to success if you would do your job and not be paid for it."</strong>
     <br>
-    <sub>— ✍️ <strong>Tony Robbins</strong></sub>
+    <sub>— ✍️ <strong>Oprah Winfrey</strong></sub>
   </blockquote>
 
 </div>
