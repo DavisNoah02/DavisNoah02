@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"When one does not have what one wants, one must want what one has."</strong>
+    💡 <strong>"A good stance and posture reflect a proper state of mind."</strong>
     <br>
-    <sub>— ✍️ <strong>Sigmund Freud</strong></sub>
+    <sub>— ✍️ <strong>Morihei Ueshiba</strong></sub>
   </blockquote>
 
 </div>
