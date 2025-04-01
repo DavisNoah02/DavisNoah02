@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</strong>
+    💡 <strong>"Don't be pushed by your problems; be led by your dreams."</strong>
     <br>
-    <sub>— ✍️ <strong>Maxime Lagace</strong></sub>
+    <sub>— ✍️ <strong>Unknown</strong></sub>
   </blockquote>
 
 </div>
