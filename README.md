@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"We learn to walk by falling down. If we never fell down, we would never walk."</strong>
+    💡 <strong>"Your mind will make you rich or poor, depending on the use you put to it."</strong>
     <br>
-    <sub>— ✍️ <strong>Robert Kiyosaki</strong></sub>
+    <sub>— ✍️ <strong>Brian Tracy</strong></sub>
   </blockquote>
 
 </div>
