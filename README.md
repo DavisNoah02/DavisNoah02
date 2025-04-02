@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"20 percent of your activities will account for 80 percent of your results."</strong>
+    💡 <strong>"No man ever steps in the same river twice, for it's not the same river and he's not the same man."</strong>
     <br>
-    <sub>— ✍️ <strong>Brian Tracy</strong></sub>
+    <sub>— ✍️ <strong>Heraclitus</strong></sub>
   </blockquote>
 
 </div>
