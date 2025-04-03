@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Meditate. It won't be fun but it will surface what you need to deal with."</strong>
+    💡 <strong>"I skate to where the puck is going to be, not where it has been."</strong>
     <br>
-    <sub>— ✍️ <strong>Naval Ravikant</strong></sub>
+    <sub>— ✍️ <strong>Wayne Gretzky</strong></sub>
   </blockquote>
 
 </div>
