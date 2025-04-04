@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for."</strong>
+    💡 <strong>"For all evils there are two remedies - time and silence."</strong>
     <br>
-    <sub>— ✍️ <strong>Socrates</strong></sub>
+    <sub>— ✍️ <strong>Alexandre Dumas</strong></sub>
   </blockquote>
 
 </div>
