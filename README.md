@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."</strong>
+    💡 <strong>"Life is 10% what happens to you and 90% how you react to it. "</strong>
     <br>
-    <sub>— ✍️ <strong>Robert Kiyosaki</strong></sub>
+    <sub>— ✍️ <strong>Charles Swindoll</strong></sub>
   </blockquote>
 
 </div>
