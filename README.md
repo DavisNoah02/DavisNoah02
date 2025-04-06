@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Everything great that has ever happened to humanity has begun as a single thought in someone's mind."</strong>
+    💡 <strong>"A dream you dream alone is only a dream. A dream you dream together is reality."</strong>
     <br>
-    <sub>— ✍️ <strong>Yanni</strong></sub>
+    <sub>— ✍️ <strong>Yoko Ono</strong></sub>
   </blockquote>
 
 </div>
