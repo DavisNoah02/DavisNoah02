@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Good, better, best. Never let it rest. 'Til your good is better and your better is best. "</strong>
+    💡 <strong>"All problems are interpersonal relationship problems."</strong>
     <br>
-    <sub>— ✍️ <strong>St. Jerome</strong></sub>
+    <sub>— ✍️ <strong>Alfred Adler</strong></sub>
   </blockquote>
 
 </div>
