@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The time is always right to do what is right."</strong>
+    💡 <strong>"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."</strong>
     <br>
-    <sub>— ✍️ <strong>Martin Luther King, Jr.</strong></sub>
+    <sub>— ✍️ <strong>John Tukey</strong></sub>
   </blockquote>
 
 </div>
