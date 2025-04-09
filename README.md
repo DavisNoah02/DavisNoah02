@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Quality means doing it right when no one is looking."</strong>
+    💡 <strong>"People do not decide their futures, they decide their habits and their habits decide their futures."</strong>
     <br>
-    <sub>— ✍️ <strong>Henry Ford</strong></sub>
+    <sub>— ✍️ <strong>Gary Keller</strong></sub>
   </blockquote>
 
 </div>
