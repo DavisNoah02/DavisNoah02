@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Life reflects your own thoughts back to you."</strong>
+    💡 <strong>"If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin."</strong>
     <br>
-    <sub>— ✍️ <strong>Napoleon Hill</strong></sub>
+    <sub>— ✍️ <strong>Charles Darwin</strong></sub>
   </blockquote>
 
 </div>
