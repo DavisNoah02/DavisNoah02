@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy."</strong>
+    💡 <strong>"Of all men's miseries the bitterest is this: to know so much and to have control over nothing. "</strong>
     <br>
-    <sub>— ✍️ <strong>Norman Vincent Peale</strong></sub>
+    <sub>— ✍️ <strong>Herodotus</strong></sub>
   </blockquote>
 
 </div>
