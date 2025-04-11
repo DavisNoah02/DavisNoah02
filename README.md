@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Anyone who reads a book with a sense of obligation does not understand the art of reading."</strong>
+    💡 <strong>"I have lived with several Zen masters -- all of them cats."</strong>
     <br>
-    <sub>— ✍️ <strong>Lin Yutang</strong></sub>
+    <sub>— ✍️ <strong>Eckhart Tolle</strong></sub>
   </blockquote>
 
 </div>
