@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Instead of thinking outside the box, get rid of the box."</strong>
+    💡 <strong>"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."</strong>
     <br>
-    <sub>— ✍️ <strong>Deepak Chopra</strong></sub>
+    <sub>— ✍️ <strong>Lao Tzu</strong></sub>
   </blockquote>
 
 </div>
