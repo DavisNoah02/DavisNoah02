@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us."</strong>
+    💡 <strong>"The older you get, the more you understand how your conscience works."</strong>
     <br>
-    <sub>— ✍️ <strong>Socrates</strong></sub>
+    <sub>— ✍️ <strong>Criss Jami</strong></sub>
   </blockquote>
 
 </div>
