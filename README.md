@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Definiteness of purpose is the starting point of all achievement. "</strong>
+    💡 <strong>"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."</strong>
     <br>
-    <sub>— ✍️ <strong>W. Clement Stone</strong></sub>
+    <sub>— ✍️ <strong>Bob Proctor</strong></sub>
   </blockquote>
 
 </div>
