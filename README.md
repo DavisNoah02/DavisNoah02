@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The primary cause of unhappiness is never the situation but your thoughts about it."</strong>
+    💡 <strong>"Preoccupied with a single leaf you won't see the tree."</strong>
     <br>
-    <sub>— ✍️ <strong>Eckhart Tolle</strong></sub>
+    <sub>— ✍️ <strong>Unknown</strong></sub>
   </blockquote>
 
 </div>
