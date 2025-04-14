@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you have only one smile in you give it to the people you love."</strong>
+    💡 <strong>"Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. "</strong>
     <br>
-    <sub>— ✍️ <strong>Maya Angelou</strong></sub>
+    <sub>— ✍️ <strong>Denis Waitley</strong></sub>
   </blockquote>
 
 </div>
