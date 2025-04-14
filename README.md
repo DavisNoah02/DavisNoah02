@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. "</strong>
+    💡 <strong>"The heart wants what it wants - or else it does not care."</strong>
     <br>
-    <sub>— ✍️ <strong>Paramahansa Yogananda</strong></sub>
+    <sub>— ✍️ <strong>Emily Dickinson</strong></sub>
   </blockquote>
 
 </div>
