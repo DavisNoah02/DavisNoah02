@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"He who laughs at himself never runs out of things to laugh at."</strong>
+    💡 <strong>"Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. "</strong>
     <br>
-    <sub>— ✍️ <strong>Epictetus</strong></sub>
+    <sub>— ✍️ <strong>Paramahansa Yogananda</strong></sub>
   </blockquote>
 
 </div>
