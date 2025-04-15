@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."</strong>
+    💡 <strong>"A man is but a product of his thoughts. What he thinks he becomes."</strong>
     <br>
-    <sub>— ✍️ <strong>Helen Keller</strong></sub>
+    <sub>— ✍️ <strong>Mahatma Gandhi</strong></sub>
   </blockquote>
 
 </div>
