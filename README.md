@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it."</strong>
+    💡 <strong>"Be the change that you want to see in the world."</strong>
     <br>
-    <sub>— ✍️ <strong>Alexandre Dumas</strong></sub>
+    <sub>— ✍️ <strong>Mahatma Gandhi</strong></sub>
   </blockquote>
 
 </div>
