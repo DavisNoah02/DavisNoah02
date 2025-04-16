@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Never fear quarrels, but seek hazardous adventures."</strong>
+    💡 <strong>"You don't earn loyalty in a day. You earn loyalty day-by-day."</strong>
     <br>
-    <sub>— ✍️ <strong>Alexandre Dumas</strong></sub>
+    <sub>— ✍️ <strong>Jeffrey Gitomer</strong></sub>
   </blockquote>
 
 </div>
