@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It's very strange that the people you love are often the people you're most cruel to."</strong>
+    💡 <strong>"Life is what you make it. Always has been, always will be."</strong>
     <br>
-    <sub>— ✍️ <strong>Kenneth Branagh</strong></sub>
+    <sub>— ✍️ <strong>Eleanor Roosevelt</strong></sub>
   </blockquote>
 
 </div>
