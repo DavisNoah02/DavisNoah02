@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Things may come to those who wait, but only the things left by those who hustle."</strong>
+    💡 <strong>"Don´t hesitate or allow yourself to make excuses. Just get out and do it."</strong>
     <br>
-    <sub>— ✍️ <strong>Abraham Lincoln</strong></sub>
+    <sub>— ✍️ <strong>Christopher McCandless</strong></sub>
   </blockquote>
 
 </div>
