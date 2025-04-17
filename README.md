@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You will succeed because most people are lazy."</strong>
+    💡 <strong>"You cannot always control what goes on outside. But you can always control what goes on inside. "</strong>
     <br>
-    <sub>— ✍️ <strong>Shahir Zag</strong></sub>
+    <sub>— ✍️ <strong>Wayne Dyer</strong></sub>
   </blockquote>
 
 </div>
