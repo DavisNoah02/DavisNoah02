@@ -93,9 +93,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Everybody by your side ain't on your side."</strong>
+    💡 <strong>"When you have a dream, you've got to grab it and never let go."</strong>
     <br>
-    <sub>— ✍️ <strong>Steve Harvey</strong></sub>
+    <sub>— ✍️ <strong>Carol Burnett</strong></sub>
   </blockquote>
 
 </div>
