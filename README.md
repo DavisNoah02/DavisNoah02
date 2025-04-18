@@ -1,35 +1,63 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=80&color=gradient&section=header&fontAlign=20&fontAlignY=44&descAlign=22&descAlignY=26&reversal=true&fontSize=30&textBg=false&fontColor=21a01b&animation=twinkling&rotate=-3&strokeWidth=7&descSize=0" />
+</p>
+
+
 
 <h1>Hi 👋, I'm  noa_dave</h1>
+<p align="right"> 
+ <img src="https://komarev.com/ghpvc/?username=noa-dave&style=flat-square&color=blueviolet" alt="Profile Views"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=A+Fullstack+Web+Dev+In+Progress;Cloud,+Backend,+AI+Fanboy!&center=true&width=500&height=50&color=7B6BFF&vCenter=true&size=24" />
+</p>
 
  ``Building the Web 🌐, One Line of Code 💡 at a Time | Crafting Memorable Experiences 🛠️``
 
-<img align="right" alt="coding"  src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif " width="260" height= "240" />
-<br>
+<img align="right" alt="code"  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="360" height= "240" />
+
+<be>
+
 <h3> 🌈 About Me👤 </h3>
 
 - 🔭 I’m currently working on a Learning Management System (LMS)
 - 🌱 I’m currently learning at ALX_KENYA ( Pro-Dev Backend Developer )
-- 👯 I’m looking to collaborate on any Open Source Py and MERN Stack Projects.
+- 👯 I want to collaborate on any open-source Py and MERN Stack Projects.
 - 💬 Ask me about REACT, JAVASCRIPT, AWS DEVELOPER TOOLS.
 - 📫 How to reach me **m.davenoa@gmail.com**
 <br>
   ⚡ Fun Fact: 
 <img src="https://img.shields.io/badge/Fun%20Fact-Dark%20Mode%20isn't%20a%20feature%3B%20it's%20a%20lifestyle-blue?style=for-the-badge" alt="Fun Fact" width="450"/>
-<br>
+<be>
+
 <hr/>
 
 ## 🌟 Certifications
 
-| Certification | 🏅 Badge | 🔍 Verification |
-|--------------|---------|----------------|
-| **AWS Certified Cloud Practitioner** | <img src="https://github.com/user-attachments/assets/7c9b0e68-4a30-4397-8958-1b76bd4ea046" width="180"> | [![Verify](https://img.shields.io/badge/Verify%20Now-%E2%9C%85-neonblue?style=for-the-badge&logo=blockchaindotcom)](https://www.credly.com/badges/d92bbcc0-9575-47b5-bc25-ccfceb2fc494/linked_in_profile) |
-| **ALX AI Career Essentials** | <img src="https://intranet.alxswe.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHpxRGc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--be789788d518c9d1b1d3939d6388d2d4df016bb4/66-alx-aice-ai-career-essentials-certificate-noah-dave-munene.png" width="200"> | [![Verify](https://img.shields.io/badge/Verify%20Now-%E2%9C%85-neonblue?style=for-the-badge&logo=blockchaindotcom)](https://intranet.alxswe.com/certificates/R82sr3ehnG) |
+| Certification | 🏅 Badge | ⏳ Duration | 🔍 Verification |
+|--------------|---------|------------|----------------|
+| **AWS Certified Cloud Practitioner** | <img src="https://github.com/user-attachments/assets/7c9b0e68-4a30-4397-8958-1b76bd4ea046" width="180"> | 5 months | [![Verify](https://img.shields.io/badge/Verify%20Now-%E2%9C%85-neonblue?style=for-the-badge&logo=blockchaindotcom)](https://www.credly.com/badges/d92bbcc0-9575-47b5-bc25-ccfceb2fc494/linked_in_profile) |
+| **ALX AI Career Essentials** | <img src="https://intranet.alxswe.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHpxRGc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--be789788d518c9d1b1d3939d6388d2d4df016bb4/66-alx-aice-ai-career-essentials-certificate-noah-dave-munene.png" width="200"> | 6 weeks | [![Verify](https://img.shields.io/badge/Verify%20Now-%E2%9C%85-neonblue?style=for-the-badge&logo=blockchaindotcom)](https://intranet.alxswe.com/certificates/R82sr3ehnG) |
+| **ALX Professional Foundations** | <img src="https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd0lJSmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8a41eebdfd1d89b7c2d4f894c2f512332c17a286/89-professional-foundations-certificate-noah-munene.png" width="200"> | 3 months | [![Verify](https://img.shields.io/badge/Verify%20Now-%E2%9C%85-neonblue?style=for-the-badge&logo=blockchaindotcom)](https://intranet.alxswe.com/certificates/YM256BJf8e) |
 
 
 
+ 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> 🚀 TechStack and Tools</h2>
+
+<p align="center" style="font-size: 40px; font-weight: bold; color: #FF5733;">
+  🌟 <strong>Top Tech Stack</strong> 🌟
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&size=32&center=true&vCenter=true&width=400&height=50&lines=JS%2C+React%2C+Node.js" alt="Tech Stack" />
+</p>
+
+
+
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -91,11 +119,21 @@
 ## ✨ Random Quote
 
 <div align="center">
-
+  
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Surrender to what is. Let go of what was. Have faith in what will be."</strong>
+    💡 <strong>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</strong>
     <br>
-    <sub>— ✍️ <strong>Sonia Ricotti</strong></sub>
+    <sub>— ✍️ <strong>Gurbaksh Chahal</strong></sub>
   </blockquote>
+<br>
+<br>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&text={%20noa.dave%20}&section=footer&fontAlign=43&fontAlignY=27&descAlign=22&descAlignY=26&reversal=false&fontSize=30&textBg=false&fontColor=21a01b&animation=twinkling&stroke=881ad5&rotate=-3&strokeWidth=2&descSize=0"/>
+</p>
+
+
+
+
+
+
