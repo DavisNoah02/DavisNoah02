@@ -119,21 +119,11 @@
 ## ✨ Random Quote
 
 <div align="center">
-  
+
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</strong>
+    💡 <strong>"Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has."</strong>
     <br>
-    <sub>— ✍️ <strong>Gurbaksh Chahal</strong></sub>
+    <sub>— ✍️ <strong>Margaret Mead</strong></sub>
   </blockquote>
-<br>
-<br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&text={%20noa.dave%20}&section=footer&fontAlign=43&fontAlignY=27&descAlign=22&descAlignY=26&reversal=false&fontSize=30&textBg=false&fontColor=21a01b&animation=twinkling&stroke=881ad5&rotate=-3&strokeWidth=2&descSize=0"/>
-</p>
-
-
-
-
-
-
+</div>
