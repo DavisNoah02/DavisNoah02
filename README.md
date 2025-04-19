@@ -121,9 +121,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry."</strong>
+    💡 <strong>"Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome."</strong>
     <br>
-    <sub>— ✍️ <strong>Celestine Chua</strong></sub>
+    <sub>— ✍️ <strong>Dan Millman</strong></sub>
   </blockquote>
 
 </div>
