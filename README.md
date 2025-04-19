@@ -121,9 +121,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome."</strong>
+    💡 <strong>"Waste no more time arguing about what a good man should be. Be one."</strong>
     <br>
-    <sub>— ✍️ <strong>Dan Millman</strong></sub>
+    <sub>— ✍️ <strong>Marcus Aurelius</strong></sub>
   </blockquote>
 
 </div>
