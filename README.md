@@ -121,9 +121,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The real measure of your wealth is how much you'd be worth if you lost all your money."</strong>
+    💡 <strong>"The world is open for play, everything and everybody is mockable in a wonderful way."</strong>
     <br>
-    <sub>— ✍️ <strong>Unknown</strong></sub>
+    <sub>— ✍️ <strong>Robin Williams</strong></sub>
   </blockquote>
 
 </div>
