@@ -117,7 +117,10 @@
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
    
 ## ✨ Random Quote
-
+</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2eec0f%20&text={noa.dave}&section=footer&fontAlign=33&fontAlignY=29&animation=twinkling&rotate=-5&fontSize=30&reversal=false&fontColor=77c636%20&textBg=false&descAlign=26&descAlignY=43" />
+</p>
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
