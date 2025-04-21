@@ -121,9 +121,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"There is only one thing that makes a dream impossible to achieve: the fear of failure."</strong>
+    💡 <strong>"The less you try to impress, the more peaceful you can be."</strong>
     <br>
-    <sub>— ✍️ <strong>Paulo Coelho</strong></sub>
+    <sub>— ✍️ <strong>Maxime Lagace</strong></sub>
   </blockquote>
 
 </div>
