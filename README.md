@@ -121,9 +121,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Don't think money does everything or you are going to end up doing everything for money."</strong>
+    💡 <strong>"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to."</strong>
     <br>
-    <sub>— ✍️ <strong>Voltaire</strong></sub>
+    <sub>— ✍️ <strong>Kahlil Gibran</strong></sub>
   </blockquote>
 
 </div>
