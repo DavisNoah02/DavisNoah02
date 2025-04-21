@@ -121,9 +121,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people."</strong>
+    💡 <strong>"The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches."</strong>
     <br>
-    <sub>— ✍️ <strong>Jack Butcher</strong></sub>
+    <sub>— ✍️ <strong>Ming-Dao Deng</strong></sub>
   </blockquote>
 
 </div>
