@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The greatest gift that you can give to others is the gift of unconditional love and acceptance. "</strong>
+    💡 <strong>"Don't seek, don't search, don't ask, don't knock, don't demand - relax."</strong>
     <br>
-    <sub>— ✍️ <strong>Brian Tracy</strong></sub>
+    <sub>— ✍️ <strong>Osho</strong></sub>
   </blockquote>
 
 </div>
