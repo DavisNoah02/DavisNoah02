@@ -121,9 +121,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Confidence is the greatest friend."</strong>
+    💡 <strong>"What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that."</strong>
     <br>
-    <sub>— ✍️ <strong>Lao Tzu</strong></sub>
+    <sub>— ✍️ <strong>Eckhart Tolle</strong></sub>
   </blockquote>
 
 </div>
