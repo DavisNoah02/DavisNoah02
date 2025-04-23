@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Peace is letting it be. Letting life flow, letting emotions flow through you."</strong>
+    💡 <strong>"We cannot always do great things in life, but we can do small things with great love."</strong>
     <br>
-    <sub>— ✍️ <strong>Kamal Ravikant</strong></sub>
+    <sub>— ✍️ <strong>Dan Millman</strong></sub>
   </blockquote>
 
 </div>
