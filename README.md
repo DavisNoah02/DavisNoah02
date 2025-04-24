@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"However difficult life may seem, there is always something you can do and succeed at."</strong>
+    💡 <strong>"Humans and prosperity never endure side by side for long."</strong>
     <br>
-    <sub>— ✍️ <strong>Stephen Hawking</strong></sub>
+    <sub>— ✍️ <strong>Herodotus</strong></sub>
   </blockquote>
 
 </div>
