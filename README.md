@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Stop comparing yourself to others and focus on your own improvement."</strong>
+    💡 <strong>"Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along."</strong>
     <br>
-    <sub>— ✍️ <strong>Lolly Daskal</strong></sub>
+    <sub>— ✍️ <strong>Celestine Chua</strong></sub>
   </blockquote>
 
 </div>
