@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You can do two things at once, but you can't focus effectively on two things at once."</strong>
+    💡 <strong>"Desire for the fruits of work must never be your motive in working."</strong>
     <br>
-    <sub>— ✍️ <strong>Gary Keller</strong></sub>
+    <sub>— ✍️ <strong>Bhagavad Gita</strong></sub>
   </blockquote>
 
 </div>
