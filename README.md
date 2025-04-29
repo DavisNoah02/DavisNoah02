@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"All human beings can alter their lives by altering their attitudes."</strong>
+    💡 <strong>"Human behavior flows from three main sources: desire, emotion, and knowledge."</strong>
     <br>
-    <sub>— ✍️ <strong>Andrew Carnegie</strong></sub>
+    <sub>— ✍️ <strong>Plato</strong></sub>
   </blockquote>
 
 </div>
