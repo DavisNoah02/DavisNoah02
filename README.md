@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</strong>
+    💡 <strong>"I don't walk away from things that I think are unfinished."</strong>
     <br>
-    <sub>— ✍️ <strong>Charles Darwin</strong></sub>
+    <sub>— ✍️ <strong>Arnold Schwarzenegger</strong></sub>
   </blockquote>
 
 </div>
