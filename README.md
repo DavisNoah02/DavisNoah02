@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush."</strong>
+    💡 <strong>"In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists."</strong>
     <br>
-    <sub>— ✍️ <strong>Rumi</strong></sub>
+    <sub>— ✍️ <strong>Eric Hoffer</strong></sub>
   </blockquote>
 
 </div>
