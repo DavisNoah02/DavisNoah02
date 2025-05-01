@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Riches don't make a man rich, they only make him busier."</strong>
+    💡 <strong>"When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. "</strong>
     <br>
-    <sub>— ✍️ <strong>Christopher Columbus</strong></sub>
+    <sub>— ✍️ <strong>Charles Swindoll</strong></sub>
   </blockquote>
 
 </div>
