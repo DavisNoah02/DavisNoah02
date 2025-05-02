@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Against the assault of laughter nothing can stand."</strong>
+    💡 <strong>"The world only exists in your eyes. You can make it as big or as small as you want."</strong>
     <br>
-    <sub>— ✍️ <strong>Mark Twain</strong></sub>
+    <sub>— ✍️ <strong>F. Scott Fitzgerald</strong></sub>
   </blockquote>
 
 </div>
