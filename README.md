@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"To know even one life has breathed easier because you have lived. This is to have succeeded."</strong>
+    💡 <strong>"To be angry is to revenge the faults of others on ourselves."</strong>
     <br>
-    <sub>— ✍️ <strong>Ralph Waldo Emerson</strong></sub>
+    <sub>— ✍️ <strong>Alexander Pope</strong></sub>
   </blockquote>
 
 </div>
