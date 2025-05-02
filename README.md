@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</strong>
+    💡 <strong>"Don't stumble over something that's behind you."</strong>
     <br>
-    <sub>— ✍️ <strong>Nicolas Chamfort</strong></sub>
+    <sub>— ✍️ <strong>Steve Harvey</strong></sub>
   </blockquote>
 
 </div>
