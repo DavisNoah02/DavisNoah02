@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It is during our darkest moments that we must focus to see the light."</strong>
+    💡 <strong>"The goal of an artist is to create the definitive work that cannot be surpassed."</strong>
     <br>
-    <sub>— ✍️ <strong>Aristotle</strong></sub>
+    <sub>— ✍️ <strong>George Bernard Shaw</strong></sub>
   </blockquote>
 
 </div>
