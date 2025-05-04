@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Doing what you love is the cornerstone of having abundance in your life. "</strong>
+    💡 <strong>"Success is not to be pursued, it is to be attracted by the person you become."</strong>
     <br>
-    <sub>— ✍️ <strong>Wayne Dyer</strong></sub>
+    <sub>— ✍️ <strong>Jim Rohn</strong></sub>
   </blockquote>
 
 </div>
