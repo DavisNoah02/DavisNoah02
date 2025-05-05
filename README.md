@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Discipline is the bridge between goals and accomplishment."</strong>
+    💡 <strong>"You need a plan to build a house. To build a life, it is even more important to have a plan or goal."</strong>
     <br>
-    <sub>— ✍️ <strong>Jim Rohn</strong></sub>
+    <sub>— ✍️ <strong>Zig Ziglar</strong></sub>
   </blockquote>
 
 </div>
