@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</strong>
+    💡 <strong>"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you."</strong>
     <br>
-    <sub>— ✍️ <strong>Sydney Smith</strong></sub>
+    <sub>— ✍️ <strong>Simon Sinek</strong></sub>
   </blockquote>
 
 </div>
