@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you want peace, accept. If you want suffering, expect."</strong>
+    💡 <strong>"People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."</strong>
     <br>
-    <sub>— ✍️ <strong>Maxime Lagace</strong></sub>
+    <sub>— ✍️ <strong>David Brinkley</strong></sub>
   </blockquote>
 
 </div>
