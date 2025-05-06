@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Work for something because it is good, not just because it stands a chance to succeed."</strong>
+    💡 <strong>"Where does a thought go when it's forgotten?"</strong>
     <br>
-    <sub>— ✍️ <strong>Vaclav Havel</strong></sub>
+    <sub>— ✍️ <strong>Sigmund Freud</strong></sub>
   </blockquote>
 
 </div>
