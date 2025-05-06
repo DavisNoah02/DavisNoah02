@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"To lose your temper is only useful once a year."</strong>
+    💡 <strong>"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength."</strong>
     <br>
-    <sub>— ✍️ <strong>Colin R. Davis</strong></sub>
+    <sub>— ✍️ <strong>Criss Jami</strong></sub>
   </blockquote>
 
 </div>
