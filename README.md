@@ -45,7 +45,7 @@
 | Certification | 🏅 Badge | ⏳ Duration | 🔍 Verification |
 |--------------|---------|------------|----------------|
 | **AWS Certified Cloud Practitioner** | <img src="https://github.com/user-attachments/assets/7c9b0e68-4a30-4397-8958-1b76bd4ea046" width="180"> | 5 months | [![Verify](https://img.shields.io/badge/Verify%20Now-%E2%9C%85-neonblue?style=for-the-badge&logo=blockchaindotcom)](https://www.credly.com/badges/d92bbcc0-9575-47b5-bc25-ccfceb2fc494/linked_in_profile) |
-| **ALX AI Career Essentials** | <img src="https://intranet.alxswe.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHpxRGc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--be789788d518c9d1b1d3939d6388d2d4df016bb4/66-alx-aice-ai-career-essentials-certificate-noah-dave-munene.png" width="200"> | 6 weeks | [![Verify](https://img.shields.io/badge/Verify%20Now-%E2%9C%85-neonblue?style=for-the-badge&logo=blockchaindotcom)](https://intranet.alxswe.com/certificates/R82sr3ehnG) |
+| **ALX AI Career Essentials** | <img src="https://github.com/user-attachments/assets/33476b21-a3ea-4e9c-b178-b98efc3f3a2a" width="200"> | 6 weeks | [![Verify](https://img.shields.io/badge/Verify%20Now-%E2%9C%85-neonblue?style=for-the-badge&logo=blockchaindotcom)](https://intranet.alxswe.com/certificates/R82sr3ehnG) |
 | **ALX Professional Foundations** | <img src="https://github.com/user-attachments/assets/11135dbb-e1d7-498f-8504-1ae5980ebc6d" width="200"> | 3 months | [![Verify](https://img.shields.io/badge/Verify%20Now-%E2%9C%85-neonblue?style=for-the-badge&logo=blockchaindotcom)](https://intranet.alxswe.com/certificates/YM256BJf8e) |
 
 
