@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Surrender to what is. Let go of what was. Have faith in what will be."</strong>
+    💡 <strong>"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."</strong>
     <br>
-    <sub>— ✍️ <strong>Sonia Ricotti</strong></sub>
+    <sub>— ✍️ <strong>Paulo Coelho</strong></sub>
   </blockquote>
 
 </div>
