@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Don't be afraid that you do not know something. Be afraid of not learning about it."</strong>
+    💡 <strong>"Words used to attract the dull of wit are not to be relied on."</strong>
     <br>
-    <sub>— ✍️ <strong>Zen Proverb</strong></sub>
+    <sub>— ✍️ <strong>Huang Po</strong></sub>
   </blockquote>
 
 </div>
