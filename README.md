@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Walk towards the sunshine, and the shadows will fall behind you."</strong>
+    💡 <strong>"Be strong. Be confident. Be the star of your own life."</strong>
     <br>
-    <sub>— ✍️ <strong>Mary Engelbreit</strong></sub>
+    <sub>— ✍️ <strong>Estee Lauder</strong></sub>
   </blockquote>
 
 </div>
