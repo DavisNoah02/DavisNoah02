@@ -26,7 +26,7 @@
 
 <be>
 
-<h2>  About Me 👤 </h2>
+<h3>  <b>About Me </b> 👤 </h3>
 
 - 🔭 I’m currently working on a Learning Management System (LMS)
 - 🌱 I’m currently learning at ALX_KENYA ( Pro-Dev Backend Developer )
