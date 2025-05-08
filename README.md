@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The only place where success comes before work is in the dictionary."</strong>
+    💡 <strong>"Life needs to be more than just solving problems every day. You need to wake up and be excited about the future."</strong>
     <br>
-    <sub>— ✍️ <strong>Vidal Sassoon</strong></sub>
+    <sub>— ✍️ <strong>Elon Musk</strong></sub>
   </blockquote>
 
 </div>
