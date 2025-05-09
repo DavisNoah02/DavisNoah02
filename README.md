@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Wisdom is doing now what you are going to be happy with later on."</strong>
+    💡 <strong>"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."</strong>
     <br>
-    <sub>— ✍️ <strong>Joyce Meyer</strong></sub>
+    <sub>— ✍️ <strong>Buddha</strong></sub>
   </blockquote>
 
 </div>
