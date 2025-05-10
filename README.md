@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"A diamond is a piece of charcoal that handled stress exceptionally well."</strong>
+    💡 <strong>"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. "</strong>
     <br>
-    <sub>— ✍️ <strong>Unknown</strong></sub>
+    <sub>— ✍️ <strong>George Washington</strong></sub>
   </blockquote>
 
 </div>
