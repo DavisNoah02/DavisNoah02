@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Love the life you live, live the life you love."</strong>
+    💡 <strong>"Nature loves to hide."</strong>
     <br>
-    <sub>— ✍️ <strong>Bob Marley</strong></sub>
+    <sub>— ✍️ <strong>Heraclitus</strong></sub>
   </blockquote>
 
 </div>
