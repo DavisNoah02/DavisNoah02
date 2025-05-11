@@ -129,7 +129,7 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Genius is the ability to act rightly without precedent - the power to do the right thing the first time."</strong>
+    💡 <strong>"Allow motion to equal emotion."</strong>
     <br>
     <sub>— ✍️ <strong>Elbert Hubbard</strong></sub>
   </blockquote>
