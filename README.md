@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</strong>
+    💡 <strong>"But better die than live mechanically a life that is a repetition of repetitions."</strong>
     <br>
-    <sub>— ✍️ <strong>Roy T. Bennett</strong></sub>
+    <sub>— ✍️ <strong>D. H. Lawrence</strong></sub>
   </blockquote>
 
 </div>
