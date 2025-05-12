@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away."</strong>
+    💡 <strong>"Every moment of happiness requires a great amount of Ignorance"</strong>
     <br>
-    <sub>— ✍️ <strong>John Lennon</strong></sub>
+    <sub>— ✍️ <strong>Honore de Balzac</strong></sub>
   </blockquote>
 
 </div>
