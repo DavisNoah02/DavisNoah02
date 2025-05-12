@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you believe you can, you can. If you believe you can't, then, well you can't."</strong>
+    💡 <strong>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</strong>
     <br>
-    <sub>— ✍️ <strong>Celestine Chua</strong></sub>
+    <sub>— ✍️ <strong>Gurbaksh Chahal</strong></sub>
   </blockquote>
 
 </div>
