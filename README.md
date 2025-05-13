@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Peace is the result of retraining your mind to process life as it is, rather than as you think it should be. "</strong>
+    💡 <strong>"Try not to become a man of success, but rather try to become a man of value."</strong>
     <br>
-    <sub>— ✍️ <strong>Wayne Dyer</strong></sub>
+    <sub>— ✍️ <strong>Albert Einstein</strong></sub>
   </blockquote>
 
 </div>
