@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality."</strong>
+    💡 <strong>"We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."</strong>
     <br>
-    <sub>— ✍️ <strong>Vaclav Havel</strong></sub>
+    <sub>— ✍️ <strong>Emily Dickinson</strong></sub>
   </blockquote>
 
 </div>
