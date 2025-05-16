@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The truth is rarely pure and never simple. "</strong>
+    💡 <strong>"Failure means you've now learned another valuable lesson that pushes you one step closer to success."</strong>
     <br>
-    <sub>— ✍️ <strong>Oscar Wilde</strong></sub>
+    <sub>— ✍️ <strong>Steve Harvey</strong></sub>
   </blockquote>
 
 </div>
