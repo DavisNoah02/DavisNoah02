@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You can't build a reputation on what you are going to do. "</strong>
+    💡 <strong>"You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this."</strong>
     <br>
-    <sub>— ✍️ <strong>Henry Ford</strong></sub>
+    <sub>— ✍️ <strong>Henry David Thoreau</strong></sub>
   </blockquote>
 
 </div>
