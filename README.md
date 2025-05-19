@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time."</strong>
+    💡 <strong>"Turn off your mind, relax, and float downstream."</strong>
     <br>
-    <sub>— ✍️ <strong>Thomas Jefferson</strong></sub>
+    <sub>— ✍️ <strong>John Lennon</strong></sub>
   </blockquote>
 
 </div>
