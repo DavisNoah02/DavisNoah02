@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."</strong>
+    💡 <strong>"A wise man can learn more from a foolish question than a fool can learn from a wise answer. "</strong>
     <br>
-    <sub>— ✍️ <strong>Rumi</strong></sub>
+    <sub>— ✍️ <strong>Bruce Lee</strong></sub>
   </blockquote>
 
 </div>
