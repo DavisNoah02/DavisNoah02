@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The more I want to get something done, the less I call it work."</strong>
+    💡 <strong>"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor."</strong>
     <br>
-    <sub>— ✍️ <strong>Richard Bach</strong></sub>
+    <sub>— ✍️ <strong>Thich Nhat Hanh</strong></sub>
   </blockquote>
 
 </div>
