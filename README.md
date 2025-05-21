@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become."</strong>
+    💡 <strong>"Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."</strong>
     <br>
-    <sub>— ✍️ <strong>Paramahansa Yogananda</strong></sub>
+    <sub>— ✍️ <strong>William Faulkner</strong></sub>
   </blockquote>
 
 </div>
