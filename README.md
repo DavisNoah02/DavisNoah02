@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"There can be no deep disappointment where there is not deep love."</strong>
+    💡 <strong>"Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. "</strong>
     <br>
-    <sub>— ✍️ <strong>Martin Luther King, Jr.</strong></sub>
+    <sub>— ✍️ <strong>Eckhart Tolle</strong></sub>
   </blockquote>
 
 </div>
