@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You are not stuck where you are unless you decide to be. "</strong>
+    💡 <strong>"Respect is earned by effort not age, all things age without effort."</strong>
     <br>
-    <sub>— ✍️ <strong>Wayne Dyer</strong></sub>
+    <sub>— ✍️ <strong>C. Sean McGee</strong></sub>
   </blockquote>
 
 </div>
