@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The whole of life, from the moment you are born to the moment you die, is a process of learning."</strong>
+    💡 <strong>"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."</strong>
     <br>
-    <sub>— ✍️ <strong>Jiddu Krishnamurti</strong></sub>
+    <sub>— ✍️ <strong>Roy T. Bennett</strong></sub>
   </blockquote>
 
 </div>
