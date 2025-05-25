@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"A memory is a beautiful thing, it's almost a desire that you miss."</strong>
+    💡 <strong>"Only in the agony of parting do we look into the depths of love."</strong>
     <br>
-    <sub>— ✍️ <strong>Gustave Flaubert</strong></sub>
+    <sub>— ✍️ <strong>George Eliot</strong></sub>
   </blockquote>
 
 </div>
