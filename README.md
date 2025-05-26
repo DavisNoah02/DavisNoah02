@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The greatest treasures are those invisible to the eye but found by the heart."</strong>
+    💡 <strong>"The final mystery is oneself."</strong>
     <br>
-    <sub>— ✍️ <strong>Judy Garland</strong></sub>
+    <sub>— ✍️ <strong>Oscar Wilde</strong></sub>
   </blockquote>
 
 </div>
