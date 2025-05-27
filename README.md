@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You purchase pain with all that joy can give and die of nothing but a rage to live."</strong>
+    💡 <strong>"Inner peace is when you realize that, in the end, nothing matters."</strong>
     <br>
-    <sub>— ✍️ <strong>Alexander Pope</strong></sub>
+    <sub>— ✍️ <strong>Maxime Lagace</strong></sub>
   </blockquote>
 
 </div>
