@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"For all evils there are two remedies - time and silence."</strong>
+    💡 <strong>"The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive."</strong>
     <br>
-    <sub>— ✍️ <strong>Alexandre Dumas</strong></sub>
+    <sub>— ✍️ <strong>Herodotus</strong></sub>
   </blockquote>
 
 </div>
