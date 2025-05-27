@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Those who seek the easy way do not seek the true way."</strong>
+    💡 <strong>"Success is about creating value."</strong>
     <br>
-    <sub>— ✍️ <strong>Dogen</strong></sub>
+    <sub>— ✍️ <strong>Candice Carpenter</strong></sub>
   </blockquote>
 
 </div>
