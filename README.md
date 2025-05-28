@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Circumstances rule men; men do not rule circumstances. "</strong>
+    💡 <strong>"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes."</strong>
     <br>
-    <sub>— ✍️ <strong>Herodotus</strong></sub>
+    <sub>— ✍️ <strong>Carl Jung</strong></sub>
   </blockquote>
 
 </div>
