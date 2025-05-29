@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The wiser you get, the less you care to look like a fool."</strong>
+    💡 <strong>"It's not the love you make. It's the love you give. "</strong>
     <br>
-    <sub>— ✍️ <strong>Maxime Lagace</strong></sub>
+    <sub>— ✍️ <strong>Nikola Tesla</strong></sub>
   </blockquote>
 
 </div>
