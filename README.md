@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You give but little when you give of your possessions. It is when you give of yourself that you truly give."</strong>
+    💡 <strong>"Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love."</strong>
     <br>
-    <sub>— ✍️ <strong>Kahlil Gibran</strong></sub>
+    <sub>— ✍️ <strong>Morihei Ueshiba</strong></sub>
   </blockquote>
 
 </div>
