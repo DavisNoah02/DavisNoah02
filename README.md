@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Life is 10% what happens to you and 90% how you react to it. "</strong>
+    💡 <strong>"There is a big difference between being centered and being self-centered."</strong>
     <br>
-    <sub>— ✍️ <strong>Charles Swindoll</strong></sub>
+    <sub>— ✍️ <strong>Lolly Daskal</strong></sub>
   </blockquote>
 
 </div>
