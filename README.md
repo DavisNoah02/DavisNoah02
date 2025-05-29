@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying."</strong>
+    💡 <strong>"If you see someone without a smile give them one of yours."</strong>
     <br>
-    <sub>— ✍️ <strong>Ming-Dao Deng</strong></sub>
+    <sub>— ✍️ <strong>Unknown</strong></sub>
   </blockquote>
 
 </div>
