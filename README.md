@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"I've always tried to go a step past wherever people expected me to end up."</strong>
+    💡 <strong>"Live in the sunshine, swim the sea, drink the wild air."</strong>
     <br>
-    <sub>— ✍️ <strong>Beverly Sills</strong></sub>
+    <sub>— ✍️ <strong>Ralph Waldo Emerson</strong></sub>
   </blockquote>
 
 </div>
