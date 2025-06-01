@@ -129,9 +129,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"We are all born ignorant, but one must work hard to remain stupid."</strong>
+    💡 <strong>"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"</strong>
     <br>
-    <sub>— ✍️ <strong>Benjamin Franklin</strong></sub>
+    <sub>— ✍️ <strong>Charles Darwin</strong></sub>
   </blockquote>
 
 </div>
