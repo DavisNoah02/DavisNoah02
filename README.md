@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service."</strong>
+    💡 <strong>"To seek is to suffer. To seek nothing is bliss."</strong>
     <br>
-    <sub>— ✍️ <strong>Earl Nightingale</strong></sub>
+    <sub>— ✍️ <strong>Bodhidharma</strong></sub>
   </blockquote>
 
 </div>
