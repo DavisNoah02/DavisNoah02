@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"There is little success where there is little laughter."</strong>
+    💡 <strong>"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound."</strong>
     <br>
-    <sub>— ✍️ <strong>Andrew Carnegie</strong></sub>
+    <sub>— ✍️ <strong>James Allen</strong></sub>
   </blockquote>
 
 </div>
