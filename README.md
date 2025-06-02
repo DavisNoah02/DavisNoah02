@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Growth is in a series of mistakes. That's the only way you learn."</strong>
+    💡 <strong>"The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. "</strong>
     <br>
-    <sub>— ✍️ <strong>Steve Harvey</strong></sub>
+    <sub>— ✍️ <strong>Orison Swett Marden</strong></sub>
   </blockquote>
 
 </div>
