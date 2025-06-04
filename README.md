@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed."</strong>
+    💡 <strong>"A dream doesn't become reality through magic it takes sweat, determination and hard work."</strong>
     <br>
-    <sub>— ✍️ <strong>Deepak Chopra</strong></sub>
+    <sub>— ✍️ <strong>Colin Powell</strong></sub>
   </blockquote>
 
 </div>
