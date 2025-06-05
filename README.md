@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage."</strong>
+    💡 <strong>"If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness."</strong>
     <br>
-    <sub>— ✍️ <strong>Celestine Chua</strong></sub>
+    <sub>— ✍️ <strong>Unknown</strong></sub>
   </blockquote>
 
 </div>
