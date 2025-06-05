@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The best of us sometimes eat our words. "</strong>
+    💡 <strong>"Peace is the result of retraining your mind to process life as it is, rather than as you think it should be. "</strong>
     <br>
-    <sub>— ✍️ <strong>Albus Dumbledore</strong></sub>
+    <sub>— ✍️ <strong>Wayne Dyer</strong></sub>
   </blockquote>
 
 </div>
