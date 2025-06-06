@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Management is doing things right; leadership is doing the right things."</strong>
+    💡 <strong>"The best thing to hold onto in life is each other."</strong>
     <br>
-    <sub>— ✍️ <strong>Peter Drucker</strong></sub>
+    <sub>— ✍️ <strong>Audrey Hepburn</strong></sub>
   </blockquote>
 
 </div>
