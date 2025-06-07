@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Hold yourself responsible for a higher standard than anybody else expects of you."</strong>
+    💡 <strong>"Don't let the noise of others opinions drown out your inner voice."</strong>
     <br>
-    <sub>— ✍️ <strong>Henry Ward Beecher</strong></sub>
+    <sub>— ✍️ <strong>Steve Jobs</strong></sub>
   </blockquote>
 
 </div>
