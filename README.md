@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The majority of what you want will come from the minority of what you do."</strong>
+    💡 <strong>"You are what you believe in. You become that which you believe you can become."</strong>
     <br>
-    <sub>— ✍️ <strong>Gary Keller</strong></sub>
+    <sub>— ✍️ <strong>Bhagavad Gita</strong></sub>
   </blockquote>
 
 </div>
