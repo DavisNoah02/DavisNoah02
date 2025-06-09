@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life."</strong>
+    💡 <strong>"If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems."</strong>
     <br>
-    <sub>— ✍️ <strong>Eleanor Roosevelt</strong></sub>
+    <sub>— ✍️ <strong>Robert Kiyosaki</strong></sub>
   </blockquote>
 
 </div>
