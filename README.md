@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"He is not a lover who does not love forever."</strong>
+    💡 <strong>"He will win who knows when to fight and when not to fight."</strong>
     <br>
-    <sub>— ✍️ <strong>Euripides</strong></sub>
+    <sub>— ✍️ <strong>Sun Tzu</strong></sub>
   </blockquote>
 
 </div>
