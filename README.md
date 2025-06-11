@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on."</strong>
+    💡 <strong>"The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become."</strong>
     <br>
-    <sub>— ✍️ <strong>Criss Jami</strong></sub>
+    <sub>— ✍️ <strong>Heraclitus</strong></sub>
   </blockquote>
 
 </div>
