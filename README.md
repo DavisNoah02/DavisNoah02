@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Success in any endeavor depends on the degree to which it is an expression of your true self. "</strong>
+    💡 <strong>"In the end, it's not the years in your life that count. It's the life in your years."</strong>
     <br>
-    <sub>— ✍️ <strong>Ralph Marston</strong></sub>
+    <sub>— ✍️ <strong>Abraham Lincoln</strong></sub>
   </blockquote>
 
 </div>
