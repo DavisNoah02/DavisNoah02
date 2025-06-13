@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Man should fear never beginning to live."</strong>
+    💡 <strong>"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less."</strong>
     <br>
-    <sub>— ✍️ <strong>Marcus Aurelius</strong></sub>
+    <sub>— ✍️ <strong>Dan Millman</strong></sub>
   </blockquote>
 
 </div>
