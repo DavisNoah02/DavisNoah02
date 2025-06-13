@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Action is the foundational key to all success."</strong>
+    💡 <strong>"All men who have achieved great things have been great dreamers. "</strong>
     <br>
-    <sub>— ✍️ <strong>Pablo Picasso</strong></sub>
+    <sub>— ✍️ <strong>Orison Swett Marden</strong></sub>
   </blockquote>
 
 </div>
