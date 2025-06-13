@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"A hero is an ordinary person doing things in an extra ordinary way."</strong>
+    💡 <strong>"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts. Let it go. It is not serving you."</strong>
     <br>
-    <sub>— ✍️ <strong>Christopher Reeve</strong></sub>
+    <sub>— ✍️ <strong>Sonia Ricotti</strong></sub>
   </blockquote>
 
 </div>
