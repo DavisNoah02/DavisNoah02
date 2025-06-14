@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The quieter you become, the more you are able to hear."</strong>
+    💡 <strong>"Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have."</strong>
     <br>
-    <sub>— ✍️ <strong>Rumi</strong></sub>
+    <sub>— ✍️ <strong>Norman Vincent Peale</strong></sub>
   </blockquote>
 
 </div>
