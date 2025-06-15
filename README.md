@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It is dangerous to be right in matters on which the established authorities are wrong."</strong>
+    💡 <strong>"Don't ever save anything for a special occasion. Being alive is the special occasion."</strong>
     <br>
-    <sub>— ✍️ <strong>Voltaire</strong></sub>
+    <sub>— ✍️ <strong>Mary Engelbreit</strong></sub>
   </blockquote>
 
 </div>
