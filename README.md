@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The future will be shaped by those willing to commit their minds and their bodies to the task."</strong>
+    💡 <strong>"The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest."</strong>
     <br>
-    <sub>— ✍️ <strong>Robert F. Kennedy</strong></sub>
+    <sub>— ✍️ <strong>Josh Waitzkin</strong></sub>
   </blockquote>
 
 </div>
