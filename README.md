@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends."</strong>
+    💡 <strong>"Science can flourish only in an atmosphere of free speech. "</strong>
     <br>
-    <sub>— ✍️ <strong>Albus Dumbledore</strong></sub>
+    <sub>— ✍️ <strong>Albert Einstein</strong></sub>
   </blockquote>
 
 </div>
