@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."</strong>
+    💡 <strong>"It is useless to attempt to reason a man out of a thing he was never reasoned into."</strong>
     <br>
-    <sub>— ✍️ <strong>Jeffrey Gitomer</strong></sub>
+    <sub>— ✍️ <strong>Jonathan Swift</strong></sub>
   </blockquote>
 
 </div>
