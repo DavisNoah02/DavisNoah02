@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Trust in dreams, for in them is the hidden gate to eternity. "</strong>
+    💡 <strong>"I think self-awareness is probably the most important thing towards being a champion. "</strong>
     <br>
-    <sub>— ✍️ <strong>Kahlil Gibran</strong></sub>
+    <sub>— ✍️ <strong>Billie Jean King</strong></sub>
   </blockquote>
 
 </div>
