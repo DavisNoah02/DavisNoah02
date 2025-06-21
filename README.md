@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Find your Light; They can't love you if they can't see you."</strong>
+    💡 <strong>"To be truly ignorant, be content with your own knowledge."</strong>
     <br>
-    <sub>— ✍️ <strong>Bette Midler</strong></sub>
+    <sub>— ✍️ <strong>Zhuangzi</strong></sub>
   </blockquote>
 
 </div>
