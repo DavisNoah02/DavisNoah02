@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The quality of your life is the quality of your relationships."</strong>
+    💡 <strong>"Quality means doing it right when no one is looking."</strong>
     <br>
-    <sub>— ✍️ <strong>Tony Robbins</strong></sub>
+    <sub>— ✍️ <strong>Henry Ford</strong></sub>
   </blockquote>
 
 </div>
