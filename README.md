@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"One beam, no matter how big, cannot support an entire house on its own."</strong>
+    💡 <strong>"A tiny change today brings a dramatically different tomorrow."</strong>
     <br>
-    <sub>— ✍️ <strong>Chinese Proverb</strong></sub>
+    <sub>— ✍️ <strong>Richard Bach</strong></sub>
   </blockquote>
 
 </div>
