@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness."</strong>
+    💡 <strong>"It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way."</strong>
     <br>
-    <sub>— ✍️ <strong>Steve Maraboli</strong></sub>
+    <sub>— ✍️ <strong>Alan Watts</strong></sub>
   </blockquote>
 
 </div>
