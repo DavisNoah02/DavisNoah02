@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It is not enough to win a war; it is more important to organize the peace."</strong>
+    💡 <strong>"Understanding that rests in what it does not understand is the finest."</strong>
     <br>
-    <sub>— ✍️ <strong>Aristotle</strong></sub>
+    <sub>— ✍️ <strong>Zhuangzi</strong></sub>
   </blockquote>
 
 </div>
