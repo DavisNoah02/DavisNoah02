@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way."</strong>
+    💡 <strong>"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."</strong>
     <br>
-    <sub>— ✍️ <strong>Alan Watts</strong></sub>
+    <sub>— ✍️ <strong>Celestine Chua</strong></sub>
   </blockquote>
 
 </div>
