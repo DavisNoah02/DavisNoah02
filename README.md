@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"People will forget what you said, people will forget what you did, but people will never forget how you made them feel."</strong>
+    💡 <strong>"To belittle, you have to be little."</strong>
     <br>
-    <sub>— ✍️ <strong>Maya Angelou</strong></sub>
+    <sub>— ✍️ <strong>Kahlil Gibran</strong></sub>
   </blockquote>
 
 </div>
