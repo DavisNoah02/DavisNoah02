@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing."</strong>
+    💡 <strong>"Small men think they are small; great men never know they are great. "</strong>
     <br>
-    <sub>— ✍️ <strong>Theodore Roosevelt</strong></sub>
+    <sub>— ✍️ <strong>Chinese Proverb</strong></sub>
   </blockquote>
 
 </div>
