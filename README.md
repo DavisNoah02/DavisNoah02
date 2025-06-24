@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you are unable to find the truth right where you are, where else do you expect to find it?"</strong>
+    💡 <strong>"The meaning of life is that it stops."</strong>
     <br>
-    <sub>— ✍️ <strong>Dogen</strong></sub>
+    <sub>— ✍️ <strong>Franz Kafka</strong></sub>
   </blockquote>
 
 </div>
