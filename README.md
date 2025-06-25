@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner."</strong>
+    💡 <strong>"Doing what you love is the cornerstone of having abundance in your life. "</strong>
     <br>
-    <sub>— ✍️ <strong>Sonia Ricotti</strong></sub>
+    <sub>— ✍️ <strong>Wayne Dyer</strong></sub>
   </blockquote>
 
 </div>
