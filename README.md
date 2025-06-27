@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"In the end, it's not the years in your life that count. It's the life in your years."</strong>
+    💡 <strong>"The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings."</strong>
     <br>
-    <sub>— ✍️ <strong>Abraham Lincoln</strong></sub>
+    <sub>— ✍️ <strong>Henry Ward Beecher</strong></sub>
   </blockquote>
 
 </div>
