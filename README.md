@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work."</strong>
+    💡 <strong>"Life is a succession of lessons, which must be lived to be understood."</strong>
     <br>
-    <sub>— ✍️ <strong>Ralph Marston</strong></sub>
+    <sub>— ✍️ <strong>Ralph Waldo Emerson</strong></sub>
   </blockquote>
 
 </div>
