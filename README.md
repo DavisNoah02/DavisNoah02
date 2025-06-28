@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The most wasted day of all is that on which we have not laughed."</strong>
+    💡 <strong>"It doesn't matter what you do, only how well you do it."</strong>
     <br>
-    <sub>— ✍️ <strong>Nicolas Chamfort</strong></sub>
+    <sub>— ✍️ <strong>Dan Millman</strong></sub>
   </blockquote>
 
 </div>
