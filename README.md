@@ -145,9 +145,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future."</strong>
+    💡 <strong>"Most people spend more time and energy going around problems than in trying to solve them. "</strong>
     <br>
-    <sub>— ✍️ <strong>Earl Nightingale</strong></sub>
+    <sub>— ✍️ <strong>Henry Ford</strong></sub>
   </blockquote>
 
 </div>
