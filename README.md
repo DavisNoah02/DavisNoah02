@@ -145,19 +145,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Every time we liberate a woman, we liberate a man. "</strong>
+    💡 <strong>"Whatever you are, be a good one."</strong>
     <br>
-    <sub>— ✍️ <strong>Margaret Mead</strong></sub>
+    <sub>— ✍️ <strong>Abraham Lincoln</strong></sub>
   </blockquote>
 
 </div>
-<be>
-
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-<p align="center"> 
-  <a href="" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/Happy%20hacking-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-</p>
-
