@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"He is richest who is content with the least, for content is the wealth of nature."</strong>
+    💡 <strong>"Every time we liberate a woman, we liberate a man. "</strong>
     <br>
-    <sub>— ✍️ <strong>Socrates</strong></sub>
+    <sub>— ✍️ <strong>Margaret Mead</strong></sub>
   </blockquote>
 
 </div>
