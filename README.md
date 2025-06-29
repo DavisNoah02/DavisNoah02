@@ -5,6 +5,7 @@
 
 
 <h1>Hi 👋, I'm  noa_dave</h1>
+
 <p align="right"> 
  <img src="https://komarev.com/ghpvc/?username=noa-dave&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </p>
@@ -150,3 +151,13 @@
   </blockquote>
 
 </div>
+<be>
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<p align="center"> 
+  <a href="" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Happy%20hacking-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
+
