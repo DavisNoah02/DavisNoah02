@@ -144,9 +144,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"We must not sit down and wait for miracles. Up and be going!"</strong>
+    💡 <strong>"Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death."</strong>
     <br>
-    <sub>— ✍️ <strong>John Eliot</strong></sub>
+    <sub>— ✍️ <strong>Socrates</strong></sub>
   </blockquote>
 
 </div>
