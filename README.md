@@ -145,9 +145,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Love your enemies, for they tell you your faults."</strong>
+    💡 <strong>"The traveler sees what he sees. The tourist sees what he has come to see."</strong>
     <br>
-    <sub>— ✍️ <strong>Benjamin Franklin</strong></sub>
+    <sub>— ✍️ <strong>Gilbert Chesterton</strong></sub>
   </blockquote>
 
 </div>
