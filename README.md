@@ -145,9 +145,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The desire for more positive experience is itself a negative experience."</strong>
+    💡 <strong>"The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time."</strong>
     <br>
-    <sub>— ✍️ <strong>Mark Manson</strong></sub>
+    <sub>— ✍️ <strong>Dan Millman</strong></sub>
   </blockquote>
 
 </div>
