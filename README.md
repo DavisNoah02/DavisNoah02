@@ -145,26 +145,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Leadership starts at the top."</strong>
+    💡 <strong>"Quiet people have the loudest minds."</strong>
     <br>
-    <sub>— ✍️ <strong>Morgan Wootten</strong></sub>
+    <sub>— ✍️ <strong>Stephen Hawking</strong></sub>
   </blockquote>
 
-</div> <br> <br>
-
-
-<h2 align="center"><i>🔨 Build. ✅ Test. 🚀 Ship.</i></h2>
-
-<p align="center">
-  <a href="https://linktr.ee/noahdave" target="_blank">
-    <img alt="Connect with me" src="https://img.shields.io/badge/Connect%20with%20me-00C896?style=for-the-badge&logo=linktree&logoColor=white" width="200" />
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/7vtB7fMkpd" target="_blank">
-    <img alt="Join our Discord" src="https://img.shields.io/badge/Join%20our%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="220" />
-  </a>
-</p>
-
-
-
-
+</div>
