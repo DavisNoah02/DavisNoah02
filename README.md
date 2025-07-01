@@ -1,5 +1,5 @@
 
-<h1>Hi There👋, I'm  noa_dave</h1>
+<h1>Hi there👋, I'm  noa_dave</h1>
 
 <p align="right"> 
  <img src="https://komarev.com/ghpvc/?username=noa-dave&style=flat-square&color=blueviolet" alt="Profile Views"/>
@@ -20,8 +20,14 @@
 <img align="right" alt="code"  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="320" height= "300" />
 <br>
 
-<h3>   👤<b>About Me </b>   </h3>
-<h4> I'm a front-end developer. Specializing in full-stack web applications using JavaScript, TypeScript, React, Next.js, and Node.js. I love building tools that are user-friendly, simple, and delightful. </h4>
+<h3>👤 <b>About Me</b></h3>
+<div style="text-align: justify;">
+  <h4>
+    Welcome to my GitHub! I'm a Nairobi-based software and web developer, indie founder with 2 years of experience specializing in full-stack web applications using JavaScript, TypeScript, React, Next.js, and Node.js. 
+  </h4>
+ <h4>My passion lies in building tools that are user-friendly, simple, delightful, and continuously exploring the tech landscape.</h4>
+</div>
+
 <br>
 
 - 🛠️  Web Development specializing in  MERN Stack, AWS, and full-stack development.
@@ -51,7 +57,7 @@
 
 <hr/>
 
-##  Certifications & Achievements
+##  🎓Certifications & Achievements
 
 | 🏆Certification | 🏅 Badge | ⏳ Duration | 🔍 Verification |
 |--------------|----------|-------------|----------------|
@@ -188,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Wheresoever you go, go with all your heart."</strong>
+    💡 <strong>"For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter."</strong>
     <br>
-    <sub>— ✍️ <strong>Confucius</strong></sub>
+    <sub>— ✍️ <strong>Celestine Chua</strong></sub>
   </blockquote>
 
 </div>
