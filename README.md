@@ -1,5 +1,5 @@
 
-<h1>Hi 👋, I'm  noa_dave</h1>
+<h1>Hi There👋, I'm  noa_dave</h1>
 
 <p align="right"> 
  <img src="https://komarev.com/ghpvc/?username=noa-dave&style=flat-square&color=blueviolet" alt="Profile Views"/>
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/Fun%20Fact-Dark%20Mode%20isn't%20a%20feature%3B%20it's%20a%20lifestyle-blue?style=for-the-badge" alt="Fun Fact" width="450"/>
 <be>
 <h2>
-  Contact 
+  Contact Me
 </h2>
 <p>
   <a href="mailto:m.davenoa@gmail.com" title="Gmail">
