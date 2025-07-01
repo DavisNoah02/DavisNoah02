@@ -59,8 +59,6 @@
 | <sub>**ALX AI Career Essentials**</sub> | <img src="https://github.com/user-attachments/assets/33476b21-a3ea-4e9c-b178-b98efc3f3a2a" width="120"> | <sub>6 weeks</sub> | [![Verify](https://img.shields.io/badge/Verify-%E2%9C%85-00c896?style=flat-square&logo=blockchaindotcom)](https://intranet.alxswe.com/certificates/R82sr3ehnG) |
 | <sub>**ALX Professional Foundations**</sub> | <img src="https://github.com/user-attachments/assets/11135dbb-e1d7-498f-8504-1ae5980ebc6d" width="120"> | <sub>3 months</sub> | [![Verify](https://img.shields.io/badge/Verify-%E2%9C%85-00c896?style=flat-square&logo=blockchaindotcom)](https://intranet.alxswe.com/certificates/YM256BJf8e) |
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h2> 🛠TechStack and Tools</h2><br>
@@ -158,6 +156,15 @@
   </a>
 </div>
 
+<br>
+
+<div align="center">
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=DavisNoah02&theme=algolia&title=MultiLanguage,Repositories,Commits,Followers,PullRequest,Experience,Stars)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+</div>
+
 
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -172,6 +179,8 @@
     <img alt="Join our Discord" src="https://img.shields.io/badge/Join%20our%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="220" />
   </a>
 </p>
+
+
 
    
 ## ⚡Random Dev Quote
