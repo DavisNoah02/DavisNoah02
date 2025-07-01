@@ -24,8 +24,8 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i '/## ✨ Random Quote/,$d' README.md
-          echo '## ✨ Random Quote' >> README.md
+          sed -i '/## ⚡Random Dev Quote/,$d' README.md
+          echo '## ⚡Random Dev Quote' >> README.md
           echo '' >> README.md
           echo '<div align="center">' >> README.md
           echo '' >> README.md
