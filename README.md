@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=speech&height=40&color=gradient&section=header&fontAlign=20&fontAlignY=44&descAlign=22&descAlignY=26&reversal=true&fontSize=30&textBg=false&fontColor=21a01b&animation=twinkling&rotate=-3&strokeWidth=7&descSize=0" />
 </p>
-
-
-
+ 
 <h1>Hi 👋, I'm  noa_dave</h1>
 
 <p align="right"> 
@@ -17,48 +15,48 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=A+Fullstack+Web+Dev+In+Progress;Cloud,+Backend,+AI+Fanboy!&center=true&width=500&height=50&color=7B6BFF&vCenter=true&size=24" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=A+Fullstack+Web+Dev+In+Progress;Cloud,+Backend,+AI+Fanboy!&center=true&width=500&height=50&color=00c896&vCenter=true&size=24" />
 </p>
-
 
  ``Building the Web 🌐, One Line of Code 💡 at a Time | Crafting Memorable Experiences 🛠️``
 
 <img align="right" alt="code"  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="360" height= "240" />
+<br>
 
-<be>
+<h3>  💫  <b>About Me </b>  👤 </h3>
+<h4> I'm a front-end developer. Specializing in full-stack web applications using JavaScript, TypeScript, React, Next.js, and Node.js. I love building tools that are user-friendly, simple, and delightful. </h4>
+<br>
 
-<h3>  💫 <b>About Me </b> 👤 </h3>
-<h4> I'm a front-end developer. specializing in full-stack web applications using JavaScript, TypeScript, React, Next.js, and Node.js. I love building tools that are user-friendly, simple and delightful. ✨</h4>
-
-- 🌱  currently learning at ALX_KENYA ( Pro-Dev Backend Developer )
-- 👯 I want to collaborate on any open-source MERN Stack Projects.
+- 🛠️  Web Development specializing in  MERN Stack, AWS, and full-stack development.
+- 🌱 Currently learning at ALX_KENYA.
+- 🏗️ Building: Learning Management System.
+- 👯 I am Open to collaborating on any open-source MERN Stack Projects.
 - 💬 Ask me about REACT, JAVASCRIPT, AWS DEVELOPER TOOLS.
 - 📫 How to reach me **m.davenoa@gmail.com**
 <br>
   ⚡ Fun Fact: 
 <img src="https://img.shields.io/badge/Fun%20Fact-Dark%20Mode%20isn't%20a%20feature%3B%20it's%20a%20lifestyle-blue?style=for-the-badge" alt="Fun Fact" width="450"/>
-<be>
-
+<br>
 <hr/>
 
-## 🌟 Certifications
+## 🏆 Certifications & Achievements
 
 | Certification | 🏅 Badge | ⏳ Duration | 🔍 Verification |
-|--------------|---------|------------|----------------|
-| **AWS Certified Cloud Practitioner** | <img src="https://github.com/user-attachments/assets/7c9b0e68-4a30-4397-8958-1b76bd4ea046" width="180"> | 5 months | [![Verify](https://img.shields.io/badge/Verify%20Now-%E2%9C%85-neonblue?style=for-the-badge&logo=blockchaindotcom)](https://www.credly.com/badges/d92bbcc0-9575-47b5-bc25-ccfceb2fc494/linked_in_profile) |
-| **ALX AI Career Essentials** | <img src="https://github.com/user-attachments/assets/33476b21-a3ea-4e9c-b178-b98efc3f3a2a" width="200"> | 6 weeks | [![Verify](https://img.shields.io/badge/Verify%20Now-%E2%9C%85-neonblue?style=for-the-badge&logo=blockchaindotcom)](https://intranet.alxswe.com/certificates/R82sr3ehnG) |
-| **ALX Professional Foundations** | <img src="https://github.com/user-attachments/assets/11135dbb-e1d7-498f-8504-1ae5980ebc6d" width="200"> | 3 months | [![Verify](https://img.shields.io/badge/Verify%20Now-%E2%9C%85-neonblue?style=for-the-badge&logo=blockchaindotcom)](https://intranet.alxswe.com/certificates/YM256BJf8e) |
+|--------------|----------|-------------|----------------|
+| <sub>**AWS Certified Cloud Practitioner**</sub> | <img src="https://github.com/user-attachments/assets/7c9b0e68-4a30-4397-8958-1b76bd4ea046" width="120"> | <sub>5 months</sub> | [![Verify](https://img.shields.io/badge/Verify-%E2%9C%85-00c896?style=flat-square&logo=blockchaindotcom)](https://www.credly.com/badges/d92bbcc0-9575-47b5-bc25-ccfceb2fc494/linked_in_profile) |
+| <sub>**ALX AI Career Essentials**</sub> | <img src="https://github.com/user-attachments/assets/33476b21-a3ea-4e9c-b178-b98efc3f3a2a" width="120"> | <sub>6 weeks</sub> | [![Verify](https://img.shields.io/badge/Verify-%E2%9C%85-00c896?style=flat-square&logo=blockchaindotcom)](https://intranet.alxswe.com/certificates/R82sr3ehnG) |
+| <sub>**ALX Professional Foundations**</sub> | <img src="https://github.com/user-attachments/assets/11135dbb-e1d7-498f-8504-1ae5980ebc6d" width="120"> | <sub>3 months</sub> | [![Verify](https://img.shields.io/badge/Verify-%E2%9C%85-00c896?style=flat-square&logo=blockchaindotcom)](https://intranet.alxswe.com/certificates/YM256BJf8e) |
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> 🚀 TechStack and Tools</h2>
-
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> 🛠 TechStack and Tools</h2>
 <p align="center" style="font-size: 40px; font-weight: bold; color: #FF5733;">
   🌟 <strong>Top Tech Stack</strong> 🌟
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&size=32&center=true&vCenter=true&width=400&height=50&lines=JS%2C+React%2C+Node.js" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00c896&size=32&center=true&vCenter=true&width=400&height=50&lines=JS%2C+React%2C+Node.js" alt="Tech Stack" />
 </p>
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -97,15 +95,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
- 
-
 <hr/>
 <br>
-<h2>
-  🌐 Connect With Me
-</h2>
 
+
+<h2>
+  🤝 Connect With Me 🌐
+</h2>
 
 <p align="center">
   <a href="https://codepen.io/Noah-Munene" title="CodePen">
@@ -133,15 +129,34 @@
 </p>
 <br>
 
-## 📊 My stats:
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DavisNOAH02&show_icons=true&locale=en" alt="DavisNOAH02" /></p>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DavisNOAH02&" alt="DavisNOAH02" /></p>
- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavisNOAH02&show_icons=true&locale=en&layout=compact" alt="DavisNOAH02" /></p>
+## 📈 My GitHub Activity Stats:  
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=DavisNOAH02&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavisNOAH02&layout=compact&theme=github_dark&hide_border=false" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+  </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavisNOAH02&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavisNOAH02&bg_color=1a1b27&color=00c896&line=00c896&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+</div>
+
 
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<h2 align="center"><i>🔨 Build. ✅ Test. 🚀 Ship.</i></h2>
 
+<h2 align="center"><i>🔨 Build. ✅ Test. 🚀 Ship.</i></h2>
 <p align="center">
   <a href="https://linktr.ee/noahdave" target="_blank">
     <img alt="Connect with me" src="https://img.shields.io/badge/Connect%20with%20me-00C896?style=for-the-badge&logo=linktree&logoColor=white" width="220" />
@@ -158,9 +173,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Nature does not hurry, yet everything is accomplished."</strong>
+    💡 <strong>"You have to keep breaking your heart until it opens."</strong>
     <br>
-    <sub>— ✍️ <strong>Lao Tzu</strong></sub>
+    <sub>— ✍️ <strong>Rumi</strong></sub>
   </blockquote>
 
 </div>
