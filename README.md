@@ -177,7 +177,7 @@
 
 <h2 align="center"><i>🔨 Build. ✅ Test. 🚀 Ship.</i></h2>
 <p align="center">
-  <a href="https://linktr.ee/noahdave" target="_blank">
+  <a href="https://linktr.ee/noah_dave" target="_blank">
     <img alt="Connect with me" src="https://img.shields.io/badge/Connect%20with%20me-00C896?style=for-the-badge&logo=linktree&logoColor=white" width="200" />
   </a>
   &nbsp;
