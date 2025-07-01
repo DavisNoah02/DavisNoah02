@@ -139,6 +139,19 @@
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavisNOAH02&show_icons=true&locale=en&layout=compact" alt="DavisNOAH02" /></p>
 
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h2 align="center"><i>🔨 Build. ✅ Test. 🚀 Ship.</i></h2>
+
+<p align="center">
+  <a href="https://linktr.ee/noahdave" target="_blank">
+    <img alt="Connect with me" src="https://img.shields.io/badge/Connect%20with%20me-00C896?style=for-the-badge&logo=linktree&logoColor=white" width="220" />
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/7vtB7fMkpd" target="_blank">
+    <img alt="Join our Discord" src="https://img.shields.io/badge/Join%20our%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="220" />
+  </a>
+</p>
+
    
 ## ✨ Random Quote
 
