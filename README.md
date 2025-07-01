@@ -17,7 +17,7 @@
 
  ``Building the Web 🌐, One Line of Code 💡 at a Time | Crafting Memorable Experiences 🛠️``
 
-<img align="right" alt="code"  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="360" height= "240" />
+<img align="right" alt="code"  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" height= "290" />
 <br>
 
 <h3>   👤<b>About Me </b>   </h3>
