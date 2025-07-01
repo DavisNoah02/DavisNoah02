@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Do not try to be on the side of the majority, but live according to your inner laws."</strong>
+    💡 <strong>"Persistence is very important. You should not give up unless you are forced to give up."</strong>
     <br>
-    <sub>— ✍️ <strong>Marcus Aurelius</strong></sub>
+    <sub>— ✍️ <strong>Elon Musk</strong></sub>
   </blockquote>
 
 </div>
