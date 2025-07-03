@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you have to be in a soap opera try not to be cast in the worst role."</strong>
+    💡 <strong>"A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way."</strong>
     <br>
-    <sub>— ✍️ <strong>Judy Garland</strong></sub>
+    <sub>— ✍️ <strong>Osho</strong></sub>
   </blockquote>
 
 </div>
