@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Growth comes at the point of resistance."</strong>
+    💡 <strong>"Doing the best at this moment puts you in the best place for the next moment."</strong>
     <br>
-    <sub>— ✍️ <strong>Josh Waitzkin</strong></sub>
+    <sub>— ✍️ <strong>Oprah Winfrey</strong></sub>
   </blockquote>
 
 </div>
