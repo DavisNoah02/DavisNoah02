@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Just do the best you can. No one can do more than that."</strong>
+    💡 <strong>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."</strong>
     <br>
-    <sub>— ✍️ <strong>John Wooden</strong></sub>
+    <sub>— ✍️ <strong>Robert Collier</strong></sub>
   </blockquote>
 
 </div>
