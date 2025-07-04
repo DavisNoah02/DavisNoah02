@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble."</strong>
+    💡 <strong>"Always do your best. What you plant now, you will harvest later."</strong>
     <br>
-    <sub>— ✍️ <strong>Robert Greene</strong></sub>
+    <sub>— ✍️ <strong>Og Mandino</strong></sub>
   </blockquote>
 
 </div>
