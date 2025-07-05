@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Sometimes a change of perspective is all it takes to see the light."</strong>
+    💡 <strong>"Always do what is right. It will gratify half of mankind and astound the other."</strong>
     <br>
-    <sub>— ✍️ <strong>Dan Brown</strong></sub>
+    <sub>— ✍️ <strong>Mark Twain</strong></sub>
   </blockquote>
 
 </div>
