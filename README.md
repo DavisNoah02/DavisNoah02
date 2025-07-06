@@ -5,11 +5,7 @@
  <img src="https://komarev.com/ghpvc/?username=noa-dave&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <a href="https://noa-dave.vercel.app/" target="blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=8E2DE2&color=4A00E0" alt="Portfolio Button"/>
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=A+Fullstack+Web+Dev+In+Progress;Cloud,+Backend,+AI+Fanboy!&center=true&width=500&height=50&color=00c896&vCenter=true&size=20" />
@@ -186,7 +182,11 @@
   </a>
 </p>
 
-
+<p align="center">
+  <a href="https://noa-dave.vercel.app/" target="blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=8E2DE2&color=4A00E0" alt="Portfolio Button"/>
+  </a>
+</p>
 
    
 ## ⚡Random Dev Quote
