@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you cannot understand something, then you have understood it incorrectly."</strong>
+    💡 <strong>"Time is more valuable than money. You can get more money, but you cannot get more time."</strong>
     <br>
-    <sub>— ✍️ <strong>Kabir</strong></sub>
+    <sub>— ✍️ <strong>Jim Rohn</strong></sub>
   </blockquote>
 
 </div>
