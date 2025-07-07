@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"We can have more than we've got because we can become more than we are."</strong>
+    💡 <strong>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</strong>
     <br>
-    <sub>— ✍️ <strong>Jim Rohn</strong></sub>
+    <sub>— ✍️ <strong>Sigmund Freud</strong></sub>
   </blockquote>
 
 </div>
