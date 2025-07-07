@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If I can stop one heart from breaking, I shall not live in vain."</strong>
+    💡 <strong>"He who laughs at himself never runs out of things to laugh at."</strong>
     <br>
-    <sub>— ✍️ <strong>Emily Dickinson</strong></sub>
+    <sub>— ✍️ <strong>Epictetus</strong></sub>
   </blockquote>
 
 </div>
