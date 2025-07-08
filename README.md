@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable."</strong>
+    💡 <strong>"If it entertains you now but will bore you someday, it's a distraction. Keep looking."</strong>
     <br>
-    <sub>— ✍️ <strong>Elon Musk</strong></sub>
+    <sub>— ✍️ <strong>Naval Ravikant</strong></sub>
   </blockquote>
 
 </div>
