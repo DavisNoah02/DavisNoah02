@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"We are most nearly ourselves when we achieve the seriousness of the child at play."</strong>
+    💡 <strong>"Until we can manage time, we can manage nothing else."</strong>
     <br>
-    <sub>— ✍️ <strong>Heraclitus</strong></sub>
+    <sub>— ✍️ <strong>Peter Drucker</strong></sub>
   </blockquote>
 
 </div>
