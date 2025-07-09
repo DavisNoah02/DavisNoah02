@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him. "</strong>
+    💡 <strong>"There is no absolute success in the world, only constant progress."</strong>
     <br>
-    <sub>— ✍️ <strong>David Brinkley</strong></sub>
+    <sub>— ✍️ <strong>Jonathan Swift</strong></sub>
   </blockquote>
 
 </div>
