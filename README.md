@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"First say to yourself what you would be; and then do what you have to do."</strong>
+    💡 <strong>"By words the mind is winged."</strong>
     <br>
-    <sub>— ✍️ <strong>Epictetus</strong></sub>
+    <sub>— ✍️ <strong>Aristophanes</strong></sub>
   </blockquote>
 
 </div>
