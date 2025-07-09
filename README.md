@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=A+Fullstack+Web+Dev+In+Progress;Cloud,+Backend,+AI+Fanboy!&center=true&width=500&height=50&color=00c896&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=A+Fullstack+Web+Dev+In+Progress;Frontend+Developer,+AI+Fanboy!&center=true&width=500&height=50&color=00c896&vCenter=true&size=20" />
 </p>
 
  ``Building the Web 🌐, One Line of Code 💡 at a Time | Crafting Memorable Experiences 🛠️``
