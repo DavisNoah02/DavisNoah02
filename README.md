@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Presents are made for the pleasure of who gives them, not the merits of who receives them."</strong>
+    💡 <strong>"Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today."</strong>
     <br>
-    <sub>— ✍️ <strong>Carlos Ruiz Zafon</strong></sub>
+    <sub>— ✍️ <strong>Andrew Carnegie</strong></sub>
   </blockquote>
 
 </div>
