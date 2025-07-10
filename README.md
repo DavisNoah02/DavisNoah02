@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Better to die fighting for freedom than be a prisoner all the days of your life."</strong>
+    💡 <strong>"You can suffer the pain of change or suffer remaining the way you are."</strong>
     <br>
-    <sub>— ✍️ <strong>Bob Marley</strong></sub>
+    <sub>— ✍️ <strong>Joyce Meyer</strong></sub>
   </blockquote>
 
 </div>
