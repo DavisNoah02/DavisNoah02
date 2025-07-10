@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You cannot find peace avoiding life."</strong>
+    💡 <strong>"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts. Let it go. It is not serving you."</strong>
     <br>
-    <sub>— ✍️ <strong>Virginia Woolf</strong></sub>
+    <sub>— ✍️ <strong>Sonia Ricotti</strong></sub>
   </blockquote>
 
 </div>
