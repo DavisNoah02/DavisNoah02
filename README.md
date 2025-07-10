@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Winning isn't everything, but wanting to win is."</strong>
+    💡 <strong>"The most wasted day of all is that on which we have not laughed."</strong>
     <br>
-    <sub>— ✍️ <strong>Vince Lombardi</strong></sub>
+    <sub>— ✍️ <strong>Nicolas Chamfort</strong></sub>
   </blockquote>
 
 </div>
