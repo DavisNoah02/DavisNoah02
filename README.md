@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Nothing is too high for a man to reach, but he must climb with care and confidence"</strong>
+    💡 <strong>"Failure is an option, fear is not."</strong>
     <br>
-    <sub>— ✍️ <strong>Hans Christian Andersen</strong></sub>
+    <sub>— ✍️ <strong>James Cameron</strong></sub>
   </blockquote>
 
 </div>
