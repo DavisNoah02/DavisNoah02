@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"As a matter of fact is an expression that precedes many an expression that isn't."</strong>
+    💡 <strong>"It's the unknown we fear when we look upon death and darkness, nothing more."</strong>
     <br>
-    <sub>— ✍️ <strong>Laurence J. Peter</strong></sub>
+    <sub>— ✍️ <strong>Albus Dumbledore</strong></sub>
   </blockquote>
 
 </div>
