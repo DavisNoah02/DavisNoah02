@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It's the unknown we fear when we look upon death and darkness, nothing more."</strong>
+    💡 <strong>"Success is nothing more than a few simple disciplines practiced every day."</strong>
     <br>
-    <sub>— ✍️ <strong>Albus Dumbledore</strong></sub>
+    <sub>— ✍️ <strong>Jim Rohn</strong></sub>
   </blockquote>
 
 </div>
