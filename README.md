@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found."</strong>
+    💡 <strong>"A hopeless man is a very desperate and dangerous man, almost a dead man."</strong>
     <br>
-    <sub>— ✍️ <strong>Alexander Pope</strong></sub>
+    <sub>— ✍️ <strong>Robert F. Kennedy</strong></sub>
   </blockquote>
 
 </div>
