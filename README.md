@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"When you believe in a thing, believe in it all the way, implicitly and unquestionable."</strong>
+    💡 <strong>"Those who dream by day are cognizant of many things which escape those who dream only by night."</strong>
     <br>
-    <sub>— ✍️ <strong>Walt Disney</strong></sub>
+    <sub>— ✍️ <strong>Vincent van Gogh</strong></sub>
   </blockquote>
 
 </div>
