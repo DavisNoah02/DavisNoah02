@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</strong>
+    💡 <strong>"Life is like stepping onto a boat which is about to sail out to sea and sink."</strong>
     <br>
-    <sub>— ✍️ <strong>Helen Keller</strong></sub>
+    <sub>— ✍️ <strong>Shunryu Suzuki</strong></sub>
   </blockquote>
 
 </div>
