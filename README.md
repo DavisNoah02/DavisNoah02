@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It is not what we get. But who we become, what we contribute... that gives meaning to our lives."</strong>
+    💡 <strong>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</strong>
     <br>
-    <sub>— ✍️ <strong>Tony Robbins</strong></sub>
+    <sub>— ✍️ <strong>Helen Keller</strong></sub>
   </blockquote>
 
 </div>
