@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The first principle of success is desire."</strong>
+    💡 <strong>"If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present."</strong>
     <br>
-    <sub>— ✍️ <strong>Robert Collier</strong></sub>
+    <sub>— ✍️ <strong>Lao Tzu</strong></sub>
   </blockquote>
 
 </div>
