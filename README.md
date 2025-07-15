@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"While we may not be able to control all that happens to us, we can control what happens inside us."</strong>
+    💡 <strong>"Throughout this life, you can never be certain of living long enough to take another breath."</strong>
     <br>
-    <sub>— ✍️ <strong>Benjamin Franklin</strong></sub>
+    <sub>— ✍️ <strong>Huang Po</strong></sub>
   </blockquote>
 
 </div>
