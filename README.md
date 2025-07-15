@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The time is now, the place is here. Stay in the present."</strong>
+    💡 <strong>"Men are disturbed not by things, but by the view which they take of them."</strong>
     <br>
-    <sub>— ✍️ <strong>Dan Millman</strong></sub>
+    <sub>— ✍️ <strong>Epictetus</strong></sub>
   </blockquote>
 
 </div>
