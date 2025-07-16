@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"As you think, you travel, and as you love, you attract."</strong>
+    💡 <strong>"We will act consistently with our view of who we truly are, whether that view is accurate or not."</strong>
     <br>
-    <sub>— ✍️ <strong>James Allen</strong></sub>
+    <sub>— ✍️ <strong>Tony Robbins</strong></sub>
   </blockquote>
 
 </div>
