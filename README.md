@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</strong>
+    💡 <strong>"Every act of creation is first an act of destruction."</strong>
     <br>
-    <sub>— ✍️ <strong>Criss Jami</strong></sub>
+    <sub>— ✍️ <strong>Pablo Picasso</strong></sub>
   </blockquote>
 
 </div>
