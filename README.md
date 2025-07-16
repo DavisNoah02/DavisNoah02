@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong."</strong>
+    💡 <strong>"One of the keys to happiness is a bad memory."</strong>
     <br>
-    <sub>— ✍️ <strong>Elon Musk</strong></sub>
+    <sub>— ✍️ <strong>Rita Mae Brown</strong></sub>
   </blockquote>
 
 </div>
