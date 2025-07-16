@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"A Quitter never wins - and - a Winner never quits."</strong>
+    💡 <strong>"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work."</strong>
     <br>
-    <sub>— ✍️ <strong>Napoleon Hill</strong></sub>
+    <sub>— ✍️ <strong>Gary Keller</strong></sub>
   </blockquote>
 
 </div>
