@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Every traveler has a home of his own, and he learns to appreciate it the more from his wandering."</strong>
+    💡 <strong>"Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort."</strong>
     <br>
-    <sub>— ✍️ <strong>Charles Dickens</strong></sub>
+    <sub>— ✍️ <strong>Steve Harvey</strong></sub>
   </blockquote>
 
 </div>
