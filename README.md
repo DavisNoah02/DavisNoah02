@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"A bird does not sing because it has an answer. It sings because it has a song."</strong>
+    💡 <strong>"If you want something you've never had you must be willing to do something you've never done."</strong>
     <br>
-    <sub>— ✍️ <strong>Chinese Proverb</strong></sub>
+    <sub>— ✍️ <strong>Thomas Jefferson</strong></sub>
   </blockquote>
 
 </div>
