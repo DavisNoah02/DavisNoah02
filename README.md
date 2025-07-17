@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear."</strong>
+    💡 <strong>"An intelligence test sometimes shows a man how smart he would have been not to have taken it."</strong>
     <br>
-    <sub>— ✍️ <strong>Jon Kabat-Zinn</strong></sub>
+    <sub>— ✍️ <strong>Laurence J. Peter</strong></sub>
   </blockquote>
 
 </div>
