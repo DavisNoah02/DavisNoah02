@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Learn to use your emotions to think, not think with your emotions."</strong>
+    💡 <strong>"Many people spend more time looking at their failures than focusing on their successes."</strong>
     <br>
-    <sub>— ✍️ <strong>Robert Kiyosaki</strong></sub>
+    <sub>— ✍️ <strong>Lolly Daskal</strong></sub>
   </blockquote>
 
 </div>
