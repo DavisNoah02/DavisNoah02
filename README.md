@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"There are few reasons for telling the truth, but for lying the number is infinite."</strong>
+    💡 <strong>"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush."</strong>
     <br>
-    <sub>— ✍️ <strong>Carlos Ruiz Zafon</strong></sub>
+    <sub>— ✍️ <strong>Rumi</strong></sub>
   </blockquote>
 
 </div>
