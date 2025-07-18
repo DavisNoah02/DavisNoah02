@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window."</strong>
+    💡 <strong>"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."</strong>
     <br>
-    <sub>— ✍️ <strong>Peter Drucker</strong></sub>
+    <sub>— ✍️ <strong>F. Scott Fitzgerald</strong></sub>
   </blockquote>
 
 </div>
