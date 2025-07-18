@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Kindness is a language which the deaf can hear and the blind can see."</strong>
+    💡 <strong>"A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday."</strong>
     <br>
-    <sub>— ✍️ <strong>Mark Twain</strong></sub>
+    <sub>— ✍️ <strong>Jonathan Swift</strong></sub>
   </blockquote>
 
 </div>
