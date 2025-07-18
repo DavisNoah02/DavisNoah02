@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</strong>
+    💡 <strong>"The only way to 'find out if it will work out' is to do it."</strong>
     <br>
-    <sub>— ✍️ <strong>Naval Ravikant</strong></sub>
+    <sub>— ✍️ <strong>Simon Sinek</strong></sub>
   </blockquote>
 
 </div>
