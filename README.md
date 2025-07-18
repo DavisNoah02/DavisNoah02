@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Better to die fighting for freedom than be a prisoner all the days of your life."</strong>
+    💡 <strong>"I didn't get there by wishing for it or hoping for it, but by working for it."</strong>
     <br>
-    <sub>— ✍️ <strong>Bob Marley</strong></sub>
+    <sub>— ✍️ <strong>Estee Lauder</strong></sub>
   </blockquote>
 
 </div>
