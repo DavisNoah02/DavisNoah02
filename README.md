@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Words are clothes that thoughts wear"</strong>
+    💡 <strong>"it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds."</strong>
     <br>
-    <sub>— ✍️ <strong>Samuel Butler</strong></sub>
+    <sub>— ✍️ <strong>Barack Obama</strong></sub>
   </blockquote>
 
 </div>
