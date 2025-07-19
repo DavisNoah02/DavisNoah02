@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to."</strong>
+    💡 <strong>"No man is happy who does not think himself so."</strong>
     <br>
-    <sub>— ✍️ <strong>Carlos Ruiz Zafon</strong></sub>
+    <sub>— ✍️ <strong>Norman Vincent Peale</strong></sub>
   </blockquote>
 
 </div>
