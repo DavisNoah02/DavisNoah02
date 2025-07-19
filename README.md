@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Failure is feedback. Learn from it and move on."</strong>
+    💡 <strong>"We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."</strong>
     <br>
-    <sub>— ✍️ <strong>Jack Butcher</strong></sub>
+    <sub>— ✍️ <strong>T.S. Eliot</strong></sub>
   </blockquote>
 
 </div>
