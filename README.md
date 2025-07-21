@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Lust, anger and greed are the three gates to self-destructive hell."</strong>
+    💡 <strong>"We have a duty to maintain the light of consciousness to make sure it continues into the future."</strong>
     <br>
-    <sub>— ✍️ <strong>Bhagavad Gita</strong></sub>
+    <sub>— ✍️ <strong>Elon Musk</strong></sub>
   </blockquote>
 
 </div>
