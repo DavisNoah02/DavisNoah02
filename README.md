@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."</strong>
+    💡 <strong>"It is our experiences that mold us into who we are...during times of adversity our true character will show."</strong>
     <br>
-    <sub>— ✍️ <strong>F. Scott Fitzgerald</strong></sub>
+    <sub>— ✍️ <strong>Unknown</strong></sub>
   </blockquote>
 
 </div>
