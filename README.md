@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"A hut full of laughter is richer than a palace full of sadness."</strong>
+    💡 <strong>"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."</strong>
     <br>
-    <sub>— ✍️ <strong>Zen Proverb</strong></sub>
+    <sub>— ✍️ <strong>Charles Dickens</strong></sub>
   </blockquote>
 
 </div>
