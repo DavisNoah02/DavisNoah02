@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Boldness makes even the smallest animal dangerous."</strong>
+    💡 <strong>"When you know what you want, and you want it bad enough, you will find a way to get it."</strong>
     <br>
-    <sub>— ✍️ <strong>Robert Greene</strong></sub>
+    <sub>— ✍️ <strong>Jim Rohn</strong></sub>
   </blockquote>
 
 </div>
