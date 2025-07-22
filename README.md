@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"When you know what you want, and you want it bad enough, you will find a way to get it."</strong>
+    💡 <strong>"Perseverance and spirit have done wonders in all ages. "</strong>
     <br>
-    <sub>— ✍️ <strong>Jim Rohn</strong></sub>
+    <sub>— ✍️ <strong>George Washington</strong></sub>
   </blockquote>
 
 </div>
