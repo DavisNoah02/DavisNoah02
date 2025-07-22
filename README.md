@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences "</strong>
+    💡 <strong>"Kind words can be short and easy to speak, but their echoes are truly endless."</strong>
     <br>
-    <sub>— ✍️ <strong>Nikola Tesla</strong></sub>
+    <sub>— ✍️ <strong>Mother Teresa</strong></sub>
   </blockquote>
 
 </div>
