@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace."</strong>
+    💡 <strong>"Don't gain the world and lose your soul. Wisdom is better than silver and gold."</strong>
     <br>
-    <sub>— ✍️ <strong>Earl Nightingale</strong></sub>
+    <sub>— ✍️ <strong>Bob Marley</strong></sub>
   </blockquote>
 
 </div>
