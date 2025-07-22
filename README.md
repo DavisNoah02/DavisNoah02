@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The best way to predict the future is to create it."</strong>
+    💡 <strong>"In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result."</strong>
     <br>
-    <sub>— ✍️ <strong>Abraham Lincoln</strong></sub>
+    <sub>— ✍️ <strong>James Allen</strong></sub>
   </blockquote>
 
 </div>
