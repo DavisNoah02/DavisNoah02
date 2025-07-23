@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"No one ever is defeated until defeat has been accepted as a reality."</strong>
+    💡 <strong>"If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly."</strong>
     <br>
-    <sub>— ✍️ <strong>Napoleon Hill</strong></sub>
+    <sub>— ✍️ <strong>Steve Maraboli</strong></sub>
   </blockquote>
 
 </div>
