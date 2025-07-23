@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The deeper the truth in a creative work, the longer it will live. "</strong>
+    💡 <strong>"At the center of your being you have the answer; you know who you are and you know what you want."</strong>
     <br>
-    <sub>— ✍️ <strong>Charlie Chaplin</strong></sub>
+    <sub>— ✍️ <strong>Lao Tzu</strong></sub>
   </blockquote>
 
 </div>
