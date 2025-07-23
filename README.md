@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Those who look for the bad in people will surely find it."</strong>
+    💡 <strong>"Be happy in the moment, that's enough. Each moment is all we need, not more."</strong>
     <br>
-    <sub>— ✍️ <strong>Abraham Lincoln</strong></sub>
+    <sub>— ✍️ <strong>Mother Teresa</strong></sub>
   </blockquote>
 
 </div>
