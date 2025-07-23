@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you."</strong>
+    💡 <strong>"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. "</strong>
     <br>
-    <sub>— ✍️ <strong>Simon Sinek</strong></sub>
+    <sub>— ✍️ <strong>Henry Ford</strong></sub>
   </blockquote>
 
 </div>
