@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"There will always be suffering. But we must not suffer over the suffering."</strong>
+    💡 <strong>"The price of inaction is far greater than the cost of making a mistake."</strong>
     <br>
-    <sub>— ✍️ <strong>Alan Watts</strong></sub>
+    <sub>— ✍️ <strong>Meister Eckhart</strong></sub>
   </blockquote>
 
 </div>
