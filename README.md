@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Nothing makes a man broad-minded like adversity."</strong>
+    💡 <strong>"Even the finest sword plunged into salt water will eventually rust."</strong>
     <br>
-    <sub>— ✍️ <strong>Will Rogers</strong></sub>
+    <sub>— ✍️ <strong>Sun Tzu</strong></sub>
   </blockquote>
 
 </div>
