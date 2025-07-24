@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The single biggest problem in communication is the illusion that it has taken place."</strong>
+    💡 <strong>"I am thankful to all who said no to me. It is because of them that I'm doing it myself."</strong>
     <br>
-    <sub>— ✍️ <strong>George Bernard Shaw</strong></sub>
+    <sub>— ✍️ <strong>Albert Einstein</strong></sub>
   </blockquote>
 
 </div>
