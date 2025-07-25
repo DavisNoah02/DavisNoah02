@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Because a thing seems difficult for you, do not think it impossible."</strong>
+    💡 <strong>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</strong>
     <br>
-    <sub>— ✍️ <strong>Marcus Aurelius</strong></sub>
+    <sub>— ✍️ <strong>Confucius</strong></sub>
   </blockquote>
 
 </div>
