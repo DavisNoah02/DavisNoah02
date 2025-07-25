@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Superstars think like superstars long before the fans or the press anoint them."</strong>
+    💡 <strong>"Be patient and calm; no one can catch fish in anger."</strong>
     <br>
-    <sub>— ✍️ <strong>John Eliot</strong></sub>
+    <sub>— ✍️ <strong>Herbert Hoover</strong></sub>
   </blockquote>
 
 </div>
