@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you can't, you must. If you must, you can."</strong>
+    💡 <strong>"Victims recite problems, leaders provide solutions."</strong>
     <br>
-    <sub>— ✍️ <strong>Tony Robbins</strong></sub>
+    <sub>— ✍️ <strong>Robin Sharma</strong></sub>
   </blockquote>
 
 </div>
