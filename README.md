@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"We can either add to our character each day, or we can fritter away our energies in distractions."</strong>
+    💡 <strong>"Don't change your mind just because people are offended; change your mind if you're wrong."</strong>
     <br>
-    <sub>— ✍️ <strong>Ming-Dao Deng</strong></sub>
+    <sub>— ✍️ <strong>Criss Jami</strong></sub>
   </blockquote>
 
 </div>
