@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you're really truthful with yourself, it's a wonderful guidance. "</strong>
+    💡 <strong>"Smell the cheese often so you know when it is getting old."</strong>
     <br>
-    <sub>— ✍️ <strong>Charlie Chaplin</strong></sub>
+    <sub>— ✍️ <strong>Spencer Johnson</strong></sub>
   </blockquote>
 
 </div>
