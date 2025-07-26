@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You gain strength, courage and confidence by every experience in which you really stop to look fear in the face."</strong>
+    💡 <strong>"Your neighbor is the man who needs you."</strong>
     <br>
-    <sub>— ✍️ <strong>Eleanor Roosevelt</strong></sub>
+    <sub>— ✍️ <strong>Elbert Hubbard</strong></sub>
   </blockquote>
 
 </div>
