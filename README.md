@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"A golden cage is still just a cage."</strong>
+    💡 <strong>"There are no second chances in life, except to feel remorse."</strong>
     <br>
-    <sub>— ✍️ <strong>Anita Krizzan</strong></sub>
+    <sub>— ✍️ <strong>Carlos Ruiz Zafon</strong></sub>
   </blockquote>
 
 </div>
