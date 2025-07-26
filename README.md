@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Smell the cheese often so you know when it is getting old."</strong>
+    💡 <strong>"We can either add to our character each day, or we can fritter away our energies in distractions."</strong>
     <br>
-    <sub>— ✍️ <strong>Spencer Johnson</strong></sub>
+    <sub>— ✍️ <strong>Ming-Dao Deng</strong></sub>
   </blockquote>
 
 </div>
