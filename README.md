@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</strong>
+    💡 <strong>"Death is not an ending. It is a transformation."</strong>
     <br>
-    <sub>— ✍️ <strong>Tony Robbins</strong></sub>
+    <sub>— ✍️ <strong>Ming-Dao Deng</strong></sub>
   </blockquote>
 
 </div>
