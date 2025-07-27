@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The health of nations is more important than the wealth of nations."</strong>
+    💡 <strong>"The time is now, the place is here. Stay in the present."</strong>
     <br>
-    <sub>— ✍️ <strong>Will Rogers</strong></sub>
+    <sub>— ✍️ <strong>Dan Millman</strong></sub>
   </blockquote>
 
 </div>
