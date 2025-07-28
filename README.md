@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You don't need anybody to tell you who you are or what you are. You are what you are!"</strong>
+    💡 <strong>"You have a brain and mind of your own. Use it, and reach your own decisions."</strong>
     <br>
-    <sub>— ✍️ <strong>John Lennon</strong></sub>
+    <sub>— ✍️ <strong>Napoleon Hill</strong></sub>
   </blockquote>
 
 </div>
