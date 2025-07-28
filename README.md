@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."</strong>
+    💡 <strong>"You don't need anybody to tell you who you are or what you are. You are what you are!"</strong>
     <br>
-    <sub>— ✍️ <strong>Mark Twain</strong></sub>
+    <sub>— ✍️ <strong>John Lennon</strong></sub>
   </blockquote>
 
 </div>
