@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Your neighbor is the man who needs you."</strong>
+    💡 <strong>"There are no shortcuts to any place worth going. "</strong>
     <br>
-    <sub>— ✍️ <strong>Elbert Hubbard</strong></sub>
+    <sub>— ✍️ <strong>Beverly Sills</strong></sub>
   </blockquote>
 
 </div>
