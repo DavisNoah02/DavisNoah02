@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars."</strong>
+    💡 <strong>"Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity."</strong>
     <br>
-    <sub>— ✍️ <strong>Kahlil Gibran</strong></sub>
+    <sub>— ✍️ <strong>Og Mandino</strong></sub>
   </blockquote>
 
 </div>
