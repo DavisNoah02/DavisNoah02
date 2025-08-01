@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine."</strong>
+    💡 <strong>"Meditate. It won't be fun but it will surface what you need to deal with."</strong>
     <br>
-    <sub>— ✍️ <strong>Zen Proverb</strong></sub>
+    <sub>— ✍️ <strong>Naval Ravikant</strong></sub>
   </blockquote>
 
 </div>
