@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You know the more one does the more one can do."</strong>
+    💡 <strong>"I believe that one of life's greatest risks is never daring to risk."</strong>
     <br>
-    <sub>— ✍️ <strong>Amelia Earhart</strong></sub>
+    <sub>— ✍️ <strong>Oprah Winfrey</strong></sub>
   </blockquote>
 
 </div>
