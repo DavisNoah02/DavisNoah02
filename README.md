@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work."</strong>
+    💡 <strong>"In spite of everything, I shall rise again."</strong>
     <br>
-    <sub>— ✍️ <strong>Oprah Winfrey</strong></sub>
+    <sub>— ✍️ <strong>Vincent van Gogh</strong></sub>
   </blockquote>
 
 </div>
