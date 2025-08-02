@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe."</strong>
+    💡 <strong>"Men do not attract which they want but that which they are."</strong>
     <br>
-    <sub>— ✍️ <strong>Nikola Tesla</strong></sub>
+    <sub>— ✍️ <strong>James Allen</strong></sub>
   </blockquote>
 
 </div>
