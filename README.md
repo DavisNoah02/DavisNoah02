@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Instead of worrying about what you cannot control, shift your energy to what you can create."</strong>
+    💡 <strong>"I like the dreams of the future better than the history of the past."</strong>
     <br>
-    <sub>— ✍️ <strong>Roy T. Bennett</strong></sub>
+    <sub>— ✍️ <strong>Thomas Jefferson</strong></sub>
   </blockquote>
 
 </div>
