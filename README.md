@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you are ever the smartest person in the room, you are in the wrong room."</strong>
+    💡 <strong>"There are as many opinions as there are experts."</strong>
     <br>
-    <sub>— ✍️ <strong>C. Sean McGee</strong></sub>
+    <sub>— ✍️ <strong>Franklin D. Roosevelt</strong></sub>
   </blockquote>
 
 </div>
