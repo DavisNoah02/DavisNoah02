@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"There are as many opinions as there are experts."</strong>
+    💡 <strong>"The most courageous act is still to think for yourself. Aloud."</strong>
     <br>
-    <sub>— ✍️ <strong>Franklin D. Roosevelt</strong></sub>
+    <sub>— ✍️ <strong>Coco Chanel</strong></sub>
   </blockquote>
 
 </div>
