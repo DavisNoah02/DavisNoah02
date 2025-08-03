@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</strong>
+    💡 <strong>"It is during our darkest moments that we must focus to see the light."</strong>
     <br>
-    <sub>— ✍️ <strong>Elvis Presley</strong></sub>
+    <sub>— ✍️ <strong>Aristotle</strong></sub>
   </blockquote>
 
 </div>
