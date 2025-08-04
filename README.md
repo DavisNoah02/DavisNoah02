@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it."</strong>
+    💡 <strong>"They who have conquered doubt and fear have conquered failure."</strong>
     <br>
-    <sub>— ✍️ <strong>Gary Keller</strong></sub>
+    <sub>— ✍️ <strong>James Allen</strong></sub>
   </blockquote>
 
 </div>
