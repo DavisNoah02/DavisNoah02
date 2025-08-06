@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."</strong>
+    💡 <strong>"There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever."</strong>
     <br>
-    <sub>— ✍️ <strong>John Tukey</strong></sub>
+    <sub>— ✍️ <strong>Alexandre Dumas</strong></sub>
   </blockquote>
 
 </div>
