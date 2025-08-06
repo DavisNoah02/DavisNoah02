@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive."</strong>
+    💡 <strong>"The opportunity of defeating the enemy is provided by the enemy himself."</strong>
     <br>
-    <sub>— ✍️ <strong>Herodotus</strong></sub>
+    <sub>— ✍️ <strong>Sun Tzu</strong></sub>
   </blockquote>
 
 </div>
