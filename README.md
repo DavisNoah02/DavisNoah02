@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The most important thing is to enjoy your life, to be happy, it's all that matters."</strong>
+    💡 <strong>"Growing up is losing some illusions, in order to acquire others."</strong>
     <br>
-    <sub>— ✍️ <strong>Audrey Hepburn</strong></sub>
+    <sub>— ✍️ <strong>Virginia Woolf</strong></sub>
   </blockquote>
 
 </div>
