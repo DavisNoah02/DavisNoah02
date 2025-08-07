@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It's not about what it is, it's about what it can become."</strong>
+    💡 <strong>"We are like islands in the sea, separate on the surface but connected in the deep."</strong>
     <br>
-    <sub>— ✍️ <strong>Dr. Seuss</strong></sub>
+    <sub>— ✍️ <strong>William James</strong></sub>
   </blockquote>
 
 </div>
