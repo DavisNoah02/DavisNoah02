@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Paths are made by walking."</strong>
+    💡 <strong>"It's not about what it is, it's about what it can become."</strong>
     <br>
-    <sub>— ✍️ <strong>Franz Kafka</strong></sub>
+    <sub>— ✍️ <strong>Dr. Seuss</strong></sub>
   </blockquote>
 
 </div>
