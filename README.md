@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You have as much laughter as you have faith."</strong>
+    💡 <strong>"There is no limit to the amount of good you can do if you don't care who gets the credit."</strong>
     <br>
-    <sub>— ✍️ <strong>Martin Luther</strong></sub>
+    <sub>— ✍️ <strong>Ronald Reagan</strong></sub>
   </blockquote>
 
 </div>
