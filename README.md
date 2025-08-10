@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying."</strong>
+    💡 <strong>"No one returns from a long journey the same person they were before."</strong>
     <br>
-    <sub>— ✍️ <strong>Ming-Dao Deng</strong></sub>
+    <sub>— ✍️ <strong>Zen Proverb</strong></sub>
   </blockquote>
 
 </div>
