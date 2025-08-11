@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Identification with our mind causes thought to become compulsive."</strong>
+    💡 <strong>"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</strong>
     <br>
-    <sub>— ✍️ <strong>Eckhart Tolle</strong></sub>
+    <sub>— ✍️ <strong>Steve Jobs</strong></sub>
   </blockquote>
 
 </div>
