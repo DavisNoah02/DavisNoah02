@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</strong>
+    💡 <strong>"The worst part of success is trying to find someone who is happy for you."</strong>
     <br>
-    <sub>— ✍️ <strong>Theodore Roosevelt</strong></sub>
+    <sub>— ✍️ <strong>Bette Midler</strong></sub>
   </blockquote>
 
 </div>
