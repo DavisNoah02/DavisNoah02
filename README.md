@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Just do the best you can. No one can do more than that."</strong>
+    💡 <strong>"When you know what you want, and want it bad enough, you will find a way to get it."</strong>
     <br>
-    <sub>— ✍️ <strong>John Wooden</strong></sub>
+    <sub>— ✍️ <strong>Jim Rohn</strong></sub>
   </blockquote>
 
 </div>
