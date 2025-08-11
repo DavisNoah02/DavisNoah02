@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you aren't sure which way to do something, do it both ways and see which works better."</strong>
+    💡 <strong>"We can choose to look at whatever we want. We can look at what's wrong in our life or we can look at what's right."</strong>
     <br>
-    <sub>— ✍️ <strong>John Carmack</strong></sub>
+    <sub>— ✍️ <strong>Sonia Ricotti</strong></sub>
   </blockquote>
 
 </div>
