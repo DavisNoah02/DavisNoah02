@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"When you know what you want, and want it bad enough, you will find a way to get it."</strong>
+    💡 <strong>"I never dwell on what happened. You can't change it. Move forward."</strong>
     <br>
-    <sub>— ✍️ <strong>Jim Rohn</strong></sub>
+    <sub>— ✍️ <strong>Joan Rivers</strong></sub>
   </blockquote>
 
 </div>
