@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Trusting our intuition often saves us from disaster. "</strong>
+    💡 <strong>"The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends."</strong>
     <br>
-    <sub>— ✍️ <strong>Anne Wilson Schaef</strong></sub>
+    <sub>— ✍️ <strong>Deepak Chopra</strong></sub>
   </blockquote>
 
 </div>
