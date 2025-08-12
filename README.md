@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Life is like stepping onto a boat which is about to sail out to sea and sink."</strong>
+    💡 <strong>"The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom."</strong>
     <br>
-    <sub>— ✍️ <strong>Shunryu Suzuki</strong></sub>
+    <sub>— ✍️ <strong>James Allen</strong></sub>
   </blockquote>
 
 </div>
