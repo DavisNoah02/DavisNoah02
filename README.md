@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties."</strong>
+    💡 <strong>"I have never in my life learned anything from any man who agreed with me."</strong>
     <br>
-    <sub>— ✍️ <strong>Harry S. Truman</strong></sub>
+    <sub>— ✍️ <strong>Dudley Field Malone</strong></sub>
   </blockquote>
 
 </div>
