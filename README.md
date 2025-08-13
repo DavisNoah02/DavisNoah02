@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Only he who has no use for the empire is fit to be entrusted with it."</strong>
+    💡 <strong>"I do not seek. I find."</strong>
     <br>
-    <sub>— ✍️ <strong>Zhuangzi</strong></sub>
+    <sub>— ✍️ <strong>Pablo Picasso</strong></sub>
   </blockquote>
 
 </div>
