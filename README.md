@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Don't let your learning lead to knowledge. Let your learning lead to action."</strong>
+    💡 <strong>"Outstanding people have one thing in common: an absolute sense of mission. "</strong>
     <br>
-    <sub>— ✍️ <strong>Jim Rohn</strong></sub>
+    <sub>— ✍️ <strong>Zig Ziglar</strong></sub>
   </blockquote>
 
 </div>
