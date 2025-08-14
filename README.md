@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen."</strong>
+    💡 <strong>"It is not what we get. But who we become, what we contribute... that gives meaning to our lives."</strong>
     <br>
-    <sub>— ✍️ <strong>Wayne Dyer</strong></sub>
+    <sub>— ✍️ <strong>Tony Robbins</strong></sub>
   </blockquote>
 
 </div>
