@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Be mindful. Be grateful. Be positive. Be true. Be kind."</strong>
+    💡 <strong>"Hold yourself responsible for a higher standard than anybody else expects of you."</strong>
     <br>
-    <sub>— ✍️ <strong>Roy T. Bennett</strong></sub>
+    <sub>— ✍️ <strong>Henry Ward Beecher</strong></sub>
   </blockquote>
 
 </div>
