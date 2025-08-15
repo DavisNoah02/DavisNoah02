@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Get mad, then get over it."</strong>
+    💡 <strong>"Integrity is the ability to stand by an idea."</strong>
     <br>
-    <sub>— ✍️ <strong>Colin Powell</strong></sub>
+    <sub>— ✍️ <strong>Ayn Rand</strong></sub>
   </blockquote>
 
 </div>
