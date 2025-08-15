@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible."</strong>
+    💡 <strong>"Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. "</strong>
     <br>
-    <sub>— ✍️ <strong>Norman Vincent Peale</strong></sub>
+    <sub>— ✍️ <strong>Franz Kafka</strong></sub>
   </blockquote>
 
 </div>
