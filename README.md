@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."</strong>
+    💡 <strong>"You purchase pain with all that joy can give and die of nothing but a rage to live."</strong>
     <br>
-    <sub>— ✍️ <strong>John Eliot</strong></sub>
+    <sub>— ✍️ <strong>Alexander Pope</strong></sub>
   </blockquote>
 
 </div>
