@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Rather than love, than money, than fame, give me truth."</strong>
+    💡 <strong>"Honor is the foundation of courage."</strong>
     <br>
-    <sub>— ✍️ <strong>Henry David Thoreau</strong></sub>
+    <sub>— ✍️ <strong>Amelia Earhart</strong></sub>
   </blockquote>
 
 </div>
