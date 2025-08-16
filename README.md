@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Avoiding danger is no safer in the long run than exposure."</strong>
+    💡 <strong>"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."</strong>
     <br>
-    <sub>— ✍️ <strong>Helen Keller</strong></sub>
+    <sub>— ✍️ <strong>Roy T. Bennett</strong></sub>
   </blockquote>
 
 </div>
