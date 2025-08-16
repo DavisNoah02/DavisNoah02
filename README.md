@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Be grateful for what you have now, and nothing should be taken for granted."</strong>
+    💡 <strong>"Wisdom is the oneness of mind that guides and permeates all things."</strong>
     <br>
-    <sub>— ✍️ <strong>Roy T. Bennett</strong></sub>
+    <sub>— ✍️ <strong>Heraclitus</strong></sub>
   </blockquote>
 
 </div>
