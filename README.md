@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If light is in your heart, you will find your way home. "</strong>
+    💡 <strong>"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero."</strong>
     <br>
-    <sub>— ✍️ <strong>Rumi</strong></sub>
+    <sub>— ✍️ <strong>Kabir</strong></sub>
   </blockquote>
 
 </div>
