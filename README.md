@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Make your stand today. On this spot. On this day."</strong>
+    💡 <strong>"Don't seek, don't search, don't ask, don't knock, don't demand - relax."</strong>
     <br>
-    <sub>— ✍️ <strong>Ming-Dao Deng</strong></sub>
+    <sub>— ✍️ <strong>Osho</strong></sub>
   </blockquote>
 
 </div>
