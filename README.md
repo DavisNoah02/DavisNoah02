@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Knowing yourself is the beginning of all wisdom."</strong>
+    💡 <strong>"Evil is whatever distracts. "</strong>
     <br>
-    <sub>— ✍️ <strong>Aristotle</strong></sub>
+    <sub>— ✍️ <strong>Franz Kafka</strong></sub>
   </blockquote>
 
 </div>
