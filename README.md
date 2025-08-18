@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle."</strong>
+    💡 <strong>"Confidence is the greatest friend."</strong>
     <br>
-    <sub>— ✍️ <strong>Albert Einstein</strong></sub>
+    <sub>— ✍️ <strong>Lao Tzu</strong></sub>
   </blockquote>
 
 </div>
