@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The nearer a man comes to a calm mind, the closer he is to strength."</strong>
+    💡 <strong>"Stop wasting time looking at someone else's reality while doing nothing about yours."</strong>
     <br>
-    <sub>— ✍️ <strong>Marcus Aurelius</strong></sub>
+    <sub>— ✍️ <strong>Steve Harvey</strong></sub>
   </blockquote>
 
 </div>
