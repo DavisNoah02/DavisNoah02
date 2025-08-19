@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you want something new, you have to stop doing something old."</strong>
+    💡 <strong>"Words can only have a positive effect on others if and when they are ready to listen."</strong>
     <br>
-    <sub>— ✍️ <strong>Peter Drucker</strong></sub>
+    <sub>— ✍️ <strong>Christopher Reeve</strong></sub>
   </blockquote>
 
 </div>
