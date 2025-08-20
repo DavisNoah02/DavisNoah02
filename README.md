@@ -194,9 +194,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Live your life as an exclamation rather than an explanation."</strong>
+    💡 <strong>"The best way to not feel hopeless is to get up and do something."</strong>
     <br>
-    <sub>— ✍️ <strong>Isaac Newton</strong></sub>
+    <sub>— ✍️ <strong>Barack Obama</strong></sub>
   </blockquote>
 
 </div>
