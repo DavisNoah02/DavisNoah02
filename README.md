@@ -27,8 +27,6 @@
 <br>
 
 - 🛠️  Web Development specializing in  MERN Stack, AWS, and full-stack development.
-- 🌱 Currently learning at ALX_KENYA.
-- 🏗️ Building: Learning Management System.
 - 👯 I am Open to collaborating on any open-source MERN Stack Projects.
 - 💬 Ask me about REACT, JAVASCRIPT, AWS DEVELOPER TOOLS.
 - 📫 How to reach me **m.davenoa@gmail.com**
