@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Do not pray for an easy life, pray for the strength to endure a difficult one. "</strong>
+    💡 <strong>"When you make a choice, you change the future."</strong>
     <br>
-    <sub>— ✍️ <strong>Bruce Lee</strong></sub>
+    <sub>— ✍️ <strong>Deepak Chopra</strong></sub>
   </blockquote>
 
 </div>
