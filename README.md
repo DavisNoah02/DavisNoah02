@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Find something you love and do it better than everyone else."</strong>
+    💡 <strong>"All religions, arts and sciences are branches of the same tree. "</strong>
     <br>
-    <sub>— ✍️ <strong>Gurbaksh Chahal</strong></sub>
+    <sub>— ✍️ <strong>Albert Einstein</strong></sub>
   </blockquote>
 
 </div>
