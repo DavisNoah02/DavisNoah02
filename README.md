@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You are what you do, not what you say you'll do."</strong>
+    💡 <strong>"The more perfect a person is on the outside, the more demons they have on the inside."</strong>
     <br>
-    <sub>— ✍️ <strong>Carl Jung</strong></sub>
+    <sub>— ✍️ <strong>Sigmund Freud</strong></sub>
   </blockquote>
 
 </div>
