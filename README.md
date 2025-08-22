@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"All our dreams can come true, if we have the courage to pursue them."</strong>
+    💡 <strong>"Everything will be ok in the end. If it's not ok, it's not the end."</strong>
     <br>
-    <sub>— ✍️ <strong>Walt Disney</strong></sub>
+    <sub>— ✍️ <strong>John Lennon</strong></sub>
   </blockquote>
 
 </div>
