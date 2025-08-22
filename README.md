@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The purpose of life is the life of purpose."</strong>
+    💡 <strong>"Absorb what is useful, discard what is not, add what is uniquely your own."</strong>
     <br>
-    <sub>— ✍️ <strong>Robin Sharma</strong></sub>
+    <sub>— ✍️ <strong>Bruce Lee</strong></sub>
   </blockquote>
 
 </div>
