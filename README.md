@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Man is affected not by events but by the view he takes of them. "</strong>
+    💡 <strong>"Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad."</strong>
     <br>
-    <sub>— ✍️ <strong>Seneca</strong></sub>
+    <sub>— ✍️ <strong>Harry S. Truman</strong></sub>
   </blockquote>
 
 </div>
