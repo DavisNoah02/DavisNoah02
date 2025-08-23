@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Life has no limitations except the ones you make."</strong>
+    💡 <strong>"We can't help everyone, but everyone can help someone."</strong>
     <br>
-    <sub>— ✍️ <strong>Les Brown</strong></sub>
+    <sub>— ✍️ <strong>Ronald Reagan</strong></sub>
   </blockquote>
 
 </div>
