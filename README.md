@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind."</strong>
+    💡 <strong>"Never allow a person to tell you no who doesn't have the power to say yes."</strong>
     <br>
-    <sub>— ✍️ <strong>Theodore Roosevelt</strong></sub>
+    <sub>— ✍️ <strong>Eleanor Roosevelt</strong></sub>
   </blockquote>
 
 </div>
