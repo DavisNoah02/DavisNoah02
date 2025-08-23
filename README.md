@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It is our experiences that mold us into who we are...during times of adversity our true character will show."</strong>
+    💡 <strong>"Some of your greatest lessons come from your darkest moments."</strong>
     <br>
-    <sub>— ✍️ <strong>Unknown</strong></sub>
+    <sub>— ✍️ <strong>Roger Lee</strong></sub>
   </blockquote>
 
 </div>
