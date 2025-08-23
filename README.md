@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The meaning of life is just to be alive. It is so plain and so obvious and so simple."</strong>
+    💡 <strong>"We may not be able to stop evil in the world, but how we treat one another is entirely up to us."</strong>
     <br>
-    <sub>— ✍️ <strong>Alan Watts</strong></sub>
+    <sub>— ✍️ <strong>Barack Obama</strong></sub>
   </blockquote>
 
 </div>
