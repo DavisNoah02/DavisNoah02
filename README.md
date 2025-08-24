@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward."</strong>
+    💡 <strong>"There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen."</strong>
     <br>
-    <sub>— ✍️ <strong>Unknown</strong></sub>
+    <sub>— ✍️ <strong>Wayne Dyer</strong></sub>
   </blockquote>
 
 </div>
