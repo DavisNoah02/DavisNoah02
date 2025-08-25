@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If a man knows not to which port he sails, no wind is favorable. "</strong>
+    💡 <strong>"The more something threatens your identity, the more you will avoid it."</strong>
     <br>
-    <sub>— ✍️ <strong>Seneca</strong></sub>
+    <sub>— ✍️ <strong>Mark Manson</strong></sub>
   </blockquote>
 
 </div>
