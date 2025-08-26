@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Motivation gets you going and habit gets you there. "</strong>
+    💡 <strong>"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."</strong>
     <br>
-    <sub>— ✍️ <strong>Zig Ziglar</strong></sub>
+    <sub>— ✍️ <strong>Grace Coddington</strong></sub>
   </blockquote>
 
 </div>
