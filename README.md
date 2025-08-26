@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."</strong>
+    💡 <strong>"You can tell more about a person by what he says about others than you can by what others say about him."</strong>
     <br>
-    <sub>— ✍️ <strong>Jonathan Swift</strong></sub>
+    <sub>— ✍️ <strong>Audrey Hepburn</strong></sub>
   </blockquote>
 
 </div>
