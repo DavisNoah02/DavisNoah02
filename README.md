@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</strong>
+    💡 <strong>"Do not stop thinking of life as an adventure."</strong>
     <br>
-    <sub>— ✍️ <strong>Dalai Lama</strong></sub>
+    <sub>— ✍️ <strong>Eleanor Roosevelt</strong></sub>
   </blockquote>
 
 </div>
