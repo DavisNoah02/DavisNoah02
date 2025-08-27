@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Who wishes to fight must first count the cost."</strong>
+    💡 <strong>"What the caterpillar calls the end of the world, the master calls a butterfly."</strong>
     <br>
-    <sub>— ✍️ <strong>Sun Tzu</strong></sub>
+    <sub>— ✍️ <strong>Richard Bach</strong></sub>
   </blockquote>
 
 </div>
