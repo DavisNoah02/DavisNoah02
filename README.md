@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You're braver than you believe, and stronger than you seem, and smarter than you think."</strong>
+    💡 <strong>"People become attached to their burdens sometimes more than the burdens are attached to them."</strong>
     <br>
-    <sub>— ✍️ <strong>A.A. Milne</strong></sub>
+    <sub>— ✍️ <strong>George Bernard Shaw</strong></sub>
   </blockquote>
 
 </div>
