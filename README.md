@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Children are our greatest natural resource."</strong>
+    💡 <strong>"Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving."</strong>
     <br>
-    <sub>— ✍️ <strong>Herbert Hoover</strong></sub>
+    <sub>— ✍️ <strong>Yanni</strong></sub>
   </blockquote>
 
 </div>
