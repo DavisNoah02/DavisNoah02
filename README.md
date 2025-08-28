@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The best time to plant a tree was 20 years ago. The second best time is now."</strong>
+    💡 <strong>"Don't Let Yesterday Take Up Too Much Of Today."</strong>
     <br>
-    <sub>— ✍️ <strong>Zen Proverb</strong></sub>
+    <sub>— ✍️ <strong>Will Rogers</strong></sub>
   </blockquote>
 
 </div>
