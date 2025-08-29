@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."</strong>
+    💡 <strong>"The best revenge is to be unlike him who performed the injury."</strong>
     <br>
-    <sub>— ✍️ <strong>Richard Bach</strong></sub>
+    <sub>— ✍️ <strong>Marcus Aurelius</strong></sub>
   </blockquote>
 
 </div>
