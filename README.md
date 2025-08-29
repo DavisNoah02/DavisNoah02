@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Who you are is defined by what you're willing to struggle for."</strong>
+    💡 <strong>"Obstacles don't block the path, they are the path."</strong>
     <br>
-    <sub>— ✍️ <strong>Mark Manson</strong></sub>
+    <sub>— ✍️ <strong>Zen Proverb</strong></sub>
   </blockquote>
 
 </div>
