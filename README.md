@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift - today."</strong>
+    💡 <strong>"Progress comes to those who train and train; reliance on secret techniques will get you nowhere."</strong>
     <br>
-    <sub>— ✍️ <strong>Steve Maraboli</strong></sub>
+    <sub>— ✍️ <strong>Morihei Ueshiba</strong></sub>
   </blockquote>
 
 </div>
