@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life."</strong>
+    💡 <strong>"Be who you are and say what you feel because those who mind don't matter and those who matter don't mind."</strong>
     <br>
-    <sub>— ✍️ <strong>Confucius</strong></sub>
+    <sub>— ✍️ <strong>Dr. Seuss</strong></sub>
   </blockquote>
 
 </div>
