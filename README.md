@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"To affect the quality of the day, that is the highest of arts."</strong>
+    💡 <strong>"Some people don't like change, but you need to embrace change if the alternative is disaster."</strong>
     <br>
-    <sub>— ✍️ <strong>Henry David Thoreau</strong></sub>
+    <sub>— ✍️ <strong>Elon Musk</strong></sub>
   </blockquote>
 
 </div>
