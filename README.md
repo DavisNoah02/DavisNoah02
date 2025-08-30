@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Quality is more important than quantity. One home run is much better than two doubles."</strong>
+    💡 <strong>"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you."</strong>
     <br>
-    <sub>— ✍️ <strong>Steve Jobs</strong></sub>
+    <sub>— ✍️ <strong>Sonia Ricotti</strong></sub>
   </blockquote>
 
 </div>
