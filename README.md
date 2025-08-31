@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Treat every moment as your last. It is not preparation for something else."</strong>
+    💡 <strong>"The degree of responsibility you take for your life determines how much change you can create in it."</strong>
     <br>
-    <sub>— ✍️ <strong>Shunryu Suzuki</strong></sub>
+    <sub>— ✍️ <strong>Celestine Chua</strong></sub>
   </blockquote>
 
 </div>
