@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."</strong>
+    💡 <strong>"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."</strong>
     <br>
-    <sub>— ✍️ <strong>Martin Luther King, Jr.</strong></sub>
+    <sub>— ✍️ <strong>Roy T. Bennett</strong></sub>
   </blockquote>
 
 </div>
