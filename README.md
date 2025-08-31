@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Silence is the great teacher and to learn its lessons you must pay attention to it."</strong>
+    💡 <strong>"Follow your heart, listen to your inner voice, stop caring about what others think."</strong>
     <br>
-    <sub>— ✍️ <strong>Deepak Chopra</strong></sub>
+    <sub>— ✍️ <strong>Roy T. Bennett</strong></sub>
   </blockquote>
 
 </div>
