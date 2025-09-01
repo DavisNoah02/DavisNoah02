@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Don't be afraid to give up the good to go for the great."</strong>
+    💡 <strong>"Everything you look at can become a fairy tale and you can get a story from everything you touch."</strong>
     <br>
-    <sub>— ✍️ <strong>John D. Rockefeller</strong></sub>
+    <sub>— ✍️ <strong>Hans Christian Andersen</strong></sub>
   </blockquote>
 
 </div>
