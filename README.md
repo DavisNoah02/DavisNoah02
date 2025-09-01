@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Your work is to discover your work and then, with all your heart, to give yourself to it."</strong>
+    💡 <strong>"Man must use what he has, not hope for what is not."</strong>
     <br>
-    <sub>— ✍️ <strong>Buddha</strong></sub>
+    <sub>— ✍️ <strong>G.I. Gurdjieff</strong></sub>
   </blockquote>
 
 </div>
