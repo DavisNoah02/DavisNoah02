@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Even if you're sure you can win, be careful that you can live with what you lose."</strong>
+    💡 <strong>"Don't let making a living prevent you from making a life."</strong>
     <br>
-    <sub>— ✍️ <strong>Gary Keller</strong></sub>
+    <sub>— ✍️ <strong>John Wooden</strong></sub>
   </blockquote>
 
 </div>
