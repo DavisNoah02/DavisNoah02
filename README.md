@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself."</strong>
+    💡 <strong>"A tiger doesn't lose sleep over the opinion of sheep."</strong>
     <br>
-    <sub>— ✍️ <strong>Robert Kiyosaki</strong></sub>
+    <sub>— ✍️ <strong>Shahir Zag</strong></sub>
   </blockquote>
 
 </div>
