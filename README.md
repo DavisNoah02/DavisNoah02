@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Freedom lies in being bold."</strong>
+    💡 <strong>"If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable."</strong>
     <br>
-    <sub>— ✍️ <strong>Robert Frost</strong></sub>
+    <sub>— ✍️ <strong>Maxime Lagace</strong></sub>
   </blockquote>
 
 </div>
