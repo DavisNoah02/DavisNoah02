@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases."</strong>
+    💡 <strong>"To be great is to be misunderstood."</strong>
     <br>
-    <sub>— ✍️ <strong>Sathya Sai Baba</strong></sub>
+    <sub>— ✍️ <strong>Ralph Waldo Emerson</strong></sub>
   </blockquote>
 
 </div>
