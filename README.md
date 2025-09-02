@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff."</strong>
+    💡 <strong>"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases."</strong>
     <br>
-    <sub>— ✍️ <strong>Kamal Ravikant</strong></sub>
+    <sub>— ✍️ <strong>Sathya Sai Baba</strong></sub>
   </blockquote>
 
 </div>
