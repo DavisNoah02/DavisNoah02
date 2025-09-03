@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. "</strong>
+    💡 <strong>"There is no path to Love. Love is the path."</strong>
     <br>
-    <sub>— ✍️ <strong>St. Jerome</strong></sub>
+    <sub>— ✍️ <strong>Dan Millman</strong></sub>
   </blockquote>
 
 </div>
