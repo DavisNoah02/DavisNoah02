@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Life is about choice. You can choose to be a victim or anything else you like to be."</strong>
+    💡 <strong>"By perseverance the snail reached the ark."</strong>
     <br>
-    <sub>— ✍️ <strong>Celestine Chua</strong></sub>
+    <sub>— ✍️ <strong>Charles Spurgeon</strong></sub>
   </blockquote>
 
 </div>
