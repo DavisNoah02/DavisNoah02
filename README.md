@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Never give way to laziness."</strong>
+    💡 <strong>"It's not how much money you make, it's how much money you keep."</strong>
     <br>
-    <sub>— ✍️ <strong>Bhagavad Gita</strong></sub>
+    <sub>— ✍️ <strong>Robert Kiyosaki</strong></sub>
   </blockquote>
 
 </div>
