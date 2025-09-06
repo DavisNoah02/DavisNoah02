@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Greatness comes from living with purpose and passion."</strong>
+    💡 <strong>"Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking."</strong>
     <br>
-    <sub>— ✍️ <strong>Ralph Marston</strong></sub>
+    <sub>— ✍️ <strong>Steve Jobs</strong></sub>
   </blockquote>
 
 </div>
