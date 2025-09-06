@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The opposite of courage in our society is not cowardice... it is conformity."</strong>
+    💡 <strong>"Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy."</strong>
     <br>
-    <sub>— ✍️ <strong>Earl Nightingale</strong></sub>
+    <sub>— ✍️ <strong>Norman Vincent Peale</strong></sub>
   </blockquote>
 
 </div>
