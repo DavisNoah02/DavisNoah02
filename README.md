@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You can't have anything worthwhile without difficulties."</strong>
+    💡 <strong>"You use a glass mirror to see your face; you use works of art to see your soul."</strong>
     <br>
-    <sub>— ✍️ <strong>Harry S. Truman</strong></sub>
+    <sub>— ✍️ <strong>George Bernard Shaw</strong></sub>
   </blockquote>
 
 </div>
