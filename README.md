@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You will never do anything in this world without courage. It is the greatest quality of the mind next to honor."</strong>
+    💡 <strong>"Remember, today is the tomorrow you worried about yesterday."</strong>
     <br>
-    <sub>— ✍️ <strong>James Allen</strong></sub>
+    <sub>— ✍️ <strong>Dale Carnegie</strong></sub>
   </blockquote>
 
 </div>
