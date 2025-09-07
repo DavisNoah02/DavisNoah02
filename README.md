@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Worry is a waste of emotional reserve."</strong>
+    💡 <strong>"Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy."</strong>
     <br>
-    <sub>— ✍️ <strong>Ayn Rand</strong></sub>
+    <sub>— ✍️ <strong>Ralph Marston</strong></sub>
   </blockquote>
 
 </div>
