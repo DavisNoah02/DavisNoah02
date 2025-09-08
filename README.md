@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."</strong>
+    💡 <strong>"I don't ever give up. I'd have to be dead or completely incapacitated."</strong>
     <br>
-    <sub>— ✍️ <strong>Emily Dickinson</strong></sub>
+    <sub>— ✍️ <strong>Elon Musk</strong></sub>
   </blockquote>
 
 </div>
