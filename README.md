@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The more one judges, the less one loves."</strong>
+    💡 <strong>"Money poisons you when you've got it, and starves you when you haven't."</strong>
     <br>
-    <sub>— ✍️ <strong>Honore de Balzac</strong></sub>
+    <sub>— ✍️ <strong>D. H. Lawrence</strong></sub>
   </blockquote>
 
 </div>
