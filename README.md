@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Peace begins with a smile."</strong>
+    💡 <strong>"It's wise to tell the truth. It's even wiser to tell it kindly."</strong>
     <br>
-    <sub>— ✍️ <strong>Mother Teresa</strong></sub>
+    <sub>— ✍️ <strong>Maxime Lagace</strong></sub>
   </blockquote>
 
 </div>
