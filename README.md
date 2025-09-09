@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Truth is not something outside to be discovered, it is something inside to be realized."</strong>
+    💡 <strong>"Don't seek, don't avoid, don't expect. Take what comes and be happy."</strong>
     <br>
-    <sub>— ✍️ <strong>Osho</strong></sub>
+    <sub>— ✍️ <strong>Maxime Lagace</strong></sub>
   </blockquote>
 
 </div>
