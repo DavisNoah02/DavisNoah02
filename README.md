@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You are what you believe yourself to be."</strong>
+    💡 <strong>"Be brave to stand for what you believe in even if you stand alone."</strong>
     <br>
-    <sub>— ✍️ <strong>Paulo Coelho</strong></sub>
+    <sub>— ✍️ <strong>Roy T. Bennett</strong></sub>
   </blockquote>
 
 </div>
