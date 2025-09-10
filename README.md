@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It's not the love you make. It's the love you give. "</strong>
+    💡 <strong>"Do not be so open-minded that your brains fall out."</strong>
     <br>
-    <sub>— ✍️ <strong>Nikola Tesla</strong></sub>
+    <sub>— ✍️ <strong>Gilbert Chesterton</strong></sub>
   </blockquote>
 
 </div>
