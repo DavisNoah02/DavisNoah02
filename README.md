@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Never lose hope. Storms make people stronger and never last forever."</strong>
+    💡 <strong>"Only the hand that erases can write the true thing."</strong>
     <br>
-    <sub>— ✍️ <strong>Roy T. Bennett</strong></sub>
+    <sub>— ✍️ <strong>Meister Eckhart</strong></sub>
   </blockquote>
 
 </div>
