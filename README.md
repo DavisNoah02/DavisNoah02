@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time."</strong>
+    💡 <strong>"The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we're not clear about which is the one we care about."</strong>
     <br>
-    <sub>— ✍️ <strong>Og Mandino</strong></sub>
+    <sub>— ✍️ <strong>Naval Ravikant</strong></sub>
   </blockquote>
 
 </div>
