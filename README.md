@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"I dream my painting and I paint my dream."</strong>
+    💡 <strong>"Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections."</strong>
     <br>
-    <sub>— ✍️ <strong>Vincent van Gogh</strong></sub>
+    <sub>— ✍️ <strong>Bob Marley</strong></sub>
   </blockquote>
 
 </div>
