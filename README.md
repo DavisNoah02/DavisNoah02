@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You purchase pain with all that joy can give and die of nothing but a rage to live."</strong>
+    💡 <strong>"We may not be able to stop evil in the world, but how we treat one another is entirely up to us."</strong>
     <br>
-    <sub>— ✍️ <strong>Alexander Pope</strong></sub>
+    <sub>— ✍️ <strong>Barack Obama</strong></sub>
   </blockquote>
 
 </div>
