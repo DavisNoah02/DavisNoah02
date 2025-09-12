@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"There is no limit to the amount of good you can do if you don't care who gets the credit."</strong>
+    💡 <strong>"Be the silent watcher of your thoughts and behavior. You are beneath the thinker."</strong>
     <br>
-    <sub>— ✍️ <strong>Ronald Reagan</strong></sub>
+    <sub>— ✍️ <strong>Eckhart Tolle</strong></sub>
   </blockquote>
 
 </div>
