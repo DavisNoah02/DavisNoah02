@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Challenge yourself to find the good and beautiful thing inside of everyone."</strong>
+    💡 <strong>"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place."</strong>
     <br>
-    <sub>— ✍️ <strong>Mark Manson</strong></sub>
+    <sub>— ✍️ <strong>Bhagavad Gita</strong></sub>
   </blockquote>
 
 </div>
