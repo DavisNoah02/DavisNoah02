@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</strong>
+    💡 <strong>"I do not seek. I find."</strong>
     <br>
-    <sub>— ✍️ <strong>Winston Churchill</strong></sub>
+    <sub>— ✍️ <strong>Pablo Picasso</strong></sub>
   </blockquote>
 
 </div>
