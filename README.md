@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"A bird does not sing because it has an answer. It sings because it has a song."</strong>
+    💡 <strong>"The art of being wise is knowing what to overlook."</strong>
     <br>
-    <sub>— ✍️ <strong>Chinese Proverb</strong></sub>
+    <sub>— ✍️ <strong>William James</strong></sub>
   </blockquote>
 
 </div>
