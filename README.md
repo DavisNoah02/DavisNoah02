@@ -21,14 +21,19 @@
   <h4>
     Welcome to my GitHub! I'm a Nairobi-based software and web developer, indie founder with 2 years of experience specializing in full-stack web applications using JavaScript, TypeScript, React, Next.js, and Node.js. 
   </h4>
- <h4>My passion lies in building tools that are user-friendly, simple, delightful, and continuously exploring the tech landscape.</h4>
+ <h4>My passion lies in building tools that are user-friendly, simple, delightful, and in continuously exploring the tech landscape.</h4>
 </div>
 
 <br>
 
 - 🛠️  Web Development specializing in  MERN Stack, AWS, and full-stack development.
-- 👯 I am Open to collaborating on any open-source MERN Stack Projects.
-- 💬 Ask me about REACT, JAVASCRIPT, AWS DEVELOPER TOOLS.
+
+- 👨‍💻 All of my projects are available at https://noa-dave.vercel.app
+ 
+- 👯 I am Open to collaborating on any open-source Projects.
+
+- 💬 Ask me about React, NextJS, JavaScript, AWS DEVELOPER TOOLS.
+
 - 📫 How to reach me **m.davenoa@gmail.com**
 <br>
   ⚡ Fun Fact: 
@@ -192,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"To get angry is like to revenge yourself for the guilt of others."</strong>
+    💡 <strong>"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."</strong>
     <br>
-    <sub>— ✍️ <strong>Jonathan Swift</strong></sub>
+    <sub>— ✍️ <strong>Charles Dickens</strong></sub>
   </blockquote>
 
 </div>
