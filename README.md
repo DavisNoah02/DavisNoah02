@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The price of inaction is far greater than the cost of making a mistake."</strong>
+    💡 <strong>"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."</strong>
     <br>
-    <sub>— ✍️ <strong>Meister Eckhart</strong></sub>
+    <sub>— ✍️ <strong>Denis Waitley</strong></sub>
   </blockquote>
 
 </div>
