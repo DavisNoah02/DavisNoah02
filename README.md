@@ -192,9 +192,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it."</strong>
+    💡 <strong>"No man is happy unless he believes he is."</strong>
     <br>
-    <sub>— ✍️ <strong>Robert Frost</strong></sub>
+    <sub>— ✍️ <strong>Publilius Syrus</strong></sub>
   </blockquote>
 
 </div>
