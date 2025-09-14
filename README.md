@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."</strong>
+    💡 <strong>"The purpose of life is the life of purpose."</strong>
     <br>
-    <sub>— ✍️ <strong>Dr. Seuss</strong></sub>
+    <sub>— ✍️ <strong>Robin Sharma</strong></sub>
   </blockquote>
 
 </div>
