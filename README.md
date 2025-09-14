@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."</strong>
+    💡 <strong>"People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."</strong>
     <br>
-    <sub>— ✍️ <strong>Charles Dickens</strong></sub>
+    <sub>— ✍️ <strong>Dr. Seuss</strong></sub>
   </blockquote>
 
 </div>
