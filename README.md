@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Do your duty and a little more and the future will take care of itself."</strong>
+    💡 <strong>"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."</strong>
     <br>
-    <sub>— ✍️ <strong>Andrew Carnegie</strong></sub>
+    <sub>— ✍️ <strong>Henry Ward Beecher</strong></sub>
   </blockquote>
 
 </div>
