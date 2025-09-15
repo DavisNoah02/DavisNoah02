@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"From the errors of others, a wise man corrects his own."</strong>
+    💡 <strong>"The man who removes a mountain begins by carrying away small stones."</strong>
     <br>
-    <sub>— ✍️ <strong>Publilius Syrus</strong></sub>
+    <sub>— ✍️ <strong>William Faulkner</strong></sub>
   </blockquote>
 
 </div>
