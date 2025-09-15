@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The greatest step towards a life of simplicity is to learn to let go."</strong>
+    💡 <strong>"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold."</strong>
     <br>
-    <sub>— ✍️ <strong>Steve Maraboli</strong></sub>
+    <sub>— ✍️ <strong>Chinese Proverb</strong></sub>
   </blockquote>
 
 </div>
