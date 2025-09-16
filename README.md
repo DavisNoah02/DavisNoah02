@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"We must be free not because we claim freedom, but because we practice it."</strong>
+    💡 <strong>"To lose your temper is only useful once a year."</strong>
     <br>
-    <sub>— ✍️ <strong>William Faulkner</strong></sub>
+    <sub>— ✍️ <strong>Colin R. Davis</strong></sub>
   </blockquote>
 
 </div>
