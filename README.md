@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Life is one long process of getting tired."</strong>
+    💡 <strong>"In the middle of difficulty lies opportunity."</strong>
     <br>
-    <sub>— ✍️ <strong>Samuel Butler</strong></sub>
+    <sub>— ✍️ <strong>Albert Einstein</strong></sub>
   </blockquote>
 
 </div>
