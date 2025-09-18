@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Confidence is contagious. So is lack of confidence."</strong>
+    💡 <strong>"The more acquaintances you have, the less you know them."</strong>
     <br>
-    <sub>— ✍️ <strong>Vince Lombardi</strong></sub>
+    <sub>— ✍️ <strong>Chinese Proverb</strong></sub>
   </blockquote>
 
 </div>
