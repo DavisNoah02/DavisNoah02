@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"No matter what happens, always be yourself."</strong>
+    💡 <strong>"There is no truth. There is only perception."</strong>
     <br>
-    <sub>— ✍️ <strong>Dale Carnegie</strong></sub>
+    <sub>— ✍️ <strong>Gustave Flaubert</strong></sub>
   </blockquote>
 
 </div>
