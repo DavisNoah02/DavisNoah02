@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"When you love someone, you love the person as they are, and not as you'd like them to be."</strong>
+    💡 <strong>"One beam, no matter how big, cannot support an entire house on its own."</strong>
     <br>
-    <sub>— ✍️ <strong>Leo Tolstoy</strong></sub>
+    <sub>— ✍️ <strong>Chinese Proverb</strong></sub>
   </blockquote>
 
 </div>
