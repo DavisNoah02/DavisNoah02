@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you pray for rain, be prepared to deal with some mud."</strong>
+    💡 <strong>"If it is not right, do not do it, if it is not true, do not say it."</strong>
     <br>
-    <sub>— ✍️ <strong>Mary Engelbreit</strong></sub>
+    <sub>— ✍️ <strong>Marcus Aurelius</strong></sub>
   </blockquote>
 
 </div>
