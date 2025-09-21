@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"He who is not contented with what he has, would not be contented with what he would like to have."</strong>
+    💡 <strong>"The secret of life is to fall seven times and to get up eight times."</strong>
     <br>
-    <sub>— ✍️ <strong>Socrates</strong></sub>
+    <sub>— ✍️ <strong>Paulo Coelho</strong></sub>
   </blockquote>
 
 </div>
