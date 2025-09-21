@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Concentrated power has always been the enemy of liberty."</strong>
+    💡 <strong>"The weak can never forgive. Forgiveness is the attribute of the strong."</strong>
     <br>
-    <sub>— ✍️ <strong>Ronald Reagan</strong></sub>
+    <sub>— ✍️ <strong>Mahatma Gandhi</strong></sub>
   </blockquote>
 
 </div>
