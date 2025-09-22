@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The most difficult times for many of us are the ones we give ourselves."</strong>
+    💡 <strong>"It ain't where you start in life, it's where you end up, and what you did along the way."</strong>
     <br>
-    <sub>— ✍️ <strong>Pema Chodron</strong></sub>
+    <sub>— ✍️ <strong>Colin Powell</strong></sub>
   </blockquote>
 
 </div>
