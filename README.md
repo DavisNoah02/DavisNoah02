@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You must welcome change as the rule but not as your ruler. "</strong>
+    💡 <strong>"To raise your consciousness, surround yourself with people of higher consciousness."</strong>
     <br>
-    <sub>— ✍️ <strong>Denis Waitley</strong></sub>
+    <sub>— ✍️ <strong>Celestine Chua</strong></sub>
   </blockquote>
 
 </div>
