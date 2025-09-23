@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The meaning of life is to find your gift. The purpose of life is to give it away."</strong>
+    💡 <strong>"Don't talk about what you have done or what you are going to do."</strong>
     <br>
-    <sub>— ✍️ <strong>Pablo Picasso</strong></sub>
+    <sub>— ✍️ <strong>Thomas Jefferson</strong></sub>
   </blockquote>
 
 </div>
