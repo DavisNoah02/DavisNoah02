@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Nothing endures but change."</strong>
+    💡 <strong>"Life belongs to the living, and he who lives must be prepared for changes."</strong>
     <br>
-    <sub>— ✍️ <strong>Heraclitus</strong></sub>
+    <sub>— ✍️ <strong>Johann Wolfgang von Goethe</strong></sub>
   </blockquote>
 
 </div>
