@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"I don't ever give up. I'd have to be dead or completely incapacitated."</strong>
+    💡 <strong>"Life is about choice. You can choose to be a victim or anything else you like to be."</strong>
     <br>
-    <sub>— ✍️ <strong>Elon Musk</strong></sub>
+    <sub>— ✍️ <strong>Celestine Chua</strong></sub>
   </blockquote>
 
 </div>
