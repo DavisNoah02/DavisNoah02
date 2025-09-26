@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose."</strong>
+    💡 <strong>"We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality."</strong>
     <br>
-    <sub>— ✍️ <strong>Simon Sinek</strong></sub>
+    <sub>— ✍️ <strong>Vaclav Havel</strong></sub>
   </blockquote>
 
 </div>
