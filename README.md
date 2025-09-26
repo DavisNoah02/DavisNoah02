@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Do the hard jobs first. The easy jobs will take care of themselves."</strong>
+    💡 <strong>"If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present."</strong>
     <br>
-    <sub>— ✍️ <strong>Dale Carnegie</strong></sub>
+    <sub>— ✍️ <strong>Roy T. Bennett</strong></sub>
   </blockquote>
 
 </div>
