@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</strong>
+    💡 <strong>"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."</strong>
     <br>
-    <sub>— ✍️ <strong>Barack Obama</strong></sub>
+    <sub>— ✍️ <strong>Jeffrey Gitomer</strong></sub>
   </blockquote>
 
 </div>
