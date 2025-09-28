@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You can have results or excuses, but not both."</strong>
+    💡 <strong>"Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. "</strong>
     <br>
-    <sub>— ✍️ <strong>Arnold Schwarzenegger</strong></sub>
+    <sub>— ✍️ <strong>Oprah Winfrey</strong></sub>
   </blockquote>
 
 </div>
