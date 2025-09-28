@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Your life does not get better by chance, it gets better by change."</strong>
+    💡 <strong>"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."</strong>
     <br>
-    <sub>— ✍️ <strong>Jim Rohn</strong></sub>
+    <sub>— ✍️ <strong>Steve Maraboli</strong></sub>
   </blockquote>
 
 </div>
