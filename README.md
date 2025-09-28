@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that."</strong>
+    💡 <strong>"Keep others in suspense, cultivate an air of unpredictability."</strong>
     <br>
-    <sub>— ✍️ <strong>Eckhart Tolle</strong></sub>
+    <sub>— ✍️ <strong>Robert Greene</strong></sub>
   </blockquote>
 
 </div>
