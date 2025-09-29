@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It takes half your life before you discover life is a do-it-yourself project."</strong>
+    💡 <strong>"Love is the expression of one's values."</strong>
     <br>
-    <sub>— ✍️ <strong>Napoleon Hill</strong></sub>
+    <sub>— ✍️ <strong>Ayn Rand</strong></sub>
   </blockquote>
 
 </div>
