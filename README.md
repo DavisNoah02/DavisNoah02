@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"We love the things we love for what they are."</strong>
+    💡 <strong>"Life is much more successfully looked at from a single window."</strong>
     <br>
-    <sub>— ✍️ <strong>Robert Frost</strong></sub>
+    <sub>— ✍️ <strong>F. Scott Fitzgerald</strong></sub>
   </blockquote>
 
 </div>
