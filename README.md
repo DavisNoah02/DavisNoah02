@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Life's too mysterious to take too serious."</strong>
+    💡 <strong>"It takes a very long time to become young."</strong>
     <br>
-    <sub>— ✍️ <strong>Mary Engelbreit</strong></sub>
+    <sub>— ✍️ <strong>Pablo Picasso</strong></sub>
   </blockquote>
 
 </div>
