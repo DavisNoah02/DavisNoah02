@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The only thing more frustrating than slanderers is those foolish enough to listen to them."</strong>
+    💡 <strong>"Our stories may be singular, but our destination is shared."</strong>
     <br>
-    <sub>— ✍️ <strong>Criss Jami</strong></sub>
+    <sub>— ✍️ <strong>Barack Obama</strong></sub>
   </blockquote>
 
 </div>
