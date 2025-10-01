@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You are what you believe in. You become that which you believe you can become."</strong>
+    💡 <strong>"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results."</strong>
     <br>
-    <sub>— ✍️ <strong>Bhagavad Gita</strong></sub>
+    <sub>— ✍️ <strong>Peter Drucker</strong></sub>
   </blockquote>
 
 </div>
