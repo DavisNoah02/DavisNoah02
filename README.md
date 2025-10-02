@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</strong>
+    💡 <strong>"If you run you stand a chance of losing, but if you don't run you've already lost."</strong>
     <br>
-    <sub>— ✍️ <strong>Winston Churchill</strong></sub>
+    <sub>— ✍️ <strong>Barack Obama</strong></sub>
   </blockquote>
 
 </div>
