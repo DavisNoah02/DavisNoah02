@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If I can pay the bills, I'm happy."</strong>
+    💡 <strong>"Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable."</strong>
     <br>
-    <sub>— ✍️ <strong>Morgan Wootten</strong></sub>
+    <sub>— ✍️ <strong>Earl Nightingale</strong></sub>
   </blockquote>
 
 </div>
