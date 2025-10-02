@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Eighty percent of success is showing up. "</strong>
+    💡 <strong>"Our attitude toward life determines life's attitude towards us."</strong>
     <br>
-    <sub>— ✍️ <strong>Woody Allen</strong></sub>
+    <sub>— ✍️ <strong>Earl Nightingale</strong></sub>
   </blockquote>
 
 </div>
