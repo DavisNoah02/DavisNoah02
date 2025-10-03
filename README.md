@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Sad thing is, you can still love someone and be wrong for them."</strong>
+    💡 <strong>"Life should be touched, not strangled. "</strong>
     <br>
-    <sub>— ✍️ <strong>Elvis Presley</strong></sub>
+    <sub>— ✍️ <strong>Ray Bradbury</strong></sub>
   </blockquote>
 
 </div>
