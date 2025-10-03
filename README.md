@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</strong>
+    💡 <strong>"I was wise enough to never grow up while fooling most people into believing I had. "</strong>
     <br>
-    <sub>— ✍️ <strong>Nikola Tesla</strong></sub>
+    <sub>— ✍️ <strong>Margaret Mead</strong></sub>
   </blockquote>
 
 </div>
