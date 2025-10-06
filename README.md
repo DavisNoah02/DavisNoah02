@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"I have not failed. I've just found 10,000 ways that won't work."</strong>
+    💡 <strong>"Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity."</strong>
     <br>
-    <sub>— ✍️ <strong>Thomas Edison</strong></sub>
+    <sub>— ✍️ <strong>Charles Spurgeon</strong></sub>
   </blockquote>
 
 </div>
