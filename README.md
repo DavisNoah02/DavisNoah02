@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Do not think you will necessarily be aware of your own enlightenment."</strong>
+    💡 <strong>"The secret of happiness is not in doing what you like but in liking what you have to do."</strong>
     <br>
-    <sub>— ✍️ <strong>Dogen</strong></sub>
+    <sub>— ✍️ <strong>Sathya Sai Baba</strong></sub>
   </blockquote>
 
 </div>
