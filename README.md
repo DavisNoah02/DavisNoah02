@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."</strong>
+    💡 <strong>"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."</strong>
     <br>
-    <sub>— ✍️ <strong>Ralph Waldo Emerson</strong></sub>
+    <sub>— ✍️ <strong>Andrew Carnegie</strong></sub>
   </blockquote>
 
 </div>
