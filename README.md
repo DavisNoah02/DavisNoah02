@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Yesterday is gone. Tomorrow has not yet come. We have only today."</strong>
+    💡 <strong>"Truth is exact correspondence with reality. "</strong>
     <br>
-    <sub>— ✍️ <strong>Mother Teresa</strong></sub>
+    <sub>— ✍️ <strong>Paramahansa Yogananda</strong></sub>
   </blockquote>
 
 </div>
