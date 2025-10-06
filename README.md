@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The chief cause of failure and unhappiness is trading what you want most for what you want right now."</strong>
+    💡 <strong>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</strong>
     <br>
-    <sub>— ✍️ <strong>Zig Ziglar</strong></sub>
+    <sub>— ✍️ <strong>Albert Einstein</strong></sub>
   </blockquote>
 
 </div>
