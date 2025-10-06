@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you don't make things happen then things will happen to you."</strong>
+    💡 <strong>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</strong>
     <br>
-    <sub>— ✍️ <strong>Robert Collier</strong></sub>
+    <sub>— ✍️ <strong>Rumi</strong></sub>
   </blockquote>
 
 </div>
