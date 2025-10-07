@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."</strong>
+    💡 <strong>"If you're waiting until you feel talented enough to make it, you'll never make it."</strong>
     <br>
-    <sub>— ✍️ <strong>John Tukey</strong></sub>
+    <sub>— ✍️ <strong>Criss Jami</strong></sub>
   </blockquote>
 
 </div>
