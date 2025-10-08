@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Better a diamond with a flaw than a pebble without one."</strong>
+    💡 <strong>"You can only lose something that you have, but you cannot lose something that you are."</strong>
     <br>
-    <sub>— ✍️ <strong>Chinese Proverb</strong></sub>
+    <sub>— ✍️ <strong>Eckhart Tolle</strong></sub>
   </blockquote>
 
 </div>
