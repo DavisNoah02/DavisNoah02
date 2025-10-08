@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Others can stop you temporarily - you are the only one who can do it permanently."</strong>
+    💡 <strong>"Winners don't Quit. That's why they Win."</strong>
     <br>
-    <sub>— ✍️ <strong>Zig Ziglar</strong></sub>
+    <sub>— ✍️ <strong>Unknown</strong></sub>
   </blockquote>
 
 </div>
