@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries."</strong>
+    💡 <strong>"Men are disturbed not by things, but by the view which they take of them."</strong>
     <br>
-    <sub>— ✍️ <strong>Amelia Earhart</strong></sub>
+    <sub>— ✍️ <strong>Epictetus</strong></sub>
   </blockquote>
 
 </div>
