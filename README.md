@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The enemy is a very good teacher."</strong>
+    💡 <strong>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</strong>
     <br>
-    <sub>— ✍️ <strong>Dalai Lama</strong></sub>
+    <sub>— ✍️ <strong>Lao Tzu</strong></sub>
   </blockquote>
 
 </div>
