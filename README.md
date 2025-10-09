@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Our greatest glory is not in never falling but in rising every time we fall."</strong>
+    💡 <strong>"The most difficult times for many of us are the ones we give ourselves."</strong>
     <br>
-    <sub>— ✍️ <strong>Confucius</strong></sub>
+    <sub>— ✍️ <strong>Pema Chodron</strong></sub>
   </blockquote>
 
 </div>
