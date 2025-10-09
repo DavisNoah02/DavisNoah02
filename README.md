@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Attitude is a little thing that makes a big difference."</strong>
+    💡 <strong>"Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us."</strong>
     <br>
-    <sub>— ✍️ <strong>Winston Churchill</strong></sub>
+    <sub>— ✍️ <strong>Richard Bach</strong></sub>
   </blockquote>
 
 </div>
