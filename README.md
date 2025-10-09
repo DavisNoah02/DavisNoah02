@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</strong>
+    💡 <strong>"To succeed takes more than the desire to win. It also takes the acceptance that we could fail."</strong>
     <br>
-    <sub>— ✍️ <strong>Lao Tzu</strong></sub>
+    <sub>— ✍️ <strong>Simon Sinek</strong></sub>
   </blockquote>
 
 </div>
