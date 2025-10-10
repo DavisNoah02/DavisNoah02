@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Don't explain your philosophy. Embody it."</strong>
+    💡 <strong>"The road to success and the road to failure are almost exactly the same."</strong>
     <br>
-    <sub>— ✍️ <strong>Epictetus</strong></sub>
+    <sub>— ✍️ <strong>Colin R. Davis</strong></sub>
   </blockquote>
 
 </div>
