@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Man suffers only because he takes seriously what the gods made for fun."</strong>
+    💡 <strong>"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."</strong>
     <br>
-    <sub>— ✍️ <strong>Alan Watts</strong></sub>
+    <sub>— ✍️ <strong>Sun Tzu</strong></sub>
   </blockquote>
 
 </div>
