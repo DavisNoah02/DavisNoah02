@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Progress lies not in enhancing what is, but in advancing toward what will be."</strong>
+    💡 <strong>"When you consider things like the stars, our affairs don't seem to matter very much, do they?"</strong>
     <br>
-    <sub>— ✍️ <strong>Kahlil Gibran</strong></sub>
+    <sub>— ✍️ <strong>Virginia Woolf</strong></sub>
   </blockquote>
 
 </div>
