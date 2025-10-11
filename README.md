@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Be regular and orderly in your life, so that you may be violent and original in your work."</strong>
+    💡 <strong>"All religions, arts and sciences are branches of the same tree. "</strong>
     <br>
-    <sub>— ✍️ <strong>Gustave Flaubert</strong></sub>
+    <sub>— ✍️ <strong>Albert Einstein</strong></sub>
   </blockquote>
 
 </div>
