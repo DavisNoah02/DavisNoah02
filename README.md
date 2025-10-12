@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You don't need a weatherman to know which way the wind blows."</strong>
+    💡 <strong>"People are not disturbed by things, but by the views they take of them."</strong>
     <br>
-    <sub>— ✍️ <strong>Bob Dylan</strong></sub>
+    <sub>— ✍️ <strong>Epictetus</strong></sub>
   </blockquote>
 
 </div>
