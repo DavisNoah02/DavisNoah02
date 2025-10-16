@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You can easily judge the character of a man by how he treats those who can do nothing for him."</strong>
+    💡 <strong>"Adventure is not outside man; it is within."</strong>
     <br>
-    <sub>— ✍️ <strong>Johann Wolfgang von Goethe</strong></sub>
+    <sub>— ✍️ <strong>George Eliot</strong></sub>
   </blockquote>
 
 </div>
