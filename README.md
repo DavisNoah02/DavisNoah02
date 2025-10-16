@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Numbing the pain for a while will make it worse when you finally feel it."</strong>
+    💡 <strong>"Whatever you are, be a good one."</strong>
     <br>
-    <sub>— ✍️ <strong>Albus Dumbledore</strong></sub>
+    <sub>— ✍️ <strong>Abraham Lincoln</strong></sub>
   </blockquote>
 
 </div>
