@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Nothing that results in human progress is achieved with unanimous consent."</strong>
+    💡 <strong>"If you want something then you lose everything. If you don't want anything then you already have everything."</strong>
     <br>
-    <sub>— ✍️ <strong>Christopher Columbus</strong></sub>
+    <sub>— ✍️ <strong>Seungsahn</strong></sub>
   </blockquote>
 
 </div>
