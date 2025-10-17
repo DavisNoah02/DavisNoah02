@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you want something then you lose everything. If you don't want anything then you already have everything."</strong>
+    💡 <strong>"Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage."</strong>
     <br>
-    <sub>— ✍️ <strong>Seungsahn</strong></sub>
+    <sub>— ✍️ <strong>Celestine Chua</strong></sub>
   </blockquote>
 
 </div>
