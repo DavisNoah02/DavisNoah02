@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Enlightenment is intimacy with all things."</strong>
+    💡 <strong>"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."</strong>
     <br>
-    <sub>— ✍️ <strong>Dogen</strong></sub>
+    <sub>— ✍️ <strong>Nelson Mandela</strong></sub>
   </blockquote>
 
 </div>
