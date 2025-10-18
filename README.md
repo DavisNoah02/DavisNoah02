@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Our life isn't how much we can take out, but how much we can put in. "</strong>
+    💡 <strong>"Do not look upon this world with fear and loathing. Bravely face whatever the gods offer."</strong>
     <br>
-    <sub>— ✍️ <strong>Estee Lauder</strong></sub>
+    <sub>— ✍️ <strong>Morihei Ueshiba</strong></sub>
   </blockquote>
 
 </div>
