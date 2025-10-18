@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination."</strong>
+    💡 <strong>"Trust is the foundation of great leadership."</strong>
     <br>
-    <sub>— ✍️ <strong>Elbert Hubbard</strong></sub>
+    <sub>— ✍️ <strong>Lolly Daskal</strong></sub>
   </blockquote>
 
 </div>
