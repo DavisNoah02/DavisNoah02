@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot."</strong>
+    💡 <strong>"Looking after my health today gives me a better hope for tomorrow. "</strong>
     <br>
-    <sub>— ✍️ <strong>Wayne Gretzky</strong></sub>
+    <sub>— ✍️ <strong>Anne Wilson Schaef</strong></sub>
   </blockquote>
 
 </div>
