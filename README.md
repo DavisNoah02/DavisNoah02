@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"What the mind can conceive and believe, and the heart desire, you can achieve."</strong>
+    💡 <strong>"What one does is what counts. Not what one had the intention of doing."</strong>
     <br>
-    <sub>— ✍️ <strong>Norman Vincent Peale</strong></sub>
+    <sub>— ✍️ <strong>Pablo Picasso</strong></sub>
   </blockquote>
 
 </div>
