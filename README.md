@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The wise man reads both books and life itself."</strong>
+    💡 <strong>"Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things."</strong>
     <br>
-    <sub>— ✍️ <strong>Lin Yutang</strong></sub>
+    <sub>— ✍️ <strong>Celestine Chua</strong></sub>
   </blockquote>
 
 </div>
