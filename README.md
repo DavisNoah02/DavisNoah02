@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Optimism is the one quality more associated with success and happiness than any other."</strong>
+    💡 <strong>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</strong>
     <br>
-    <sub>— ✍️ <strong>Brian Tracy</strong></sub>
+    <sub>— ✍️ <strong>Sigmund Freud</strong></sub>
   </blockquote>
 
 </div>
