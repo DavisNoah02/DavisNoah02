@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Your time is limited, so don't waste it living someone elses. life."</strong>
+    💡 <strong>"If you're not failing every now and again, it's a sign you're not doing anything very innovative."</strong>
     <br>
-    <sub>— ✍️ <strong>Steve Jobs</strong></sub>
+    <sub>— ✍️ <strong>Woody Allen</strong></sub>
   </blockquote>
 
 </div>
