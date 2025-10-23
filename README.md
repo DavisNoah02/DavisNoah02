@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If the happiness and prosperity of other people depend on you, you have nothing to fear anymore."</strong>
+    💡 <strong>"Don't look for meaning in the words. Listen to the silences."</strong>
     <br>
-    <sub>— ✍️ <strong>Robert Greene</strong></sub>
+    <sub>— ✍️ <strong>Samuel Beckett</strong></sub>
   </blockquote>
 
 </div>
