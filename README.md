@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream."</strong>
+    💡 <strong>"Ripe fruit falls by itself - but it doesn't fall in your mouth. "</strong>
     <br>
-    <sub>— ✍️ <strong>Unknown</strong></sub>
+    <sub>— ✍️ <strong>Chinese Proverb</strong></sub>
   </blockquote>
 
 </div>
