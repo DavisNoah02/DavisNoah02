@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way."</strong>
+    💡 <strong>"A mountain never yields to the wind no matter how strong it is."</strong>
     <br>
-    <sub>— ✍️ <strong>Osho</strong></sub>
+    <sub>— ✍️ <strong>Zen Proverb</strong></sub>
   </blockquote>
 
 </div>
