@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Relax. Nothing is under control."</strong>
+    💡 <strong>"Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace."</strong>
     <br>
-    <sub>— ✍️ <strong>Adi Da Samraj</strong></sub>
+    <sub>— ✍️ <strong>Earl Nightingale</strong></sub>
   </blockquote>
 
 </div>
