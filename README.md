@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Awaken. Take heed, do not squander your life."</strong>
+    💡 <strong>"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can."</strong>
     <br>
-    <sub>— ✍️ <strong>Dogen</strong></sub>
+    <sub>— ✍️ <strong>Norman Vincent Peale</strong></sub>
   </blockquote>
 
 </div>
