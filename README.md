@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Strive for excellence, not perfection, because we don't live in a perfect world."</strong>
+    💡 <strong>"No amount of regretting can change the past, and no amount of worrying can change the future."</strong>
     <br>
-    <sub>— ✍️ <strong>Joyce Meyer</strong></sub>
+    <sub>— ✍️ <strong>Roy T. Bennett</strong></sub>
   </blockquote>
 
 </div>
