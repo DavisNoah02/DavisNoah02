@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Everything you look at can become a fairy tale and you can get a story from everything you touch."</strong>
+    💡 <strong>"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored."</strong>
     <br>
-    <sub>— ✍️ <strong>Hans Christian Andersen</strong></sub>
+    <sub>— ✍️ <strong>Earl Nightingale</strong></sub>
   </blockquote>
 
 </div>
