@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"There is nothing like looking if you want to find something."</strong>
+    💡 <strong>"A hut full of laughter is richer than a palace full of sadness."</strong>
     <br>
-    <sub>— ✍️ <strong>J.R.R. Tolkien</strong></sub>
+    <sub>— ✍️ <strong>Zen Proverb</strong></sub>
   </blockquote>
 
 </div>
