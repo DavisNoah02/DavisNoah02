@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Truth is like most opinions - best unexpressed."</strong>
+    💡 <strong>"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."</strong>
     <br>
-    <sub>— ✍️ <strong>Kenneth Branagh</strong></sub>
+    <sub>— ✍️ <strong>Elon Musk</strong></sub>
   </blockquote>
 
 </div>
