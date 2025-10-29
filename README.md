@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</strong>
+    💡 <strong>"No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations."</strong>
     <br>
-    <sub>— ✍️ <strong>Celestine Chua</strong></sub>
+    <sub>— ✍️ <strong>Wayne Gretzky</strong></sub>
   </blockquote>
 
 </div>
