@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Most people dabble their way through life, never deciding to master anything in particular."</strong>
+    💡 <strong>"A memory is a beautiful thing, it's almost a desire that you miss."</strong>
     <br>
-    <sub>— ✍️ <strong>Tony Robbins</strong></sub>
+    <sub>— ✍️ <strong>Gustave Flaubert</strong></sub>
   </blockquote>
 
 </div>
