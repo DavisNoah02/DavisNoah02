@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The price of inaction is far greater than the cost of making a mistake."</strong>
+    💡 <strong>"Success and failure come and go, but don't let them define you. It's who you are that matters."</strong>
     <br>
-    <sub>— ✍️ <strong>Meister Eckhart</strong></sub>
+    <sub>— ✍️ <strong>Kamal Ravikant</strong></sub>
   </blockquote>
 
 </div>
