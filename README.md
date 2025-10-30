@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Presents are made for the pleasure of who gives them, not the merits of who receives them."</strong>
+    💡 <strong>"There is only one thing in the world worse than being talked about, and that is not being talked about. "</strong>
     <br>
-    <sub>— ✍️ <strong>Carlos Ruiz Zafon</strong></sub>
+    <sub>— ✍️ <strong>Oscar Wilde</strong></sub>
   </blockquote>
 
 </div>
