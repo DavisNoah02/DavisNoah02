@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Don't cry because it's over. Smile because it happened."</strong>
+    💡 <strong>"If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else."</strong>
     <br>
-    <sub>— ✍️ <strong>Dr. Seuss</strong></sub>
+    <sub>— ✍️ <strong>Simon Sinek</strong></sub>
   </blockquote>
 
 </div>
