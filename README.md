@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Opportunity is missed by most people because it is dressed in overalls and looks like work."</strong>
+    💡 <strong>"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"</strong>
     <br>
-    <sub>— ✍️ <strong>Thomas Edison</strong></sub>
+    <sub>— ✍️ <strong>Og Mandino</strong></sub>
   </blockquote>
 
 </div>
