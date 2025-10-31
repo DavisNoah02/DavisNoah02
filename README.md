@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The friend is the man who knows all about you, and still likes you."</strong>
+    💡 <strong>"It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has."</strong>
     <br>
-    <sub>— ✍️ <strong>Elbert Hubbard</strong></sub>
+    <sub>— ✍️ <strong>Henry Ward Beecher</strong></sub>
   </blockquote>
 
 </div>
