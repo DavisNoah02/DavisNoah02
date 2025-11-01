@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The past has no power over the present moment. "</strong>
+    💡 <strong>"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose."</strong>
     <br>
-    <sub>— ✍️ <strong>Eckhart Tolle</strong></sub>
+    <sub>— ✍️ <strong>Dr. Seuss</strong></sub>
   </blockquote>
 
 </div>
