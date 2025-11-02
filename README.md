@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Just because something isn't a lie does not mean that it isn't deceptive."</strong>
+    💡 <strong>"Life is either a daring adventure, or it is nothing."</strong>
     <br>
-    <sub>— ✍️ <strong>Criss Jami</strong></sub>
+    <sub>— ✍️ <strong>Helen Keller</strong></sub>
   </blockquote>
 
 </div>
