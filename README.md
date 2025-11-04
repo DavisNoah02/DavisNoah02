@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes."</strong>
+    💡 <strong>"To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless."</strong>
     <br>
-    <sub>— ✍️ <strong>A.A. Milne</strong></sub>
+    <sub>— ✍️ <strong>Deepak Chopra</strong></sub>
   </blockquote>
 
 </div>
