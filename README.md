@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You can't tell big dreams to small minded people."</strong>
+    💡 <strong>"Truth is not something outside to be discovered, it is something inside to be realized."</strong>
     <br>
-    <sub>— ✍️ <strong>Steve Harvey</strong></sub>
+    <sub>— ✍️ <strong>Osho</strong></sub>
   </blockquote>
 
 </div>
