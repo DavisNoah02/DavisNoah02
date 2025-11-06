@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Just do the best you can. No one can do more than that."</strong>
+    💡 <strong>"No one returns from a long journey the same person they were before."</strong>
     <br>
-    <sub>— ✍️ <strong>John Wooden</strong></sub>
+    <sub>— ✍️ <strong>Zen Proverb</strong></sub>
   </blockquote>
 
 </div>
