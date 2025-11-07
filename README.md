@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"I am thankful to all those who said no. It's because of them, I did it myself. "</strong>
+    💡 <strong>"It's necessary to get the losers out of your life if you want to live your dream."</strong>
     <br>
-    <sub>— ✍️ <strong>Wayne Dyer</strong></sub>
+    <sub>— ✍️ <strong>Les Brown</strong></sub>
   </blockquote>
 
 </div>
