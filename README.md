@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It's what you do in the present that will redeem the past and thereby change the future."</strong>
+    💡 <strong>"If you want to know what God thinks about money just look at the people He gives it to."</strong>
     <br>
-    <sub>— ✍️ <strong>Paulo Coelho</strong></sub>
+    <sub>— ✍️ <strong>Alexander Pope</strong></sub>
   </blockquote>
 
 </div>
