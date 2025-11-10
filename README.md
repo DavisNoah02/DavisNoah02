@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Embrace the life you have and stop wishing that you could be someone else."</strong>
+    💡 <strong>"What keeps life fascinating is the constant creativity of the soul."</strong>
     <br>
-    <sub>— ✍️ <strong>Joyce Meyer</strong></sub>
+    <sub>— ✍️ <strong>Deepak Chopra</strong></sub>
   </blockquote>
 
 </div>
