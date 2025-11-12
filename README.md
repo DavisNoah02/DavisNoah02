@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Each time we don't say what we wanna say, we're dying."</strong>
+    💡 <strong>"Sometimes adversity is what you need to face in order to become successful."</strong>
     <br>
-    <sub>— ✍️ <strong>Yoko Ono</strong></sub>
+    <sub>— ✍️ <strong>Zig Ziglar</strong></sub>
   </blockquote>
 
 </div>
