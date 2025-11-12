@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."</strong>
+    💡 <strong>"The world doesn't always give you want, but it often gives you what you need."</strong>
     <br>
-    <sub>— ✍️ <strong>Amelia Earhart</strong></sub>
+    <sub>— ✍️ <strong>Naval Ravikant</strong></sub>
   </blockquote>
 
 </div>
