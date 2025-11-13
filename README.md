@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Lack of direction, not lack of time, is the problem. We all have twenty-four hour days."</strong>
+    💡 <strong>"It is in changing that we find purpose."</strong>
     <br>
-    <sub>— ✍️ <strong>Zig Ziglar</strong></sub>
+    <sub>— ✍️ <strong>Heraclitus</strong></sub>
   </blockquote>
 
 </div>
