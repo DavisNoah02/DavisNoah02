@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"My instinct is always to seek out challenges as opposed to avoiding them."</strong>
+    💡 <strong>"Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great."</strong>
     <br>
-    <sub>— ✍️ <strong>Josh Waitzkin</strong></sub>
+    <sub>— ✍️ <strong>Billie Jean King</strong></sub>
   </blockquote>
 
 </div>
