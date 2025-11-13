@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It's not what you've got; it's what you do that makes the difference."</strong>
+    💡 <strong>"The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time."</strong>
     <br>
-    <sub>— ✍️ <strong>Celestine Chua</strong></sub>
+    <sub>— ✍️ <strong>Dan Millman</strong></sub>
   </blockquote>
 
 </div>
