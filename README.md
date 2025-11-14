@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results."</strong>
+    💡 <strong>"True knowledge exists in knowing that you know nothing."</strong>
     <br>
-    <sub>— ✍️ <strong>Tony Robbins</strong></sub>
+    <sub>— ✍️ <strong>Socrates</strong></sub>
   </blockquote>
 
 </div>
