@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Who looks outside, dreams; who looks inside, awakes."</strong>
+    💡 <strong>"Live your life as an exclamation rather than an explanation."</strong>
     <br>
-    <sub>— ✍️ <strong>Lolly Daskal</strong></sub>
+    <sub>— ✍️ <strong>Isaac Newton</strong></sub>
   </blockquote>
 
 </div>
