@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before."</strong>
+    💡 <strong>"She who loves roses must be patient and not cry out when she is pierced by thorns."</strong>
     <br>
-    <sub>— ✍️ <strong>Alexander Graham Bell</strong></sub>
+    <sub>— ✍️ <strong>Kenji Miyazawa</strong></sub>
   </blockquote>
 
 </div>
