@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Originality is the fine art of remembering what you hear but forgetting where you heard it. "</strong>
+    💡 <strong>"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."</strong>
     <br>
-    <sub>— ✍️ <strong>Laurence J. Peter</strong></sub>
+    <sub>— ✍️ <strong>T.S. Eliot</strong></sub>
   </blockquote>
 
 </div>
