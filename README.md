@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome."</strong>
+    💡 <strong>"Fear of death is fear of the Unknown."</strong>
     <br>
-    <sub>— ✍️ <strong>Tony Robbins</strong></sub>
+    <sub>— ✍️ <strong>Adi Da Samraj</strong></sub>
   </blockquote>
 
 </div>
