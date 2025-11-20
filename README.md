@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy."</strong>
+    💡 <strong>"Your only limitations are those you set up in your mind or permit others to set up for you."</strong>
     <br>
-    <sub>— ✍️ <strong>Thich Nhat Hanh</strong></sub>
+    <sub>— ✍️ <strong>Og Mandino</strong></sub>
   </blockquote>
 
 </div>
