@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you want peace, you won't get it with violence."</strong>
+    💡 <strong>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</strong>
     <br>
-    <sub>— ✍️ <strong>John Lennon</strong></sub>
+    <sub>— ✍️ <strong>Seungsahn</strong></sub>
   </blockquote>
 
 </div>
