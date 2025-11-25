@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"What most people need to learn in life is how to love people and use things instead of using people and loving things."</strong>
+    💡 <strong>"The highest level of wisdom is when you not only accept but love adversity."</strong>
     <br>
-    <sub>— ✍️ <strong>Unknown</strong></sub>
+    <sub>— ✍️ <strong>Maxime Lagace</strong></sub>
   </blockquote>
 
 </div>
