@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"I do not exist to impress the world. I exist to live my life in a way that will make me happy."</strong>
+    💡 <strong>"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero."</strong>
     <br>
-    <sub>— ✍️ <strong>Richard Bach</strong></sub>
+    <sub>— ✍️ <strong>Kabir</strong></sub>
   </blockquote>
 
 </div>
