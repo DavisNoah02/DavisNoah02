@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The only thing new in the world is the history you do not know."</strong>
+    💡 <strong>"Friendship is one of the most tangible things in a world which offers fewer and fewer supports."</strong>
     <br>
-    <sub>— ✍️ <strong>Harry S. Truman</strong></sub>
+    <sub>— ✍️ <strong>Kenneth Branagh</strong></sub>
   </blockquote>
 
 </div>
