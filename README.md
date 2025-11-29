@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Anger exceeding limits causes fear and excessive kindness eliminates respect."</strong>
+    💡 <strong>"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."</strong>
     <br>
-    <sub>— ✍️ <strong>Euripides</strong></sub>
+    <sub>— ✍️ <strong>Og Mandino</strong></sub>
   </blockquote>
 
 </div>
