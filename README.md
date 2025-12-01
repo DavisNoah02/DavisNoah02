@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Do not look upon this world with fear and loathing. Bravely face whatever the gods offer."</strong>
+    💡 <strong>"Circumstances rule men; men do not rule circumstances. "</strong>
     <br>
-    <sub>— ✍️ <strong>Morihei Ueshiba</strong></sub>
+    <sub>— ✍️ <strong>Herodotus</strong></sub>
   </blockquote>
 
 </div>
