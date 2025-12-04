@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were."</strong>
+    💡 <strong>"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."</strong>
     <br>
-    <sub>— ✍️ <strong>Kahlil Gibran</strong></sub>
+    <sub>— ✍️ <strong>Brian Tracy</strong></sub>
   </blockquote>
 
 </div>
