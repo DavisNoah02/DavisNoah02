@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."</strong>
+    💡 <strong>"There is no one giant step that does it. It's a lot of little steps."</strong>
     <br>
-    <sub>— ✍️ <strong>James Cameron</strong></sub>
+    <sub>— ✍️ <strong>Peter A. Cohen</strong></sub>
   </blockquote>
 
 </div>
