@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"I am always doing that which I can not do, in order that I may learn how to do it."</strong>
+    💡 <strong>"There is no excuse for not trying."</strong>
     <br>
-    <sub>— ✍️ <strong>Pablo Picasso</strong></sub>
+    <sub>— ✍️ <strong>Barack Obama</strong></sub>
   </blockquote>
 
 </div>
