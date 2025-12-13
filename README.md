@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "</strong>
+    💡 <strong>"Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them."</strong>
     <br>
-    <sub>— ✍️ <strong>Chinese Proverb</strong></sub>
+    <sub>— ✍️ <strong>W. Clement Stone</strong></sub>
   </blockquote>
 
 </div>
