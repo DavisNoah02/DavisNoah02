@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success."</strong>
+    💡 <strong>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</strong>
     <br>
-    <sub>— ✍️ <strong>Robert Kiyosaki</strong></sub>
+    <sub>— ✍️ <strong>Celestine Chua</strong></sub>
   </blockquote>
 
 </div>
