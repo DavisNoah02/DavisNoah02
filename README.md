@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</strong>
+    💡 <strong>"The only way to make sense out of change is to plunge into it, move with it, and join the dance."</strong>
     <br>
-    <sub>— ✍️ <strong>Steve Maraboli</strong></sub>
+    <sub>— ✍️ <strong>Alan Watts</strong></sub>
   </blockquote>
 
 </div>
