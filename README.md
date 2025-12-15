@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</strong>
+    💡 <strong>"To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead."</strong>
     <br>
-    <sub>— ✍️ <strong>Celestine Chua</strong></sub>
+    <sub>— ✍️ <strong>Samuel Butler</strong></sub>
   </blockquote>
 
 </div>
