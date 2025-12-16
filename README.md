@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The opportunity of defeating the enemy is provided by the enemy himself."</strong>
+    💡 <strong>"Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer."</strong>
     <br>
-    <sub>— ✍️ <strong>Sun Tzu</strong></sub>
+    <sub>— ✍️ <strong>J.R.R. Tolkien</strong></sub>
   </blockquote>
 
 </div>
