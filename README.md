@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday."</strong>
+    💡 <strong>"You are not the drop in the ocean, but the ocean in the drop."</strong>
     <br>
-    <sub>— ✍️ <strong>Brian Tracy</strong></sub>
+    <sub>— ✍️ <strong>Deepak Chopra</strong></sub>
   </blockquote>
 
 </div>
