@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated."</strong>
+    💡 <strong>"It is far easier to start something than it is to finish it."</strong>
     <br>
-    <sub>— ✍️ <strong>Albus Dumbledore</strong></sub>
+    <sub>— ✍️ <strong>Amelia Earhart</strong></sub>
   </blockquote>
 
 </div>
