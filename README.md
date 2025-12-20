@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"What worries you, masters you."</strong>
+    💡 <strong>"It all depends on what you choose to believe."</strong>
     <br>
-    <sub>— ✍️ <strong>John Locke</strong></sub>
+    <sub>— ✍️ <strong>Spencer Johnson</strong></sub>
   </blockquote>
 
 </div>
