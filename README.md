@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Never buy a thing you do not want, because it is cheap, it will be dear to you."</strong>
+    💡 <strong>"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."</strong>
     <br>
-    <sub>— ✍️ <strong>Thomas Jefferson</strong></sub>
+    <sub>— ✍️ <strong>Roy T. Bennett</strong></sub>
   </blockquote>
 
 </div>
