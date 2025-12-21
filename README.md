@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The only person you should try to be better than is the person you were yesterday."</strong>
+    💡 <strong>"Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive."</strong>
     <br>
-    <sub>— ✍️ <strong>Brian Tracy</strong></sub>
+    <sub>— ✍️ <strong>Anne Wilson Schaef</strong></sub>
   </blockquote>
 
 </div>
