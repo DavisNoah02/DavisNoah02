@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive."</strong>
+    💡 <strong>"Never buy a thing you do not want, because it is cheap, it will be dear to you."</strong>
     <br>
-    <sub>— ✍️ <strong>Anne Wilson Schaef</strong></sub>
+    <sub>— ✍️ <strong>Thomas Jefferson</strong></sub>
   </blockquote>
 
 </div>
