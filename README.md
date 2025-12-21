@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you."</strong>
+    💡 <strong>"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves."</strong>
     <br>
-    <sub>— ✍️ <strong>Richard Bach</strong></sub>
+    <sub>— ✍️ <strong>Kamal Ravikant</strong></sub>
   </blockquote>
 
 </div>
