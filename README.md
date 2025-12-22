@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"To every action there is always opposed an equal reaction."</strong>
+    💡 <strong>"It is our choices that show what we truly are, far more than our abilities."</strong>
     <br>
-    <sub>— ✍️ <strong>Isaac Newton</strong></sub>
+    <sub>— ✍️ <strong>Albus Dumbledore</strong></sub>
   </blockquote>
 
 </div>
