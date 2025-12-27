@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"I no doubt deserved my enemies, but I don't believe I deserved my friends."</strong>
+    💡 <strong>"It is hard to fail, but it is worse never to have tried to succeed."</strong>
     <br>
-    <sub>— ✍️ <strong>Walt Whitman</strong></sub>
+    <sub>— ✍️ <strong>Theodore Roosevelt</strong></sub>
   </blockquote>
 
 </div>
