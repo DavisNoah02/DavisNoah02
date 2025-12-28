@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."</strong>
+    💡 <strong>"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"</strong>
     <br>
-    <sub>— ✍️ <strong>Paulo Coelho</strong></sub>
+    <sub>— ✍️ <strong>Sathya Sai Baba</strong></sub>
   </blockquote>
 
 </div>
