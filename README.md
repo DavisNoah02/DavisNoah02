@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The sun shines upon good and bad alike."</strong>
+    💡 <strong>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</strong>
     <br>
-    <sub>— ✍️ <strong>Hans Christian Andersen</strong></sub>
+    <sub>— ✍️ <strong>Franz Kafka</strong></sub>
   </blockquote>
 
 </div>
