@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Believe in one thing too much and you have no room for new ideas. "</strong>
+    💡 <strong>"If you can change your mind, you can change your life."</strong>
     <br>
-    <sub>— ✍️ <strong>Ray Bradbury</strong></sub>
+    <sub>— ✍️ <strong>William James</strong></sub>
   </blockquote>
 
 </div>
