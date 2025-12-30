@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Success is getting what you want, happiness is wanting what you get."</strong>
+    💡 <strong>"The best teacher is experience and not through someone's distorted point of view."</strong>
     <br>
-    <sub>— ✍️ <strong>W.P. Kinsella</strong></sub>
+    <sub>— ✍️ <strong>Jack Kerouac</strong></sub>
   </blockquote>
 
 </div>
