@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"There is no one giant step that does it. It's a lot of little steps."</strong>
+    💡 <strong>"The important thing is not what one is born with but what use one makes of that equipment."</strong>
     <br>
-    <sub>— ✍️ <strong>Peter A. Cohen</strong></sub>
+    <sub>— ✍️ <strong>Alfred Adler</strong></sub>
   </blockquote>
 
 </div>
