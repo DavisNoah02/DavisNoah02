@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!"</strong>
+    💡 <strong>"Unless you're ashamed of yourself now and then, you're not honest."</strong>
     <br>
-    <sub>— ✍️ <strong>Sathya Sai Baba</strong></sub>
+    <sub>— ✍️ <strong>William Faulkner</strong></sub>
   </blockquote>
 
 </div>
