@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed."</strong>
+    💡 <strong>"It is better to fail in originality than to succeed in imitation."</strong>
     <br>
-    <sub>— ✍️ <strong>Mark Twain</strong></sub>
+    <sub>— ✍️ <strong>Herman Melville</strong></sub>
   </blockquote>
 
 </div>
