@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Peace is letting it be. Letting life flow, letting emotions flow through you."</strong>
+    💡 <strong>"Shoot for the moon. Even if you miss, you'll land among the stars."</strong>
     <br>
-    <sub>— ✍️ <strong>Kamal Ravikant</strong></sub>
+    <sub>— ✍️ <strong>Norman Vincent Peale</strong></sub>
   </blockquote>
 
 </div>
