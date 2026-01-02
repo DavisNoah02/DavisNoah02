@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Take interest and even delight in doing the small things well."</strong>
+    💡 <strong>"I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in."</strong>
     <br>
-    <sub>— ✍️ <strong>Jim Rohn</strong></sub>
+    <sub>— ✍️ <strong>Virginia Woolf</strong></sub>
   </blockquote>
 
 </div>
