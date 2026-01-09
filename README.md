@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"She who loves roses must be patient and not cry out when she is pierced by thorns."</strong>
+    💡 <strong>"If you can't argue both sides, you can't argue."</strong>
     <br>
-    <sub>— ✍️ <strong>Kenji Miyazawa</strong></sub>
+    <sub>— ✍️ <strong>Jack Butcher</strong></sub>
   </blockquote>
 
 </div>
