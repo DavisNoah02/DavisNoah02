@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"All you need is passion. If you have a passion for something, you'll create the talent."</strong>
+    💡 <strong>"People who bite the hand that feeds them usually lick the boot that kicks them."</strong>
     <br>
-    <sub>— ✍️ <strong>Yanni</strong></sub>
+    <sub>— ✍️ <strong>Eric Hoffer</strong></sub>
   </blockquote>
 
 </div>
