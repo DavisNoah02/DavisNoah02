@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?"</strong>
+    💡 <strong>"Life is a series of choices and all we can do is make them."</strong>
     <br>
-    <sub>— ✍️ <strong>Seneca</strong></sub>
+    <sub>— ✍️ <strong>Kamal Ravikant</strong></sub>
   </blockquote>
 
 </div>
