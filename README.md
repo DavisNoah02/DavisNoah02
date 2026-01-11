@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You have to give up some of the old so that you can make room for the new."</strong>
+    💡 <strong>"Our truest life is when we are in dreams awake."</strong>
     <br>
-    <sub>— ✍️ <strong>Yanni</strong></sub>
+    <sub>— ✍️ <strong>Henry David Thoreau</strong></sub>
   </blockquote>
 
 </div>
