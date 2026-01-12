@@ -197,9 +197,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Most people spend more time and energy going around problems than in trying to solve them. "</strong>
+    💡 <strong>"The most important single ingredient in the formula of success is knowing how to get along with people."</strong>
     <br>
-    <sub>— ✍️ <strong>Henry Ford</strong></sub>
+    <sub>— ✍️ <strong>Theodore Roosevelt</strong></sub>
   </blockquote>
 
 </div>
