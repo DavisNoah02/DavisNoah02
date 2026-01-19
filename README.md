@@ -56,15 +56,9 @@
 
 <hr/>
 
-##  🎓Certifications & Achievements
 
-| 🏆Certification | 🏅 Badge | ⏳ Duration | 🔍 Verification |
-|--------------|----------|-------------|----------------|
-| <sub>**AWS Certified Cloud Practitioner**</sub> | <img src="https://github.com/user-attachments/assets/7c9b0e68-4a30-4397-8958-1b76bd4ea046" width="120"> | <sub>5 months</sub> | [![Verify](https://img.shields.io/badge/Verify-%E2%9C%85-00c896?style=flat-square&logo=blockchaindotcom)](https://www.credly.com/badges/d92bbcc0-9575-47b5-bc25-ccfceb2fc494/linked_in_profile) |
-| <sub>**ALX AI Career Essentials**</sub> | <img src="https://github.com/user-attachments/assets/33476b21-a3ea-4e9c-b178-b98efc3f3a2a" width="120"> | <sub>6 weeks</sub> | [![Verify](https://img.shields.io/badge/Verify-%E2%9C%85-00c896?style=flat-square&logo=blockchaindotcom)](https://intranet.alxswe.com/certificates/R82sr3ehnG) |
-| <sub>**ALX Professional Foundations**</sub> | <img src="https://github.com/user-attachments/assets/11135dbb-e1d7-498f-8504-1ae5980ebc6d" width="120"> | <sub>3 months</sub> | [![Verify](https://img.shields.io/badge/Verify-%E2%9C%85-00c896?style=flat-square&logo=blockchaindotcom)](https://intranet.alxswe.com/certificates/YM256BJf8e) |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
 
 <h2> 🛠TechStack and Tools</h2><br>
 
@@ -197,9 +191,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Turn your wounds into wisdom. "</strong>
+    💡 <strong>"All I can do is be me, whoever that is."</strong>
     <br>
-    <sub>— ✍️ <strong>Oprah Winfrey</strong></sub>
+    <sub>— ✍️ <strong>Bob Dylan</strong></sub>
   </blockquote>
 
 </div>
