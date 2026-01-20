@@ -191,9 +191,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Create with the heart; build with the mind."</strong>
+    💡 <strong>"Not all of us can do great things. But we can do small things with great love."</strong>
     <br>
-    <sub>— ✍️ <strong>Criss Jami</strong></sub>
+    <sub>— ✍️ <strong>Mother Teresa</strong></sub>
   </blockquote>
 
 </div>
