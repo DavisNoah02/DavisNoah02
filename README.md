@@ -191,9 +191,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything."</strong>
+    💡 <strong>"You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win."</strong>
     <br>
-    <sub>— ✍️ <strong>Sydney Smith</strong></sub>
+    <sub>— ✍️ <strong>Zig Ziglar</strong></sub>
   </blockquote>
 
 </div>
