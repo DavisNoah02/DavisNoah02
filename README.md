@@ -191,9 +191,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</strong>
+    💡 <strong>"It is better to fail in originality than to succeed in imitation."</strong>
     <br>
-    <sub>— ✍️ <strong>Lao Tzu</strong></sub>
+    <sub>— ✍️ <strong>Herman Melville</strong></sub>
   </blockquote>
 
 </div>
