@@ -191,9 +191,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Why do you stay in prison when the door is so wide open?"</strong>
+    💡 <strong>"We are always complaining that our days are few, and acting as though there would be no end of them. "</strong>
     <br>
-    <sub>— ✍️ <strong>Rumi</strong></sub>
+    <sub>— ✍️ <strong>Seneca</strong></sub>
   </blockquote>
 
 </div>
