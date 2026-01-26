@@ -191,9 +191,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Change is hard at first, messy in the middle and gorgeous at the end."</strong>
+    💡 <strong>"Anything becomes interesting if you look at it long enough.."</strong>
     <br>
-    <sub>— ✍️ <strong>Robin Sharma</strong></sub>
+    <sub>— ✍️ <strong>Gustave Flaubert</strong></sub>
   </blockquote>
 
 </div>
