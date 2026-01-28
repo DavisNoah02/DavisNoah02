@@ -191,9 +191,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we're not clear about which is the one we care about."</strong>
+    💡 <strong>"It is best to begin at the beginning."</strong>
     <br>
-    <sub>— ✍️ <strong>Naval Ravikant</strong></sub>
+    <sub>— ✍️ <strong>Amelia Earhart</strong></sub>
   </blockquote>
 
 </div>
