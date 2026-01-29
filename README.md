@@ -191,9 +191,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Nothing is easier than fault finding."</strong>
+    💡 <strong>"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy."</strong>
     <br>
-    <sub>— ✍️ <strong>Og Mandino</strong></sub>
+    <sub>— ✍️ <strong>Robert Kiyosaki</strong></sub>
   </blockquote>
 
 </div>
