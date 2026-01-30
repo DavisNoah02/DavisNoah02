@@ -191,9 +191,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"No one can compete with you on being you. Most of life is a search for who and what needs you the most."</strong>
+    💡 <strong>"A man that flies from his fear may find that he has only taken a short cut to meet it."</strong>
     <br>
-    <sub>— ✍️ <strong>Naval Ravikant</strong></sub>
+    <sub>— ✍️ <strong>J.R.R. Tolkien</strong></sub>
   </blockquote>
 
 </div>
