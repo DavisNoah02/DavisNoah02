@@ -191,9 +191,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Supreme excellence consists of breaking the enemy's resistance without fighting."</strong>
+    💡 <strong>"When things go wrong, don't go with them."</strong>
     <br>
-    <sub>— ✍️ <strong>Sun Tzu</strong></sub>
+    <sub>— ✍️ <strong>Elvis Presley</strong></sub>
   </blockquote>
 
 </div>
