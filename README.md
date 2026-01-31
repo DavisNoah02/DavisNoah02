@@ -191,9 +191,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy."</strong>
+    💡 <strong>"Wise men speak because they have something to say; Fools because they have to say something."</strong>
     <br>
-    <sub>— ✍️ <strong>Norman Vincent Peale</strong></sub>
+    <sub>— ✍️ <strong>Plato</strong></sub>
   </blockquote>
 
 </div>
