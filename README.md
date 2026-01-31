@@ -191,9 +191,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The only difference between success and failure is the ability to take action."</strong>
+    💡 <strong>"There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever."</strong>
     <br>
-    <sub>— ✍️ <strong>Alexander Graham Bell</strong></sub>
+    <sub>— ✍️ <strong>Alexandre Dumas</strong></sub>
   </blockquote>
 
 </div>
