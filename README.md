@@ -191,9 +191,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Try all things, hold fast that which is good."</strong>
+    💡 <strong>"We can spend our whole lives escaping from the monsters of our minds."</strong>
     <br>
-    <sub>— ✍️ <strong>John Locke</strong></sub>
+    <sub>— ✍️ <strong>Pema Chodron</strong></sub>
   </blockquote>
 
 </div>
