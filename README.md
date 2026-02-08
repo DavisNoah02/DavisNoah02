@@ -191,9 +191,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"True wealth is of the heart, not of the purse."</strong>
+    💡 <strong>"Of all men's miseries the bitterest is this: to know so much and to have control over nothing. "</strong>
     <br>
-    <sub>— ✍️ <strong>Og Mandino</strong></sub>
+    <sub>— ✍️ <strong>Herodotus</strong></sub>
   </blockquote>
 
 </div>
