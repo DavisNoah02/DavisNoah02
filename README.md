@@ -191,9 +191,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you aren't sure which way to do something, do it both ways and see which works better."</strong>
+    💡 <strong>"FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours."</strong>
     <br>
-    <sub>— ✍️ <strong>John Carmack</strong></sub>
+    <sub>— ✍️ <strong>Zig Ziglar</strong></sub>
   </blockquote>
 
 </div>
