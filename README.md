@@ -18,25 +18,24 @@
 
 <h3>👤 <b>About Me</b></h3>
 <div style="text-align: justify;">
-  <h4>
-    Welcome to my GitHub! I'm a Nairobi-based software and web developer, indie founder with 2 years of experience specializing in full-stack web applications using JavaScript, TypeScript, React, Next.js, and Node.js. 
-  </h4>
- <h4>My passion lies in building tools that are user-friendly, simple, delightful, and in continuously exploring the tech landscape.</h4>
-</div>
+ <h4>
+  Nairobi-based full-stack developer & indie founder building fast, user-friendly, scalable & AI-powered apps with JavaScript, TypeScript, React, Next.js, Node.js, and Claude Code.
+</h4>
 
 <br>
 
-- 🛠️  Web Development specializing in  MERN Stack, AWS, and full-stack development.
+- 🛠️  Specializing in Full-stack web development, creating AI-powered web apps(SaaS Apps).
+
+- 🌱 Learning advanced frontend patterns, system design, and AI integrations
 
 - 👨‍💻 All of my projects are available at https://noa-dave.vercel.app
  
-- 👯 I am Open to collaborating on any open-source Projects.
+- 👯 Open to collaborating on  impactful products and open-source projects.
 
-- 💬 Ask me about React, NextJS, JavaScript, AWS DEVELOPER TOOLS.
+- 💬 Ask me about React, NextJS, frontend architecture, problem-solving products and  AWS DEVELOPER TOOLS.
 
 - 📫 How to reach me **m.davenoa@gmail.com**
 <br>
-  ⚡ Fun Fact: 
 <img src="https://img.shields.io/badge/Fun%20Fact-Dark%20Mode%20isn't%20a%20feature%3B%20it's%20a%20lifestyle-blue?style=for-the-badge" alt="Fun Fact" width="450"/>
 <be>
 <h2>
