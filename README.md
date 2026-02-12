@@ -1,5 +1,5 @@
 
-<h1>Hi there👋, I'm  noa_dave - Web Dev | AI Automation Specialist</h1>
+<h1>Hi there👋, I'm  noa_dave - Web Dev | SaaS Builder</h1>
 
 <p align="right"> 
  <img src="https://komarev.com/ghpvc/?username=noa-dave&style=flat-square&color=blueviolet" alt="Profile Views"/>
