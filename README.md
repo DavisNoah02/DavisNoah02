@@ -8,10 +8,10 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Web+Dev+In+Progress;Frontend+Dev+%26+AI+Automation+Specialist;n8n+%26+Agentic+Workflows+Architect&center=true&width=600&height=50&color=00c896&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Web+Dev+In+Progress;Frontend+Dev+%26+AI+Specialist;Saas+Builder&center=true&width=600&height=50&color=00c896&vCenter=true&size=20" />
 </p>
 
- ``Building the Web 🌐 | Architecting AI Agents 🤖 | Scaling Intelligence with n8n & Agentic Workflows 🛠️``
+ ``Building the AI-Powered Web 🌐 | Architecting AI Agents 🤖 | Scaling Digital Products with Saas Tools 🛠️``
 
 <img align="right" alt="code"  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="320" height= "300" />
 <br>
