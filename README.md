@@ -190,9 +190,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"All that a man achieves and all that he fails to achieve is the direct result of his own thoughts."</strong>
+    💡 <strong>"The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes."</strong>
     <br>
-    <sub>— ✍️ <strong>James Allen</strong></sub>
+    <sub>— ✍️ <strong>Voltaire</strong></sub>
   </blockquote>
 
 </div>
