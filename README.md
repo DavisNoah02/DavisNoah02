@@ -190,9 +190,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes."</strong>
+    💡 <strong>"To be prepared is half the victory. "</strong>
     <br>
-    <sub>— ✍️ <strong>Voltaire</strong></sub>
+    <sub>— ✍️ <strong>Miguel de Cervantes</strong></sub>
   </blockquote>
 
 </div>
