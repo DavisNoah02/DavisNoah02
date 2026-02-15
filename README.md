@@ -116,7 +116,7 @@
   <a href="https://medium.com/@noahdavemunene" title="Medium">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30"/>
   </a>
-  <a href="https://www.instagram.com/t3ch.savvy/" title="Instagram">
+  <!-- <a href="https://www.instagram.com/t3ch.savvy/" title="Instagram">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
   </a>
   <a href="https://www.tiktok.com/@_noa.dave_" title="TikTok">
@@ -124,7 +124,7 @@
   </a>
   <a href="https://www.linkedin.com/in/noa-dave-36567b356/" title="LinkedIn">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-  </a>
+  </a> -->
   <a href="https://www.facebook.com/noahdave254" title="Facebook">
   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
 </a>
@@ -132,18 +132,20 @@
 <br>
 
 ## 📈 My GitHub Activity Stats:  
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DavisNOAH02&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavisNOAH02&layout=compact&theme=github_dark&hide_border=false" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-  </div>
+<!-- <stats and top lang/> -->
+<!-- <div align="center">
+    <table>
+     <tr>
+       <td>
+         <img src="https://github-readme-stats.vercel.app/api?username=DavisNOAH02&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub Stats" />
+       </td>
+       <td>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavisNOAH02&layout=compact&theme=github_dark&hide_border=false" alt="Top Languages" />
+       </td>
+     </tr>
+    </table>
+</div> -->
+<!-- <Contribution & Activity Graph/> -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavisNOAH02&theme=github-dark&hide_border=false" alt="GitHub Streak" />
 </div>
@@ -153,20 +155,15 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavisNOAH02&bg_color=1a1b27&color=00c896&line=00c896&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </div>
-
 <br>
-
+<!-- <Trophy/> -->
 <div align="center">
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=DavisNoah02&theme=algolia&title=MultiLanguage,Repositories,Commits,Followers,PullRequest,Experience,Stars)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 </div>
 
-
+<!-- <CTA/> -->
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
 <h2 align="center"><i>🔨 Build. ✅ Test. 🚀 Ship.</i></h2>
 <p align="center">
   <a href="https://linktr.ee/noah_dave" target="_blank">
