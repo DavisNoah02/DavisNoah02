@@ -187,9 +187,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Rewards and punishment is the lowest form of education."</strong>
+    💡 <strong>"The greatest mistake you can make in life is to be continually fearing you will make one."</strong>
     <br>
-    <sub>— ✍️ <strong>Zhuangzi</strong></sub>
+    <sub>— ✍️ <strong>Elbert Hubbard</strong></sub>
   </blockquote>
 
 </div>
