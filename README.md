@@ -187,9 +187,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere."</strong>
+    💡 <strong>"It is not what we get. But who we become, what we contribute... that gives meaning to our lives."</strong>
     <br>
-    <sub>— ✍️ <strong>Zig Ziglar</strong></sub>
+    <sub>— ✍️ <strong>Tony Robbins</strong></sub>
   </blockquote>
 
 </div>
