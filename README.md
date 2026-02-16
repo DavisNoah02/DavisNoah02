@@ -187,9 +187,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry."</strong>
+    💡 <strong>"If you take responsibility for yourself you will develop a hunger to accomplish your dream."</strong>
     <br>
-    <sub>— ✍️ <strong>Celestine Chua</strong></sub>
+    <sub>— ✍️ <strong>Les Brown</strong></sub>
   </blockquote>
 
 </div>
