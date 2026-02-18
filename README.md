@@ -146,9 +146,11 @@
     </table>
 </div> -->
 <!-- <Contribution & Activity Graph/> -->
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavisNOAH02&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=DavisNoah02&theme=github-dark&hide_border=false" alt="GitHub Streak" /></a>
 </div>
+
 <br/>
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -156,7 +158,8 @@
   </a>
 </div>
 <br>
-<!-- <Trophy/> -->
+
+<!-- <Trophy/> temporarily disconinued--> 
 <div align="center">
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=DavisNoah02&theme=algolia&title=MultiLanguage,Repositories,Commits,Followers,PullRequest,Experience,Stars)](https://github.com/ryo-ma/github-profile-trophy)
