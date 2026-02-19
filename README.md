@@ -55,7 +55,7 @@
 </p>
 <br>
 
-<h2> 🛠TechStack and Tools</h2><br>
+<h2> 🛠TechStack and Tools</h2>
 
 ### 👨‍💻 Languages
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -102,7 +102,7 @@
 
 
 <h2>
-   🤝 Connect With Me 🌐
+   🤝 Connect With Me 
 </h2>
 <p align="center">
   <a href="https://codepen.io/Noah-Munene" title="CodePen">
@@ -183,7 +183,16 @@
   <a href="https://noa-dave.vercel.app/" target="blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=8E2DE2&color=4A00E0" alt="Portfolio Button"/>
   </a>
+ &nbsp;
+  <a href="https://discord.gg/7vtB7fMkpd" target="_blank">
+    <img src="https://img.shields.io/badge/Powered%20by-Coffee-6F4E37?style=for-the-badge&logo=coffee" width="200" />
+  </a>
 </p>
+
+
+<div align="center">
+  <span style="font-size:26px;">⭐</span> If you like my work, consider following me and starring my projects!
+</div>
 
    
 ## ⚡Random Dev Quote
