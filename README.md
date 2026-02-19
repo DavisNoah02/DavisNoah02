@@ -153,10 +153,12 @@
 
 <br/>
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavisNOAH02&bg_color=1a1b27&color=00c896&line=00c896&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-  </a>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DavisNOAH02&bg_color=1a1b27&color=00c896&line=00c896&point=ffffff&area=true&hide_border=true&v=2"
+    alt="GitHub Activity Graph"
+  />
 </div>
+
 <br>
 
 <!-- <Trophy/> temporarily disconinued--> 
