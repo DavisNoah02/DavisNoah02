@@ -1,5 +1,5 @@
 
-<h1>Hi there👋, I'm  noa_dave - Web Dev | SaaS Builder</h1>
+<h1>Hi there👋, I'm  noa_dave - Web Dev | SaaS Builder | Cloud Practitioner.</h1>
 
 <p align="right"> 
  <img src="https://komarev.com/ghpvc/?username=noa-dave&style=flat-square&color=blueviolet" alt="Profile Views"/>
@@ -135,10 +135,10 @@
     <table>
      <tr>
        <td>
-         <img src="https://github-readme-stats.vercel.app/api?username=DavisNOAH02&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub Stats" />
+         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DavisNOAH02&show_icons=true&theme=nightowl&hide_border=false" alt="GitHub Stats" />
        </td>
        <td>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavisNOAH02&layout=compact&theme=github_dark&hide_border=false" alt="Top Languages" />
+         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DavisNOAH02&layout=compact&theme=nightowl&hide_border=false" alt="Top Languages" />
        </td>
      </tr>
     </table>
@@ -146,13 +146,13 @@
 <!-- <Contribution & Activity Graph/> -->
 
 <div align="center">
-  <a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=DavisNoah02&theme=github-dark&hide_border=false" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=DavisNoah02&theme=nightowl&hide_border=false&v=2" alt="GitHub Streak" /></a>
 </div>
 
 <br/>
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=DavisNOAH02&bg_color=1a1b27&color=00c896&line=00c896&point=ffffff&area=true&hide_border=true&v=2"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DavisNOAH02&theme=nightowl&color=00c896&line=00c896&point=ffffff&area=true&hide_border=true&v=2"
     alt="GitHub Activity Graph"
   />
 </div>
