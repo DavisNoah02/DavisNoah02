@@ -146,13 +146,13 @@
 <!-- <Contribution & Activity Graph/> -->
 
 <div align="center">
-  <a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=DavisNoah02&theme=nightowl&hide_border=false&v=2" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=DavisNoah02&theme=nightowl&hide_border=false" alt="GitHub Streak" /></a>
 </div>
 
 <br/>
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=DavisNOAH02&theme=nightowl&color=00c896&line=00c896&point=ffffff&area=true&hide_border=true&v=2"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DavisNOAH02&theme=nightowl&color=00c896&line=00c896&point=ffffff&area=true&hide_border=true&"
     alt="GitHub Activity Graph"
   />
 </div>
