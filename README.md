@@ -200,9 +200,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Whatever you think the world is withholding from you, you are withholding from the world."</strong>
+    💡 <strong>"There are no differences but differences of degree between different degrees of difference and no difference."</strong>
     <br>
-    <sub>— ✍️ <strong>Eckhart Tolle</strong></sub>
+    <sub>— ✍️ <strong>William James</strong></sub>
   </blockquote>
 
 </div>
