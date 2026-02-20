@@ -184,7 +184,7 @@
     <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=8E2DE2&color=4A00E0" alt="Portfolio Button"/>
   </a>
  &nbsp;
-  <a href="https://discord.gg/7vtB7fMkpd" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Powered%20by-Coffee-6F4E37?style=for-the-badge&logo=coffee" width="200" />
   </a>
 </p>
