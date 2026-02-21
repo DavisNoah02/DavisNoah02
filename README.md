@@ -200,9 +200,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You gain strength, courage and confidence by every experience in which you really stop to look fear in the face."</strong>
+    💡 <strong>"Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people."</strong>
     <br>
-    <sub>— ✍️ <strong>Eleanor Roosevelt</strong></sub>
+    <sub>— ✍️ <strong>Roy T. Bennett</strong></sub>
   </blockquote>
 
 </div>
