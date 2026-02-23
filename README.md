@@ -200,9 +200,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"What keeps life fascinating is the constant creativity of the soul."</strong>
+    💡 <strong>"Surround yourself only with people who are going to take you higher."</strong>
     <br>
-    <sub>— ✍️ <strong>Deepak Chopra</strong></sub>
+    <sub>— ✍️ <strong>Oprah Winfrey</strong></sub>
   </blockquote>
 
 </div>
