@@ -13,8 +13,8 @@
 
  ``Building the AI-Powered Web 🌐 | Architecting AI Agents 🤖 | Scaling Digital Products with Saas Tools 🛠️``
 
-<img align="right" alt="code"  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="320" height= "300" />
-<br>
+<!-- <img align="right" alt="code"  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="320" height= "300" />
+<br> -->
 
 <h3>👤 <b>About Me</b></h3>
 <div style="text-align: justify;">
@@ -24,23 +24,21 @@
 
 <br>
 
-- 🛠️  Specializing in Full-stack web development, creating AI-powered web apps(SaaS Apps).
+<h2>🎯 What i Do Best</h2>
 
-- 🌱 Learning advanced frontend patterns, system design, and AI integrations
+- Frontend Development: Building responsive, interactive UIs with React, Vue, Next.js, and Nuxt.js.
 
-- 👨‍💻 All of my projects are available at https://noa-dave.vercel.app
- 
-- 👯 Open to collaborating on  impactful products and open-source projects.
+- SaaS Platforms: Creating scalable business solutions with modern frameworks and APIs.
 
-- 💬 Ask me about React, NextJS, frontend architecture, problem-solving products and  AWS DEVELOPER TOOLS.
 
-- 📫 How to reach me **m.davenoa@gmail.com**
+
+
 <br>
 <img src="https://img.shields.io/badge/Fun%20Fact-Dark%20Mode%20isn't%20a%20feature%3B%20it's%20a%20lifestyle-blue?style=for-the-badge" alt="Fun Fact" width="450"/>
 <be>
 
 <h2>
-  Contact Me
+  🤝Contact Me !
 </h2>
 <p>
   <a href="mailto:m.davenoa@gmail.com" title="Gmail">
@@ -49,11 +47,24 @@
   <a href="https://wa.me/254729239023" title="WhatsApp">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
   </a>
+ <a href="https://noa-dave.vercel.app/" title="Portfolio">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/noa-dave-36567b356/" title="LinkedIn">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 <br>
+
+<h2> 🎯Current Focus</h2>
+
+- 🛠️ Specializing in Full-stack web development, creating AI-powered web apps(SaaS Apps).
+- 🔭 Building next-generation SaaS platforms with modern web technologies
+- 🌱 Learning advanced frontend patterns, system design, and AI integrations
+- 🌱 Exploring AI/ML integration in web applications and automation tools
+- 🐧 Linux System Administration & Automation
+- 💬 Ask me about React, NextJS, frontend architecture, problem-solving products and  AWS DEVELOPER TOOLS.
+
 
 <h2> 🛠TechStack and Tools</h2>
 
