@@ -206,9 +206,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"I know not all that may be coming, but be it what it will, I'll go to it laughing."</strong>
+    💡 <strong>"When we allow negative messages to fester in our head, they take on a life of their own."</strong>
     <br>
-    <sub>— ✍️ <strong>Herman Melville</strong></sub>
+    <sub>— ✍️ <strong>Lolly Daskal</strong></sub>
   </blockquote>
 
 </div>
