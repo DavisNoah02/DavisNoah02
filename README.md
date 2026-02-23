@@ -206,9 +206,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"There's more to life than being a passenger."</strong>
+    💡 <strong>"I know not all that may be coming, but be it what it will, I'll go to it laughing."</strong>
     <br>
-    <sub>— ✍️ <strong>Amelia Earhart</strong></sub>
+    <sub>— ✍️ <strong>Herman Melville</strong></sub>
   </blockquote>
 
 </div>
