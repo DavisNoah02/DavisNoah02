@@ -31,8 +31,6 @@
 - SaaS Platforms: Creating scalable business solutions with modern frameworks and APIs.
 
 
-
-
 <br>
 <img src="https://img.shields.io/badge/Fun%20Fact-Dark%20Mode%20isn't%20a%20feature%3B%20it's%20a%20lifestyle-blue?style=for-the-badge" alt="Fun Fact" width="450"/>
 <be>
@@ -54,7 +52,6 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-<br>
 
 <h2> 🎯Current Focus</h2>
 
@@ -109,11 +106,9 @@
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 <hr/>
-<br>
-
 
 <h2>
-   🤝 Connect With Me 
+   🌏 Connect with me  
 </h2>
 <p align="center">
   <a href="https://codepen.io/Noah-Munene" title="CodePen">
@@ -138,7 +133,7 @@
   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
 </a>
 </p>
-<br>
+
 
 ## 📈 My GitHub Activity Stats:  
 <!-- <stats and top lang/> -->
