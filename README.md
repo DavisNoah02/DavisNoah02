@@ -206,9 +206,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy."</strong>
+    💡 <strong>"Love never keeps a man from pursuing his destiny."</strong>
     <br>
-    <sub>— ✍️ <strong>Roy T. Bennett</strong></sub>
+    <sub>— ✍️ <strong>Paulo Coelho</strong></sub>
   </blockquote>
 
 </div>
