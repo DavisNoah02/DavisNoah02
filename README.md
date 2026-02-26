@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</strong>
+    💡 <strong>"There are dark shadows on the earth, but its lights are stronger in the contrast."</strong>
     <br>
-    <sub>— ✍️ <strong>Dalai Lama</strong></sub>
+    <sub>— ✍️ <strong>Charles Dickens</strong></sub>
   </blockquote>
 
 </div>
