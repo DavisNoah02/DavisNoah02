@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Mind is the creator of everything. You should therefore guide it to create only good."</strong>
+    💡 <strong>"Every artist dips his brush in his own soul, and paints his own nature into his pictures."</strong>
     <br>
-    <sub>— ✍️ <strong>Paramahansa Yogananda</strong></sub>
+    <sub>— ✍️ <strong>Henry Ward Beecher</strong></sub>
   </blockquote>
 
 </div>
