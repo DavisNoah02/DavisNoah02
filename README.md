@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway."</strong>
+    💡 <strong>"Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard."</strong>
     <br>
-    <sub>— ✍️ <strong>Earl Nightingale</strong></sub>
+    <sub>— ✍️ <strong>Colin Powell</strong></sub>
   </blockquote>
 
 </div>
