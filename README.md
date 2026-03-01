@@ -196,10 +196,10 @@
 
 <div align="center">
   <span style="font-size:26px;">⭐</span> If you like my work, consider following me and starring my projects!
-</div>
+</div><br>
 
    
-## ⚡Random Dev Quote
+<h2 align="center">⚡Neo Random Dev Quote</h2>
 
 <div align="center">
 
