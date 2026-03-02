@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</strong>
+    💡 <strong>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</strong>
     <br>
-    <sub>— ✍️ <strong>Jim Rohn</strong></sub>
+    <sub>— ✍️ <strong>George Eliot</strong></sub>
   </blockquote>
 
 </div>
