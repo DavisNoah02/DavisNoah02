@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"I hear and I forget. I see and I remember. I do and I understand. "</strong>
+    💡 <strong>"A golden cage is still just a cage."</strong>
     <br>
-    <sub>— ✍️ <strong>Confucius</strong></sub>
+    <sub>— ✍️ <strong>Anita Krizzan</strong></sub>
   </blockquote>
 
 </div>
