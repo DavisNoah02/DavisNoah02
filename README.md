@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Either write something worth reading or do something worth writing."</strong>
+    💡 <strong>"If you do what you've always done, you'll get what you've always gotten."</strong>
     <br>
-    <sub>— ✍️ <strong>Benjamin Franklin</strong></sub>
+    <sub>— ✍️ <strong>Tony Robbins</strong></sub>
   </blockquote>
 
 </div>
