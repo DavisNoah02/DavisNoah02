@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Be the change that you want to see in the world."</strong>
+    💡 <strong>"If you look for perfection, you'll never be content."</strong>
     <br>
-    <sub>— ✍️ <strong>Mahatma Gandhi</strong></sub>
+    <sub>— ✍️ <strong>Leo Tolstoy</strong></sub>
   </blockquote>
 
 </div>
