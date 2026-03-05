@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Not all of us can do great things. But we can do small things with great love."</strong>
+    💡 <strong>"You become a worrier by practicing worry. You become free of worry by practicing the opposite."</strong>
     <br>
-    <sub>— ✍️ <strong>Mother Teresa</strong></sub>
+    <sub>— ✍️ <strong>Norman Vincent Peale</strong></sub>
   </blockquote>
 
 </div>
