@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Success is achieved and maintained by those who try and keep trying. "</strong>
+    💡 <strong>"By failing to prepare, you are preparing to fail."</strong>
     <br>
-    <sub>— ✍️ <strong>W. Clement Stone</strong></sub>
+    <sub>— ✍️ <strong>Benjamin Franklin</strong></sub>
   </blockquote>
 
 </div>
