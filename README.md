@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Elegance does not consist in putting on a new dress."</strong>
+    💡 <strong>"You will never do anything in this world without courage. It is the greatest quality of the mind next to honor."</strong>
     <br>
-    <sub>— ✍️ <strong>Coco Chanel</strong></sub>
+    <sub>— ✍️ <strong>James Allen</strong></sub>
   </blockquote>
 
 </div>
