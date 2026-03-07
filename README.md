@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Thoughts become things. If you see it in your mind, you will hold it in your hand."</strong>
+    💡 <strong>"The more perfect a person is on the outside, the more demons they have on the inside."</strong>
     <br>
-    <sub>— ✍️ <strong>Bob Proctor</strong></sub>
+    <sub>— ✍️ <strong>Sigmund Freud</strong></sub>
   </blockquote>
 
 </div>
