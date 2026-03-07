@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"I'm an optimist by choice not by stupidity."</strong>
+    💡 <strong>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</strong>
     <br>
-    <sub>— ✍️ <strong>Yanni</strong></sub>
+    <sub>— ✍️ <strong>Lao Tzu</strong></sub>
   </blockquote>
 
 </div>
