@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny."</strong>
+    💡 <strong>"Remember, today is the tomorrow you worried about yesterday."</strong>
     <br>
-    <sub>— ✍️ <strong>James Allen</strong></sub>
+    <sub>— ✍️ <strong>Dale Carnegie</strong></sub>
   </blockquote>
 
 </div>
