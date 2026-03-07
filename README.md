@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus."</strong>
+    💡 <strong>"If you think you can do a thing or think you can't do a thing, you're right."</strong>
     <br>
-    <sub>— ✍️ <strong>Alexander Graham Bell</strong></sub>
+    <sub>— ✍️ <strong>Henry Ford</strong></sub>
   </blockquote>
 
 </div>
