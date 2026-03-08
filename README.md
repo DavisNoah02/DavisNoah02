@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Falling down is not failure. Failure comes when you stay where you have fallen."</strong>
+    💡 <strong>"You are never too old to set another goal or to dream a new dream."</strong>
     <br>
-    <sub>— ✍️ <strong>Socrates</strong></sub>
+    <sub>— ✍️ <strong>Les Brown</strong></sub>
   </blockquote>
 
 </div>
