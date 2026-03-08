@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The difference between winning and losing is most often not quitting."</strong>
+    💡 <strong>"My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand."</strong>
     <br>
-    <sub>— ✍️ <strong>Walt Disney</strong></sub>
+    <sub>— ✍️ <strong>Thich Nhat Hanh</strong></sub>
   </blockquote>
 
 </div>
