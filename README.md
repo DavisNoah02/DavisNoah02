@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Raise your words, not voice. It is rain that grows flowers, not thunder."</strong>
+    💡 <strong>"Never settle for the crumbs of life."</strong>
     <br>
-    <sub>— ✍️ <strong>Rumi</strong></sub>
+    <sub>— ✍️ <strong>Og Mandino</strong></sub>
   </blockquote>
 
 </div>
