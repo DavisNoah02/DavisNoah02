@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You miss 100% of the shots you don't take."</strong>
+    💡 <strong>"Use your smile to change the world but don't let the world change your smile."</strong>
     <br>
-    <sub>— ✍️ <strong>Wayne Gretzky</strong></sub>
+    <sub>— ✍️ <strong>Unknown</strong></sub>
   </blockquote>
 
 </div>
