@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Success on the outside means nothing unless you also have success within."</strong>
+    💡 <strong>"I am always doing what I cannot do yet, in order to learn how to do it."</strong>
     <br>
-    <sub>— ✍️ <strong>Robin Sharma</strong></sub>
+    <sub>— ✍️ <strong>Vincent van Gogh</strong></sub>
   </blockquote>
 
 </div>
