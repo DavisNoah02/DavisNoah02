@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Life must be a constant education; one must learn everything, from speaking to dying."</strong>
+    💡 <strong>"The ability to observe without evaluating is the highest form of intelligence."</strong>
     <br>
-    <sub>— ✍️ <strong>Gustave Flaubert</strong></sub>
+    <sub>— ✍️ <strong>Jiddu Krishnamurti</strong></sub>
   </blockquote>
 
 </div>
