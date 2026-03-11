@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"A good character is the best tombstone. Carve your name on hearts, not on marble."</strong>
+    💡 <strong>"Art, like morality, consists of drawing the line somewhere."</strong>
     <br>
-    <sub>— ✍️ <strong>Charles Spurgeon</strong></sub>
+    <sub>— ✍️ <strong>Gilbert Chesterton</strong></sub>
   </blockquote>
 
 </div>
