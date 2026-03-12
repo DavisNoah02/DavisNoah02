@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Life is ten percent what you experience and ninety percent how you respond to it."</strong>
+    💡 <strong>"Deeds will not be less valiant because they are upraised."</strong>
     <br>
-    <sub>— ✍️ <strong>Unknown</strong></sub>
+    <sub>— ✍️ <strong>J.R.R. Tolkien</strong></sub>
   </blockquote>
 
 </div>
