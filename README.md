@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities."</strong>
+    💡 <strong>"Giving is living. If you stop wanting to give, there's nothing more to live for."</strong>
     <br>
-    <sub>— ✍️ <strong>Josh Waitzkin</strong></sub>
+    <sub>— ✍️ <strong>Audrey Hepburn</strong></sub>
   </blockquote>
 
 </div>
