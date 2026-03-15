@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"A gentleman is one who puts more into the world than he takes out."</strong>
+    💡 <strong>"The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."</strong>
     <br>
-    <sub>— ✍️ <strong>George Bernard Shaw</strong></sub>
+    <sub>— ✍️ <strong>Josh Waitzkin</strong></sub>
   </blockquote>
 
 </div>
