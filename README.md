@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"People think about what they don't want and attract more of the same."</strong>
+    💡 <strong>"If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success."</strong>
     <br>
-    <sub>— ✍️ <strong>Unknown</strong></sub>
+    <sub>— ✍️ <strong>Mark Manson</strong></sub>
   </blockquote>
 
 </div>
