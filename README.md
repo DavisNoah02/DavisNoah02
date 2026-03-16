@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Life is ours to be spent, not to be saved. "</strong>
+    💡 <strong>"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. "</strong>
     <br>
-    <sub>— ✍️ <strong>D. H. Lawrence</strong></sub>
+    <sub>— ✍️ <strong>Orison Swett Marden</strong></sub>
   </blockquote>
 
 </div>
