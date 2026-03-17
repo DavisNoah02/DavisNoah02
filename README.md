@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"In order for you to be the BEST you can be for others, first you must be BEST for yourself."</strong>
+    💡 <strong>"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts."</strong>
     <br>
-    <sub>— ✍️ <strong>Jeffrey Gitomer</strong></sub>
+    <sub>— ✍️ <strong>George Bernard Shaw</strong></sub>
   </blockquote>
 
 </div>
