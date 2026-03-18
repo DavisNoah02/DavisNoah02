@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Fear not the path of Truth for the lack of People walking on it."</strong>
+    💡 <strong>"The first step is to establish that something is possible; then probability will occur."</strong>
     <br>
-    <sub>— ✍️ <strong>Robert F. Kennedy</strong></sub>
+    <sub>— ✍️ <strong>Elon Musk</strong></sub>
   </blockquote>
 
 </div>
