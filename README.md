@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Better to have, and not need, than to need, and not have."</strong>
+    💡 <strong>"Thinking is the hardest work there is, which is probably the reason why so few engage in it."</strong>
     <br>
-    <sub>— ✍️ <strong>Franz Kafka</strong></sub>
+    <sub>— ✍️ <strong>Henry Ford</strong></sub>
   </blockquote>
 
 </div>
