@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become."</strong>
+    💡 <strong>"Talk to someone about themselves and they'll listen for hours."</strong>
     <br>
-    <sub>— ✍️ <strong>Heraclitus</strong></sub>
+    <sub>— ✍️ <strong>Dale Carnegie</strong></sub>
   </blockquote>
 
 </div>
