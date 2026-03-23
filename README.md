@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Everyone thinks of changing the world, but no one thinks of changing himself."</strong>
+    💡 <strong>"We have no more right to consume happiness without producing it than to consume wealth without producing it."</strong>
     <br>
-    <sub>— ✍️ <strong>Leo Tolstoy</strong></sub>
+    <sub>— ✍️ <strong>George Bernard Shaw</strong></sub>
   </blockquote>
 
 </div>
