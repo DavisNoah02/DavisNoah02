@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Even the finest sword plunged into salt water will eventually rust."</strong>
+    💡 <strong>"Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it."</strong>
     <br>
-    <sub>— ✍️ <strong>Sun Tzu</strong></sub>
+    <sub>— ✍️ <strong>Gary Keller</strong></sub>
   </blockquote>
 
 </div>
