@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It's OK to have your eggs in one basket as long as you control what happens to that basket."</strong>
+    💡 <strong>"Numbing the pain for a while will only make it worse when you finally feel it."</strong>
     <br>
-    <sub>— ✍️ <strong>Elon Musk</strong></sub>
+    <sub>— ✍️ <strong>Albus Dumbledore</strong></sub>
   </blockquote>
 
 </div>
