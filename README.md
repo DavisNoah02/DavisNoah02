@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes."</strong>
+    💡 <strong>"Remember, today is the tomorrow you worried about yesterday."</strong>
     <br>
-    <sub>— ✍️ <strong>A.A. Milne</strong></sub>
+    <sub>— ✍️ <strong>Dale Carnegie</strong></sub>
   </blockquote>
 
 </div>
