@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"People who bite the hand that feeds them usually lick the boot that kicks them."</strong>
+    💡 <strong>"It is better to light a single candle than to curse the darkness."</strong>
     <br>
-    <sub>— ✍️ <strong>Eric Hoffer</strong></sub>
+    <sub>— ✍️ <strong>Eleanor Roosevelt</strong></sub>
   </blockquote>
 
 </div>
