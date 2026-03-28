@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Generosity is giving more than you can, and pride is taking less than you need."</strong>
+    💡 <strong>"The whole is greater than the sum of its parts."</strong>
     <br>
-    <sub>— ✍️ <strong>Kahlil Gibran</strong></sub>
+    <sub>— ✍️ <strong>Aristotle</strong></sub>
   </blockquote>
 
 </div>
