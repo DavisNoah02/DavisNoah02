@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. "</strong>
+    💡 <strong>"The strength of a wall is neither greater nor less than the courage of the men who defend it. "</strong>
     <br>
-    <sub>— ✍️ <strong>Charles Swindoll</strong></sub>
+    <sub>— ✍️ <strong>Genghis Khan</strong></sub>
   </blockquote>
 
 </div>
