@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."</strong>
+    💡 <strong>"Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything."</strong>
     <br>
-    <sub>— ✍️ <strong>Roy T. Bennett</strong></sub>
+    <sub>— ✍️ <strong>Shunryu Suzuki</strong></sub>
   </blockquote>
 
 </div>
