@@ -204,7 +204,7 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The primary point of this existence is to live, and all living things move and grow."</strong>
+    💡 <strong>"In nature there is no alienation. Everything belongs."</strong>
     <br>
     <sub>— ✍️ <strong>Ming-Dao Deng</strong></sub>
   </blockquote>
