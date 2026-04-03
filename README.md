@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The pursuit of mastery bears gifts. "</strong>
+    💡 <strong>"It ain't where you start in life, it's where you end up, and what you did along the way."</strong>
     <br>
-    <sub>— ✍️ <strong>Gary Keller</strong></sub>
+    <sub>— ✍️ <strong>Colin Powell</strong></sub>
   </blockquote>
 
 </div>
