@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"People think you're crazy if you talk about things they don't understand."</strong>
+    💡 <strong>"Well done is better than well said."</strong>
     <br>
-    <sub>— ✍️ <strong>Elvis Presley</strong></sub>
+    <sub>— ✍️ <strong>Benjamin Franklin</strong></sub>
   </blockquote>
 
 </div>
