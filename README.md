@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You are the only problem you will ever have and you are the only solution."</strong>
+    💡 <strong>"In the End, we will remember not the words of our enemies, but the silence of our friends."</strong>
     <br>
-    <sub>— ✍️ <strong>Bob Proctor</strong></sub>
+    <sub>— ✍️ <strong>Martin Luther King, Jr.</strong></sub>
   </blockquote>
 
 </div>
