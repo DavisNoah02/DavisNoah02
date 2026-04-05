@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Every poem should remind the reader that they are going to die."</strong>
+    💡 <strong>"Don't spend major time on minor things."</strong>
     <br>
-    <sub>— ✍️ <strong>Edgar Allan Poe</strong></sub>
+    <sub>— ✍️ <strong>Jim Rohn</strong></sub>
   </blockquote>
 
 </div>
