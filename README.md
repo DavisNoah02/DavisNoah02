@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Do not go where the path may lead, go instead where there is no path and leave a trail."</strong>
+    💡 <strong>"Do good by stealth, and blush to find it fame."</strong>
     <br>
-    <sub>— ✍️ <strong>Ralph Waldo Emerson</strong></sub>
+    <sub>— ✍️ <strong>Alexander Pope</strong></sub>
   </blockquote>
 
 </div>
