@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Decide upon your major definite purpose in life and then organize all your activities around it."</strong>
+    💡 <strong>"What we know is a drop, what we don't know is an ocean. "</strong>
     <br>
-    <sub>— ✍️ <strong>Brian Tracy</strong></sub>
+    <sub>— ✍️ <strong>Isaac Newton</strong></sub>
   </blockquote>
 
 </div>
