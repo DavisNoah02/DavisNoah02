@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail."</strong>
+    💡 <strong>"The smallest act of kindness is worth more than the greatest intention. "</strong>
     <br>
-    <sub>— ✍️ <strong>Arnold Schwarzenegger</strong></sub>
+    <sub>— ✍️ <strong>Kahlil Gibran</strong></sub>
   </blockquote>
 
 </div>
