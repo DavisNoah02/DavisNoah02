@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Everything great that has ever happened to humanity has begun as a single thought in someone's mind."</strong>
+    💡 <strong>"No one can hurt you without your consent."</strong>
     <br>
-    <sub>— ✍️ <strong>Yanni</strong></sub>
+    <sub>— ✍️ <strong>Eleanor Roosevelt</strong></sub>
   </blockquote>
 
 </div>
