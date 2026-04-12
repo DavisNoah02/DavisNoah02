@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."</strong>
+    💡 <strong>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</strong>
     <br>
-    <sub>— ✍️ <strong>Joan Rivers</strong></sub>
+    <sub>— ✍️ <strong>Aristophanes</strong></sub>
   </blockquote>
 
 </div>
