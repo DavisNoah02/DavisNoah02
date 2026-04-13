@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"What would life be if we had no courage to attempt anything? "</strong>
+    💡 <strong>"All has not been said and never will be."</strong>
     <br>
-    <sub>— ✍️ <strong>Vincent van Gogh</strong></sub>
+    <sub>— ✍️ <strong>Samuel Beckett</strong></sub>
   </blockquote>
 
 </div>
