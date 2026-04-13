@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now."</strong>
+    💡 <strong>"For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter."</strong>
     <br>
-    <sub>— ✍️ <strong>Ralph Marston</strong></sub>
+    <sub>— ✍️ <strong>Celestine Chua</strong></sub>
   </blockquote>
 
 </div>
