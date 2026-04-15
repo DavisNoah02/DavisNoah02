@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Guilt is perhaps the most painful companion of death."</strong>
+    💡 <strong>"Weeds are flowers too, once you get to know them."</strong>
     <br>
-    <sub>— ✍️ <strong>Coco Chanel</strong></sub>
+    <sub>— ✍️ <strong>A.A. Milne</strong></sub>
   </blockquote>
 
 </div>
