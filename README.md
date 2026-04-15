@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win."</strong>
+    💡 <strong>"The only real security that a man can have in this world is a reserve of knowledge, experience and ability. "</strong>
     <br>
-    <sub>— ✍️ <strong>Zig Ziglar</strong></sub>
+    <sub>— ✍️ <strong>Henry Ford</strong></sub>
   </blockquote>
 
 </div>
