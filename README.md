@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"All life is a manifestation of the spirit, the manifestation of love."</strong>
+    💡 <strong>"Sorrow is how we learn to love."</strong>
     <br>
-    <sub>— ✍️ <strong>Morihei Ueshiba</strong></sub>
+    <sub>— ✍️ <strong>Rita Mae Brown</strong></sub>
   </blockquote>
 
 </div>
