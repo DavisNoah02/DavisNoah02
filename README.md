@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The less you open your heart to others, the more your heart suffers."</strong>
+    💡 <strong>"It is not how much we have, but how much we enjoy, that makes happiness."</strong>
     <br>
-    <sub>— ✍️ <strong>Deepak Chopra</strong></sub>
+    <sub>— ✍️ <strong>Charles Spurgeon</strong></sub>
   </blockquote>
 
 </div>
