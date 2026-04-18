@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Throw me to the wolves and I will return leading the pack. "</strong>
+    💡 <strong>"All know that the drop merges into the ocean, but few know that the ocean merges into the drop."</strong>
     <br>
-    <sub>— ✍️ <strong>Seneca</strong></sub>
+    <sub>— ✍️ <strong>Kabir</strong></sub>
   </blockquote>
 
 </div>
