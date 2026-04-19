@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better."</strong>
+    💡 <strong>"You have power over your mind - not outside events. Realize this, and you will find strength."</strong>
     <br>
-    <sub>— ✍️ <strong>Spencer Johnson</strong></sub>
+    <sub>— ✍️ <strong>Marcus Aurelius</strong></sub>
   </blockquote>
 
 </div>
