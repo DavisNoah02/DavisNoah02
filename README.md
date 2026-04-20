@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Don't let what you cannot do interfere with what you can do."</strong>
+    💡 <strong>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."</strong>
     <br>
-    <sub>— ✍️ <strong>John Wooden</strong></sub>
+    <sub>— ✍️ <strong>Colin Powell</strong></sub>
   </blockquote>
 
 </div>
