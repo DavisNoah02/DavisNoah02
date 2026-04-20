@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in."</strong>
+    💡 <strong>"I can think of nothing less pleasurable than a life devoted to pleasure."</strong>
     <br>
-    <sub>— ✍️ <strong>Virginia Woolf</strong></sub>
+    <sub>— ✍️ <strong>John D. Rockefeller</strong></sub>
   </blockquote>
 
 </div>
