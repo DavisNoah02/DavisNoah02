@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The friendship that can cease has never been real. "</strong>
+    💡 <strong>"It is best to begin at the beginning."</strong>
     <br>
-    <sub>— ✍️ <strong>St. Jerome</strong></sub>
+    <sub>— ✍️ <strong>Amelia Earhart</strong></sub>
   </blockquote>
 
 </div>
