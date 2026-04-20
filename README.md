@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"There is no one giant step that does it. It's a lot of little steps."</strong>
+    💡 <strong>"It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has."</strong>
     <br>
-    <sub>— ✍️ <strong>Peter A. Cohen</strong></sub>
+    <sub>— ✍️ <strong>Henry Ward Beecher</strong></sub>
   </blockquote>
 
 </div>
