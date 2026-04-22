@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"One small positive thought can change your whole day."</strong>
+    💡 <strong>"When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it."</strong>
     <br>
-    <sub>— ✍️ <strong>Zig Ziglar</strong></sub>
+    <sub>— ✍️ <strong>Josh Waitzkin</strong></sub>
   </blockquote>
 
 </div>
