@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Disobedience is the true foundation of liberty. The obedient must be slaves."</strong>
+    💡 <strong>"Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!"</strong>
     <br>
-    <sub>— ✍️ <strong>Henry David Thoreau</strong></sub>
+    <sub>— ✍️ <strong>Alfred Adler</strong></sub>
   </blockquote>
 
 </div>
