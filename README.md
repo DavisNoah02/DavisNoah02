@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The best way to find yourself is to lose yourself in the service of others."</strong>
+    💡 <strong>"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."</strong>
     <br>
-    <sub>— ✍️ <strong>Mahatma Gandhi</strong></sub>
+    <sub>— ✍️ <strong>D. H. Lawrence</strong></sub>
   </blockquote>
 
 </div>
