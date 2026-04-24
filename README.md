@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Whatever your heart clings to and confides in, that is really your God."</strong>
+    💡 <strong>"Failing is another stepping stone to greatness."</strong>
     <br>
-    <sub>— ✍️ <strong>Martin Luther</strong></sub>
+    <sub>— ✍️ <strong>Oprah Winfrey</strong></sub>
   </blockquote>
 
 </div>
