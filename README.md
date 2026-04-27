@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."</strong>
+    💡 <strong>"Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. "</strong>
     <br>
-    <sub>— ✍️ <strong>Winston Churchill</strong></sub>
+    <sub>— ✍️ <strong>Miguel de Cervantes</strong></sub>
   </blockquote>
 
 </div>
