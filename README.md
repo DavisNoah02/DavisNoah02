@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Great acts are made up of small deeds."</strong>
+    💡 <strong>"Today will never happen again. Don't waste it with a false start or no start at all."</strong>
     <br>
-    <sub>— ✍️ <strong>Lao Tzu</strong></sub>
+    <sub>— ✍️ <strong>Og Mandino</strong></sub>
   </blockquote>
 
 </div>
