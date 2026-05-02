@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"I know of only one duty, and that is to love."</strong>
+    💡 <strong>"People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily."</strong>
     <br>
-    <sub>— ✍️ <strong>George Bernard Shaw</strong></sub>
+    <sub>— ✍️ <strong>Zig Ziglar</strong></sub>
   </blockquote>
 
 </div>
