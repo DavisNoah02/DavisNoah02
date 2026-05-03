@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Success is good at any age, but the sooner you find it, the longer you will enjoy it."</strong>
+    💡 <strong>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</strong>
     <br>
-    <sub>— ✍️ <strong>Napoleon Hill</strong></sub>
+    <sub>— ✍️ <strong>James Allen</strong></sub>
   </blockquote>
 
 </div>
