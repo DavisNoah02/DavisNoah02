@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It is far easier to start something than it is to finish it."</strong>
+    💡 <strong>"Sometimes you have to lose all you have to find out who you truly are."</strong>
     <br>
-    <sub>— ✍️ <strong>Amelia Earhart</strong></sub>
+    <sub>— ✍️ <strong>Roy T. Bennett</strong></sub>
   </blockquote>
 
 </div>
