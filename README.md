@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have."</strong>
+    💡 <strong>"We learn to walk by falling down. If we never fell down, we would never walk."</strong>
     <br>
-    <sub>— ✍️ <strong>Norman Vincent Peale</strong></sub>
+    <sub>— ✍️ <strong>Robert Kiyosaki</strong></sub>
   </blockquote>
 
 </div>
