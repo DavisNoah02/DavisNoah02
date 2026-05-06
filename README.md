@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Eighty percent of success is showing up. "</strong>
+    💡 <strong>"Tension is who you think you should be. Relaxation is who you are."</strong>
     <br>
-    <sub>— ✍️ <strong>Woody Allen</strong></sub>
+    <sub>— ✍️ <strong>Chinese Proverb</strong></sub>
   </blockquote>
 
 </div>
