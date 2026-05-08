@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"To earn more you must learn more."</strong>
+    💡 <strong>"Every moment is a fresh beginning."</strong>
     <br>
-    <sub>— ✍️ <strong>Brian Tracy</strong></sub>
+    <sub>— ✍️ <strong>T.S. Eliot</strong></sub>
   </blockquote>
 
 </div>
