@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The one who boasts does so only out of a feeling of inferiority."</strong>
+    💡 <strong>"There is only one thing that makes a dream impossible to achieve: the fear of failure."</strong>
     <br>
-    <sub>— ✍️ <strong>Alfred Adler</strong></sub>
+    <sub>— ✍️ <strong>Paulo Coelho</strong></sub>
   </blockquote>
 
 </div>
