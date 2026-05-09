@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Death walks faster than the wind and never returns what he has taken."</strong>
+    💡 <strong>"Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence."</strong>
     <br>
-    <sub>— ✍️ <strong>Hans Christian Andersen</strong></sub>
+    <sub>— ✍️ <strong>Sydney Smith</strong></sub>
   </blockquote>
 
 </div>
