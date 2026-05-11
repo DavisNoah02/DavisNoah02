@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Don't concern yourself with the money. Be of service. Build. Work. Dream. Create."</strong>
+    💡 <strong>"If I can stop one heart from breaking, I shall not live in vain."</strong>
     <br>
-    <sub>— ✍️ <strong>Earl Nightingale</strong></sub>
+    <sub>— ✍️ <strong>Emily Dickinson</strong></sub>
   </blockquote>
 
 </div>
