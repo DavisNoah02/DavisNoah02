@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose."</strong>
+    💡 <strong>"If I cannot do great things. I can do small things in a great way."</strong>
     <br>
-    <sub>— ✍️ <strong>Elbert Hubbard</strong></sub>
+    <sub>— ✍️ <strong>Martin Luther King, Jr.</strong></sub>
   </blockquote>
 
 </div>
