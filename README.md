@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."</strong>
+    💡 <strong>"The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."</strong>
     <br>
-    <sub>— ✍️ <strong>Paulo Coelho</strong></sub>
+    <sub>— ✍️ <strong>Bob Marley</strong></sub>
   </blockquote>
 
 </div>
