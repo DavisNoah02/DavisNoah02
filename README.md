@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."</strong>
+    💡 <strong>"Genius is one percent inspiration and ninety-nine percent perspiration."</strong>
     <br>
-    <sub>— ✍️ <strong>Bob Marley</strong></sub>
+    <sub>— ✍️ <strong>Thomas Edison</strong></sub>
   </blockquote>
 
 </div>
