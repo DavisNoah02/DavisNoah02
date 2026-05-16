@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"It all depends on what you choose to believe."</strong>
+    💡 <strong>"Becoming a great leader doesn't mean being perfect. it means living with your imperfections."</strong>
     <br>
-    <sub>— ✍️ <strong>Spencer Johnson</strong></sub>
+    <sub>— ✍️ <strong>Lolly Daskal</strong></sub>
   </blockquote>
 
 </div>
