@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Be happy now, without reason - or you never will be at all."</strong>
+    💡 <strong>"Some men see things as they are and ask why. Others dream things that never were and ask why not."</strong>
     <br>
-    <sub>— ✍️ <strong>Dan Millman</strong></sub>
+    <sub>— ✍️ <strong>George Bernard Shaw</strong></sub>
   </blockquote>
 
 </div>
