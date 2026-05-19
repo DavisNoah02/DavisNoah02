@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit."</strong>
+    💡 <strong>"Rivers know this: there is no hurry. We shall get there some day."</strong>
     <br>
-    <sub>— ✍️ <strong>Robin Sharma</strong></sub>
+    <sub>— ✍️ <strong>A.A. Milne</strong></sub>
   </blockquote>
 
 </div>
