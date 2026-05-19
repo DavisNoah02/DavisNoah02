@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Every limit is a beginning as well as an ending."</strong>
+    💡 <strong>"Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver."</strong>
     <br>
-    <sub>— ✍️ <strong>George Eliot</strong></sub>
+    <sub>— ✍️ <strong>Ayn Rand</strong></sub>
   </blockquote>
 
 </div>
