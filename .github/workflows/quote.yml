@@ -12,7 +12,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Fetch Random Quote from Quotable API
+      - name: Fetch Random Quote from ZenQuotes API
         run: |
           # Retry logic with timeout protection
           QUOTE=""
@@ -38,7 +38,7 @@ jobs:
             
             RESPONSE=$(curl -s --max-time 10 --connect-timeout 5 \
               -w "\n%{http_code}" \
-              "https://api.quotable.io/random" 2>/dev/null)
+              "https://api.zenquotes.io/api/random" 2>/dev/null)
             
             HTTP_CODE=$(echo "$RESPONSE" | tail -n1)
             BODY=$(echo "$RESPONSE" | head -n-1)
@@ -46,8 +46,10 @@ jobs:
             echo "📡 HTTP Status: $HTTP_CODE"
             
             if [ "$HTTP_CODE" = "200" ] && [ -n "$BODY" ]; then
-              QUOTE=$(echo "$BODY" | jq -r '.content // empty' 2>/dev/null)
-              AUTHOR=$(echo "$BODY" | jq -r '.author // empty' 2>/dev/null)
+              QUOTE=$(echo "$BODY" | jq -r '.[0].q // empty' 2>/dev/null)
+              AUTHOR=$(echo "$BODY" | jq -r '.[0].a // empty' 2>/dev/null)
+              # Remove the leading dash from author if present
+              AUTHOR=$(echo "$AUTHOR" | sed 's/^- //')
               
               if [ -n "$QUOTE" ] && [ -n "$AUTHOR" ]; then
                 echo "✅ Successfully fetched quote from API"
