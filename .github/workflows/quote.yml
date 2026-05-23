@@ -12,11 +12,71 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Fetch Random Quote from ZenQuotes API
+      - name: Fetch Random Quote from Quotable API
         run: |
-          RESPONSE=$(curl -s "https://zenquotes.io/api/random")
-          QUOTE=$(echo $RESPONSE | jq -r '.[0].q')
-          AUTHOR=$(echo $RESPONSE | jq -r '.[0].a')
+          # Retry logic with timeout protection
+          QUOTE=""
+          AUTHOR=""
+          MAX_RETRIES=3
+          RETRY_COUNT=0
+          FALLBACK_QUOTES=(
+            "The only way to do great work is to love what you do.|Steve Jobs"
+            "Code is poetry written in a language computers understand.|Anonymous Developer"
+            "First, solve the problem. Then, write the code.|John Johnson"
+            "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.|Martin Fowler"
+            "The best way to predict the future is to invent it.|Alan Kay"
+            "Make it work, make it right, make it fast.|Kent Beck"
+            "Perfect is the enemy of good.|Voltaire"
+            "Talk is cheap. Show me the code.|Linus Torvalds"
+            "Simplicity is the ultimate sophistication.|Leonardo da Vinci"
+            "You can't connect the dots looking forward.|Steve Jobs"
+          )
+          
+          # Try to fetch from API with retry logic
+          while [ $RETRY_COUNT -lt $MAX_RETRIES ] && [ -z "$QUOTE" ]; do
+            echo "🔄 Attempt $((RETRY_COUNT + 1))/$MAX_RETRIES to fetch quote..."
+            
+            RESPONSE=$(curl -s --max-time 10 --connect-timeout 5 \
+              -w "\n%{http_code}" \
+              "https://api.quotable.io/random" 2>/dev/null)
+            
+            HTTP_CODE=$(echo "$RESPONSE" | tail -n1)
+            BODY=$(echo "$RESPONSE" | head -n-1)
+            
+            echo "📡 HTTP Status: $HTTP_CODE"
+            
+            if [ "$HTTP_CODE" = "200" ] && [ -n "$BODY" ]; then
+              QUOTE=$(echo "$BODY" | jq -r '.content // empty' 2>/dev/null)
+              AUTHOR=$(echo "$BODY" | jq -r '.author // empty' 2>/dev/null)
+              
+              if [ -n "$QUOTE" ] && [ -n "$AUTHOR" ]; then
+                echo "✅ Successfully fetched quote from API"
+                break
+              fi
+            fi
+            
+            RETRY_COUNT=$((RETRY_COUNT + 1))
+            if [ $RETRY_COUNT -lt $MAX_RETRIES ]; then
+              echo "⏳ Retry in 3 seconds..."
+              sleep 3
+            fi
+          done
+          
+          # Use fallback if API fails
+          if [ -z "$QUOTE" ] || [ -z "$AUTHOR" ]; then
+            echo "⚠️ API unreachable after $MAX_RETRIES retries. Using fallback quote."
+            # Select random fallback quote
+            RANDOM_INDEX=$((RANDOM % ${#FALLBACK_QUOTES[@]}))
+            FALLBACK="${FALLBACK_QUOTES[$RANDOM_INDEX]}"
+            QUOTE=$(echo "$FALLBACK" | cut -d'|' -f1)
+            AUTHOR=$(echo "$FALLBACK" | cut -d'|' -f2)
+            echo "🎲 Fallback Quote: $QUOTE - $AUTHOR"
+          fi
+          
+          echo "📝 Final Quote: $QUOTE"
+          echo "✍️ Author: $AUTHOR"
+          
+          # Escape special characters for safe shell execution
           ESCAPED_QUOTE=$(echo "$QUOTE" | sed 's/"/\\"/g')
           ESCAPED_AUTHOR=$(echo "$AUTHOR" | sed 's/"/\\"/g')
           echo "QUOTE=$ESCAPED_QUOTE" >> $GITHUB_ENV
