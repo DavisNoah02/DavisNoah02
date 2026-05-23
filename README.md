@@ -204,9 +204,9 @@
 <div align="center">
 
   <blockquote style="background-color:#1e1e1e; color:#f8f8f2; padding:15px; border-radius:10px; font-size:16px; width:80%; margin:auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-    💡 <strong>"Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has."</strong>
+    💡 <strong>"To be of use to the world is the only way to be happy."</strong>
     <br>
-    <sub>— ✍️ <strong>Margaret Mead</strong></sub>
+    <sub>— ✍️ <strong>Hans Christian Andersen</strong></sub>
   </blockquote>
 
 </div>
