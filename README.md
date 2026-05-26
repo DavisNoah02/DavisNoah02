@@ -26,7 +26,7 @@
 
 <h2>🎯 What i Do Best (Full-stack Developer) </h2>
  
-- Building end-to-end web applications — from database to UI.
+- Building end-to-end web applications.
 - Frontend: Responsive, interactive UIs with React, Vue, Next.js, and Nuxt.js.
 - Backend: Scalable APIs and server-side logic.
 - SaaS Platforms: Creating complete business solutions with modern frameworks and APIs.
