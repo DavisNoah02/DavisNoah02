@@ -1,5 +1,5 @@
 
-<h1>Hi there👋, I'm  noa_dave - Web Dev | SaaS Builder | DevOps.</h1>
+<h1>Hi there👋, I'm  Noah - Web Dev | DevOps Engineer.</h1>
 
 <p align="right"> 
  <img src="https://komarev.com/ghpvc/?username=noa-dave&style=flat-square&color=blueviolet" alt="Profile Views"/>
@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Web+Dev+In+Progress+.+.+.;Frontend+Dev+%26+AI+Specialist;Saas+Builder&center=true&width=600&height=50&color=00c896&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer+In+Progress+.+.+.;Frontend+Dev+%26+Automation+Engineer;Fullstack+Web+Dev&center=true&width=600&height=50&color=00c896&vCenter=true&size=20" />
 </p>
 
  ``Building the AI-Powered Web 🌐 | Architecting AI Agents 🤖 | Scaling Digital Products with Saas Tools 🛠️``
@@ -24,12 +24,12 @@
 
 <br>
 
-<h2>🎯 What i Do Best</h2>
-
-- Frontend Development: Building responsive, interactive UIs with React, Vue, Next.js, and Nuxt.js.
-
-- SaaS Platforms: Creating scalable business solutions with modern frameworks and APIs.
-
+<h2>🎯 What i Do Best (Full-stack Developer) </h2>
+ 
+- Building end-to-end web applications — from database to UI.
+- Frontend: Responsive, interactive UIs with React, Vue, Next.js, and Nuxt.js.
+- Backend: Scalable APIs and server-side logic.
+- SaaS Platforms: Creating complete business solutions with modern frameworks and APIs.
 
 <br>
 <img src="https://img.shields.io/badge/Fun%20Fact-Dark%20Mode%20isn't%20a%20feature%3B%20it's%20a%20lifestyle-blue?style=for-the-badge" alt="Fun Fact" width="450"/>
@@ -105,35 +105,8 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 <hr/>
 
-<h2>
-   🌏 Connect with me  
-</h2>
-<p align="center">
-  <a href="https://codepen.io/Noah-Munene" title="CodePen">
-    <img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="30"/>
-  </a>
-  <a href="https://noadave.hashnode.dev/" title="Hashnode">
-    <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="30"/>
-  </a>
-  <a href="https://medium.com/@noahdavemunene" title="Medium">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30"/>
-  </a>
-  <!-- <a href="https://www.instagram.com/t3ch.savvy/" title="Instagram">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
-  </a>
-  <a href="https://www.tiktok.com/@_noa.dave_" title="TikTok">
-    <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="30"/>
-  </a>
-  <a href="https://www.linkedin.com/in/noa-dave-36567b356/" title="LinkedIn">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-  </a> -->
-  <a href="https://www.facebook.com/noahdave254" title="Facebook">
-  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
-</a>
-</p>
 
-
-## 📈 My GitHub Activity Stats:  
+## 📈 GitHub Activity Stats:  
 <!-- <stats and top lang/> -->
  <div align="center">
     <table>
